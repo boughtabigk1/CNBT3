@@ -1,0 +1,81 @@
+~1oo~
+18   Urshifu-Single-Strike
+15   Dragonite
+13   Glimmora
+11   Lokix
+10   Arcanine
+6   Qwilfish
+6   Palossand
+1   Cetoddle
+
+~yerdunc~
+17   Sneasler
+16   Palafin
+14   Skeledirge
+11   Hippowdon
+9   Hatterene
+6   Farigiraf
+4   Typhlosion
+3   Frosmoth
+
+~bird~
+17   Baxcalibur
+15   Cinderace
+13   Gothitelle
+11   Cresselia
+11   Galarian Moltres
+7   Tsareena
+5   Froslass
+1   Alolan Grimer
+
+~tricking~
+17   Roaring Moon
+16   Iron Moth
+13   Lycanroc-Dusk
+12   Alolan Muk
+10   Armarouge
+7   Polteageist
+3   Dachsbun
+2   Clawitzer
+
+~xing~
+17   Annihilape
+17   Great Tusk
+13   Thundurus-Therian
+11   Dugtrio
+8   Overqwil
+7   Hariyama
+5   Avalugg
+2   Tropius
+
+~theodore~
+18   Iron Bundle
+15   Ursaluna
+12   Pawmot
+12   Weavile
+10   Donphan
+6   Alolan Persian
+5   Bruxish
+2   Oinkologne
+
+~nick~
+17   Landorus-Incarnate
+15   Ting-Lu
+14   Heatran
+13   Scizor
+9   Toxtricity
+7   Zoroark
+4   Hisuian Electrode
+1   Charcadet
+
+~tinybomby~
+18   Regieleki
+16   Urshifu-Rapid-Strike
+14   Zarude
+12   Azelf
+8   Alomomola
+7   Chansey
+3   Alolan Dugtrio
+2   Shelgon
+
+_________________________________
