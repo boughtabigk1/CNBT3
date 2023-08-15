@@ -6,9 +6,13 @@ GROUP_SIZE = 8
 OUTPUT_PATH = 'output/teams.txt'
 PLAYER_INPUT = 'params/players.txt'
 TIER_INPUT = 'params/tierlist.txt'
+TYPE_INPUT = 'params/types.txt'
 TEAM_COMP_INPUT = 'params/brackets1.txt'
 # TEAM_COMP_INPUT = 'params/brackets2.txt'
 
+def clear_results(path: str):
+    with open(path, 'w') as file:
+        file.truncate(0)
 
 def parse_groups(group_size: int):
     groups = []
@@ -29,6 +33,7 @@ class Mon:
     def __init__(self, name: str, val: int):
         self.name = name
         self.val = val
+        self.tera_type = ""
 
 class Player:
     def __init__(self, name: str):
@@ -48,8 +53,8 @@ class Player:
       
     def get_rand(self):
         index = random.randint(0, len(self.mons))
-        return (index, self[index].val)
-        
+        return (index, self[index].val)      
+  
 class Bracket():
     def __init__(self, min: int, max: int, qty: int):
         self.min = min
@@ -60,15 +65,20 @@ class Draft():
     def __init__(self, players):
         self.__init_tiers__()
         self.__init_brackets__()
+        self.__init_types__()
         self.__init_players__(players)
         
     def __init_tiers__(self):
         self.tierlist = [[] for _ in range(MAX_TIER)]
-        pricelist = open(TIER_INPUT, 'r')
-        prices = pricelist.read().splitlines()
+        price_list = open(TIER_INPUT, 'r')
+        prices = price_list.read().splitlines()
         for price in prices:
             pair = price.split("\t")
             self.tierlist[int(pair[1])-1].append(pair[0])
+
+    def __init_types__(self):
+        type_list = open(TYPE_INPUT, 'r')
+        self.types = type_list.read().splitlines()
 
     def __init_brackets__(self):
         self.num_mons = 0
@@ -143,6 +153,11 @@ class Draft():
                 elif player.pts > TOTAL_BUDGET:
                     self.__downgrade1__(player_index)
         
+    def assign_teras(self):
+        for player_index in range(len(self.players)):
+            for mon_index in range(self.num_mons):
+                type = self.types[random.randint(0, len(self.types)-1)]
+                self.players[player_index].mons[mon_index].tera_type = type
     def sort_teams(self):
         for player in self.players:
             player.mons = sorted(player.mons, key=lambda mon: mon.val, reverse=True)
@@ -153,18 +168,17 @@ class Draft():
             print("~" + player.name + "~")
             for mon in player.mons:
                 sum += mon.val
-                print(str(mon.val) + "   " + mon.name)
+                print(str(mon.val) + "   " + mon.name + "   " + mon.tera_type)
             print("")
         print("_________________________________")    
     
+    
     def write_results(self, path: str):
-        with open(path, 'w') as file:
-            file.truncate(0)
         output = ""
         for player in self.players:
             output += "~" + player.name + "~\n"
             for mon in player.mons:
-                output += str(mon.val) + "   " + mon.name + '\n'
+                output += str(mon.val) + "   " + mon.name + "   " + mon.tera_type + "\n"
             output += "\n"
         output += "_________________________________\n"
         file_path = path  # Replace with your desired file path
@@ -172,11 +186,13 @@ class Draft():
             file.write(output) 
         
 def main(): 
+    clear_results(OUTPUT_PATH)
     groups = parse_groups(GROUP_SIZE)
     for group in groups:
         new_draft = Draft(group)
         new_draft.draft()
         new_draft.fix_draft()
+        new_draft.assign_teras()
         new_draft.sort_teams()
         new_draft.print_results()
         new_draft.write_results(OUTPUT_PATH)
