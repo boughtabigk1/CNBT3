@@ -1,15 +1,16 @@
 import random
+import sys
 
 TOTAL_BUDGET = 80
-MAX_TIER = 20
-GROUP_SIZE = 8
+MAX_TIER = 18
+GROUP_SIZE = 16
 OUTPUT_PATH = 'output/teams.txt'
 PLAYER_INPUT = 'params/players.txt'
 TIER_INPUT = 'params/tierlist.txt'
 TYPE_INPUT = 'params/types.txt'
 TEAM_COMP_INPUT = 'params/brackets1.txt'
 # TEAM_COMP_INPUT = 'params/brackets2.txt'
-
+                
 def clear_results(path: str):
     with open(path, 'w') as file:
         file.truncate(0)
@@ -54,6 +55,11 @@ class Player:
     def get_rand(self):
         index = random.randint(0, len(self.mons))
         return (index, self[index].val)      
+    
+    def __print_team__(self):
+        print(self.name + " team~ ")
+        for mon in self.mons:
+            print(str(mon.val) + "   " +  mon.name)
   
 class Bracket():
     def __init__(self, min: int, max: int, qty: int):
@@ -75,7 +81,7 @@ class Draft():
         for price in prices:
             pair = price.split("\t")
             self.tierlist[int(pair[1])-1].append(pair[0])
-
+            
     def __init_types__(self):
         type_list = open(TYPE_INPUT, 'r')
         self.types = type_list.read().splitlines()
@@ -99,12 +105,19 @@ class Draft():
         offset= 0
         direction = -1
         actual_value = target_value+(offset*direction)
-        while actual_value < 1 or actual_value > MAX_TIER or len(self.tierlist[target_value-1+(offset*direction)]) == 0:
+        under_min, over_max = False, False
+        while actual_value < 1 or actual_value > MAX_TIER or (len(self.tierlist[actual_value-1])) == 0:
             direction *= -1
             offset += 1 if direction > 0 else 0
             actual_value = target_value+(offset*direction)
+            if actual_value < 1:
+                under_min = True
+            if actual_value > MAX_TIER:
+                over_max = True
+            if under_min and over_max:
+                sys.exit("OUT OF MONS ERROR")
         len_tier = len(self.tierlist[actual_value-1])
-        pick_index = random.randint(0, len_tier-1)
+        pick_index = 0 if len_tier == 1 else random.randint(0, len_tier-1)
         pick_name = self.tierlist[actual_value-1].pop(pick_index)
         return Mon(pick_name, actual_value)
         
@@ -122,7 +135,8 @@ class Draft():
             mon_index = (mon_index - 1)%self.num_mons
         pick_value = self.players[player_index].mons[mon_index].val + 1
         pick = self.__get_mon__(pick_value)
-        self.players[player_index].replace(mon_index, pick)
+        old_mon = self.players[player_index].replace(mon_index, pick)
+        self.__unpick__(old_mon)
         
     def __downgrade1__(self, player_index):
         mon_index = random.randint(0, self.num_mons-1)
@@ -130,7 +144,8 @@ class Draft():
             mon_index = (mon_index + 1)%self.num_mons
         pick_value = self.players[player_index].mons[mon_index].val - 1
         pick = self.__get_mon__(pick_value)
-        self.players[player_index].replace(mon_index, pick)
+        old_mon = self.players[player_index].replace(mon_index, pick)
+        self.__unpick__(old_mon)
         
     def __get_bracket_for_round__(self):
         for bracket in self.brackets:
@@ -148,6 +163,7 @@ class Draft():
     def fix_draft(self):
         for player_index, player in enumerate(self.players):
             while player.pts != TOTAL_BUDGET:
+                player.__print_team__()
                 if player.pts < TOTAL_BUDGET:
                     self.__upgrade1__(player_index)
                 elif player.pts > TOTAL_BUDGET:
@@ -192,9 +208,9 @@ def main():
         new_draft = Draft(group)
         new_draft.draft()
         new_draft.fix_draft()
-        new_draft.assign_teras()
         new_draft.sort_teams()
-        new_draft.print_results()
+        new_draft.assign_teras()
+        # new_draft.print_results()
         new_draft.write_results(OUTPUT_PATH)
         
 if __name__ == "__main__":
