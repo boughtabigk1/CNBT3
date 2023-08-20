@@ -1,3000 +1,3000 @@
-~245~
-18   Spectrier   Dark
-13   Azumarill   Bug
-13   Hisuian Lilligant   Bug
-11   Pelipper   Grass
-10   Gastrodon   Fairy
-7   Rotom-Heat   Fighting
-7   Arboliva   Grass
-1   Buizel   Poison
-
-~223~
-17   Landorus-Incarnate   Rock
-16   Iron Moth   Dragon
-14   Skeledirge   Normal
-12   Weavile   Normal
-9   Hatterene   Bug
-6   Orthworm   Bug
-3   Ampharos   Bug
-3   Haunter   Water
-
-~14~
-17   Annihilape   Dragon
-15   Ursaluna   Rock
-13   Tyranitar   Ghost
-12   Grimmsnarl   Ghost
-10   Decidueye   Rock
-7   Hoopa   Electric
-3   Luxray   Fire
-3   Houndoom   Rock
-
-~113~
-18   Regieleki   Normal
-16   Landorus-Therian   Poison
-14   Heatran   Flying
-11   Hippowdon   Electric
-10   Sandy Shocks   Flying
-7   Vaporeon   Fire
-3   Basculin   Electric
-1   Arctibax   Rock
-
-~83~
-18   Iron Bundle   Water
-15   Iron Treads   Rock
-14   Slowking   Fairy
-12   Hisuian Goodra   Poison
-9   Inteleon   Normal
-7   Kilowattrel   Psychic
-4   Cryogonal   Ice
-1   Cacturne   Fighting
-
-~208~
-18   Urshifu-Single-Strike   Dragon
-14   Rotom-Wash   Ghost
-14   Hydreigon   Flying
-12   Pawmot   Psychic
-10   Arcanine   Psychic
-7   Tsareena   Electric
-3   Floatzel   Electric
-2   Falinks   Psychic
-
-~226~
-18   Chi-Yu   Poison
-15   Dragonite   Rock
-13   Scizor   Rock
-12   Garganacl   Fairy
-8   Overqwil   Ghost
-7   Hariyama   Dragon
-4   Hisuian Electrode   Dragon
-3   Frosmoth   Electric
-
-~283~
-17   Roaring Moon   Steel
-15   Meowscarada   Electric
-13   Gothitelle   Electric
-12   Alolan Muk   Ground
-10   Cetitan   Steel
-7   Scovillain   Fighting
-4   Ursaring   Grass
-2   Eiscue   Electric
-
-~104~
-16   Galarian Slowking   Poison
-15   Greninja   Dark
-14   Thundurus-Incarnate   Fire
-12   Slowbro   Fairy
-9   Paldean Tauros Blaze   Water
-8   Hisuian Braviary   Normal
-5   Rotom   Ground
-1   Carkol   Dragon
-
-~47~
-17   Garchomp   Steel
-15   Zapdos   Dark
-13   Thundurus-Therian   Water
-12   Krookodile   Normal
-8   Wo-Chien   Fighting
-7   Eelektross   Ghost
-4   Zangoose   Flying
-4   Flapple   Water
-
-~273~
-17   Great Tusk   Fairy
-15   Cinderace   Poison
-14   Gengar   Ice
-11   Haxorus   Fighting
-8   Hisuian Decidueye   Fairy
-7   Polteageist   Ground
-5   Sableye   Poison
-3   Lurantis   Flying
-
-~292~
-17   Sneasler   Bug
-15   Gholdengo   Water
-14   Corviknight   Dark
-11   Galarian Moltres   Dragon
-10   Toxapex   Ghost
-7   Cloyster   Ice
-4   Wyrdeer   Fairy
-2   Dolliv   Flying
-
-~277~
-16   Volcarona   Normal
-15   Mew   Rock
-14   Zarude   Ground
-13   Hoopa-Unbound   Steel
-8   Rotom-Mow   Psychic
-7   Zoroark   Fairy
-5   Sandaconda   Poison
-2   Lilligant   Ground
-
-~178~
-17   Baxcalibur   Normal
-14   Salamence   Rock
-14   Enamorus-Incarnate   Fairy
-13   Espathra   Rock
-9   Talonflame   Rock
-7   Gallade   Poison
-4   Bellibolt   Steel
-2   Naclstack   Dragon
-
-~263~
-16   Urshifu-Rapid-Strike   Electric
-14   Iron Hands   Dark
-14   Quaquaval   Bug
-13   Slither Wing   Fire
-9   Barraskewda   Steel
-7   Chansey   Bug
-5   Scyther   Electric
-2   Clawitzer   Fairy
-
-~146~
-16   Palafin   Steel
-14   Galarian Zapdos   Steel
-13   Glimmora   Fire
-12   Kleavor   Ice
-10   Gardevoir   Grass
-8   Diancie   Flying
-4   Coalossal   Bug
-3   Flareon   Water
-
-~242~
-18   Chi-Yu   Normal
-15   Ursaluna   Dark
-14   Corviknight   Fairy
-12   Garganacl   Rock
-10   Gastrodon   Electric
-7   Scovillain   Bug
-3   Dachsbun   Psychic
-1   Alolan Diglett   Electric
-
-~177~
-17   Annihilape   Electric
-16   Volcarona   Ice
-14   Galarian Zapdos   Dark
-12   Kingambit   Fairy
-9   Delphox   Ground
-6   Magneton   Dark
-4   Zangoose   Fighting
-2   Slaking   Grass
-
-~62~
-18   Regieleki   Steel
-15   Greninja   Bug
-14   Heatran   Rock
-11   Galarian Moltres   Steel
-10   Torkoal   Bug
-7   Polteageist   Ground
-4   Raichu   Dragon
-1   Arctibax   Flying
-
-~101~
-18   Iron Bundle   Normal
-16   Iron Moth   Bug
-13   Glimmora   Fighting
-12   Iron Jugulis   Normal
-7   Medicham   Steel
-7   Arboliva   Normal
-4   Beartic   Steel
-3   Houndoom   Fighting
-
-~189~
-17   Sneasler   Ghost
-16   Landorus-Therian   Dark
-13   Lycanroc-Dusk   Water
-12   Weavile   Ground
-8   Dragalge   Grass
-7   Flamigo   Ground
-4   Rotom-Fan   Rock
-3   Leafeon   Ice
-
-~102~
-17   Landorus-Incarnate   Electric
-15   Ting-Lu   Ghost
-13   Hoopa-Unbound   Water
-12   Grimmsnarl   Fighting
-8   Gyarados   Ghost
-7   Kilowattrel   Water
-4   Lycanroc-Midnight   Dark
-4   Skuntank   Ice
-
-~32~
-17   Roaring Moon   Rock
-15   Zapdos   Electric
-14   Enamorus-Incarnate   Ghost
-12   Kleavor   Fighting
-9   Heracross   Ice
-7   Chesnaught   Rock
-5   Bombirdier   Fire
-1   Charcadet   Fairy
-
-~235~
-18   Spectrier   Dragon
-15   Cinderace   Electric
-13   Scizor   Normal
-13   Azumarill   Ice
-8   Diancie   Grass
-6   Toxicroak   Poison
-5   Ditto   Fighting
-2   Oinkologne   Fairy
-
-~63~
-18   Urshifu-Single-Strike   Poison
-15   Gholdengo   Dragon
-14   Hydreigon   Psychic
-12   Enamorus-Therian   Poison
-8   Glastrier   Water
-7   Chansey   Psychic
-4   Wyrdeer   Dark
-2   Murkrow   Psychic
-
-~270~
-17   Great Tusk   Psychic
-15   Mew   Poison
-14   Iron Hands   Rock
-11   Klefki   Psychic
-9   Toxtricity   Fairy
-7   Gallade   Steel
-4   Typhlosion   Water
-3   Floatzel   Grass
-
-~6~
-17   Baxcalibur   Ice
-15   Iron Treads   Steel
-14   Slowking   Psychic
-11   Hisuian Samurott   Ground
-10   Amoonguss   Grass
-7   Rotom-Heat   Normal
-5   Samurott   Psychic
-1   Carbink   Ice
-
-~70~
-17   Garchomp   Flying
-14   Skeledirge   Ground
-14   Thundurus-Incarnate   Fairy
-12   Krookodile   Flying
-8   Overqwil   Fire
-7   Passimian   Psychic
-5   Scyther   Grass
-3   Luxray   Rock
-
-~164~
-16   Tornadus-Therian   Ice
-15   Meowscarada   Ice
-13   Hisuian Lilligant   Flying
-13   Espathra   Grass
-8   Alomomola   Rock
-6   Lycanroc-Midday   Flying
-6   Qwilfish   Dark
-3   Lurantis   Dragon
-
-~257~
-16   Palafin   Ghost
-15   Dragonite   Dark
-14   Gengar   Water
-11   Dugtrio   Fire
-10   Decidueye   Fairy
-6   Palossand   Ghost
-5   Tatsugiri   Fairy
-3   Vivillon   Electric
-
-~85~
-16   Urshifu-Rapid-Strike   Bug
-14   Quaquaval   Fairy
-14   Salamence   Electric
-12   Basculegion   Fairy
-9   Paldean Tauros Blaze   Flying
-7   Zoroark   Electric
-5   Honchkrow   Rock
-3   Alolan Dugtrio   Rock
-
-~227~
-16   Galarian Slowking   Bug
-14   Zarude   Fighting
-13   Tyranitar   Psychic
-12   Alolan Muk   Dark
-10   Rillaboom   Psychic
-7   Umbreon   Bug
-7   Cloyster   Fighting
-1   Cacturne   Fighting
-
-~26~
-17   Annihilape   Poison
-14   Zarude   Flying
-13   Thundurus-Therian   Dark
-13   Tyranitar   Poison
-11   Ceruledge   Steel
-7   Passimian   Dragon
-3   Greedent   Rock
-2   Oinkologne   Ice
-
-~173~
-17   Sneasler   Flying
-15   Dragonite   Ice
-14   Rotom-Wash   Fairy
-12   Grimmsnarl   Ground
-9   Uxie   Fighting
-7   Mismagius   Fighting
-5   Samurott   Poison
-1   Applin   Fire
-
-~275~
-17   Roaring Moon   Poison
-16   Urshifu-Rapid-Strike   Dark
-13   Lycanroc-Dusk   Steel
-11   Breloom   Fairy
-10   Arcanine   Bug
-7   Eelektross   Flying
-3   Dachsbun   Fairy
-3   Luxray   Fairy
-
-~171~
-18   Regieleki   Normal
-15   Ursaluna   Dragon
-13   Espathra   Fighting
-11   Pelipper   Ground
-8   Wo-Chien   Fighting
-7   Polteageist   Dark
-7   Umbreon   Fire
-1   Bronzor   Fairy
-
-~91~
-17   Garchomp   Flying
-16   Landorus-Therian   Fighting
-14   Enamorus-Incarnate   Dark
-10   Scream Tail   Ghost
-10   Gardevoir   Fighting
-6   Alolan Persian   Steel
-5   Sandaconda   Fairy
-2   Tropius   Rock
-
-~124~
-17   Great Tusk   Water
-15   Gholdengo   Steel
-12   Slowbro   Electric
-12   Kingambit   Flying
-10   Donphan   Grass
-7   Arboliva   Fire
-4   Spiritomb   Fighting
-3   Haunter   Bug
-
-~23~
-18   Iron Bundle   Normal
-15   Iron Treads   Psychic
-13   Gothitelle   Dragon
-13   Slither Wing   Ice
-10   Sylveon   Fighting
-6   Charizard   Dark
-3   Frosmoth   Grass
-2   Muk   Fighting
-
-~193~
-17   Baxcalibur   Rock
-15   Mew   Water
-14   Hydreigon   Dragon
-14   Corviknight   Steel
-9   Barraskewda   Ground
-6   Hisuian Typhlosion   Rock
-4   Dunsparce   Poison
-1   Azurill   Rock
-
-~175~
-16   Galarian Slowking   Psychic
-15   Meowscarada   Rock
-14   Salamence   Grass
-13   Scizor   Grass
-9   Moltres   Electric
-8   Glastrier   Ground
-4   Paldean Tauros   Normal
-1   Bagon   Psychic
-
-~127~
-18   Chi-Yu   Ice
-15   Zapdos   Electric
-14   Heatran   Electric
-10   Torkoal   Dragon
-9   Hatterene   Grass
-7   Tsareena   Dragon
-4   Cryogonal   Dragon
-3   Alolan Dugtrio   Dragon
-
-~222~
-18   Urshifu-Single-Strike   Fire
-15   Greninja   Water
-13   Hisuian Lilligant   Normal
-12   Weavile   Poison
-9   Bronzong   Ice
-7   Copperajah   Ground
-5   Rotom   Electric
-1   Bonsly   Fire
-
-~168~
-18   Spectrier   Steel
-14   Iron Hands   Steel
-14   Thundurus-Incarnate   Ghost
-12   Alolan Muk   Grass
-8   Goodra   Flying
-7   Chansey   Grass
-5   Articuno   Dark
-2   Squawkabilly   Grass
-
-~197~
-16   Palafin   Ghost
-15   Ting-Lu   Water
-13   Glimmora   Grass
-12   Kleavor   Fire
-10   Decidueye   Fairy
-7   Flamigo   Fairy
-6   Oricorio   Normal
-1   Bergmite   Bug
-
-~97~
-16   Iron Moth   Normal
-14   Quaquaval   Flying
-14   Galarian Zapdos   Poison
-11   Dugtrio   Grass
-10   Galarian Slowbro   Fire
-7   Gallade   Dark
-4   Flapple   Water
-4   Girafarig   Bug
-
-~185~
-16   Tornadus-Therian   Steel
-14   Skeledirge   Normal
-13   Hoopa-Unbound   Poison
-12   Volcanion   Ground
-9   Lucario   Dragon
-6   Qwilfish   Water
-6   Rotom-Frost   Electric
-4   Ursaring   Grass
-
-~203~
-16   Volcarona   Steel
-15   Cinderace   Ghost
-14   Slowking   Grass
-12   Pawmot   Normal
-8   Florges   Ghost
-6   Galarian Articuno   Psychic
-5   Mabosstiff   Psychic
-4   Beartic   Fairy
-
-~69~
-16   Palafin   Normal
-14   Thundurus-Incarnate   Bug
-14   Quaquaval   Normal
-11   Cresselia   Bug
-10   Toxapex   Dragon
-7   Arboliva   Ground
-5   Sableye   Dark
-3   Leafeon   Normal
-
-~265~
-18   Regieleki   Water
-17   Sneasler   Dragon
-13   Espathra   Poison
-12   Kleavor   Fighting
-8   Dragalge   Ice
-7   Polteageist   Electric
-3   Vivillon   Ground
-2   Komala   Normal
-
-~240~
-18   Iron Bundle   Ice
-16   Tornadus-Therian   Flying
-13   Gothitelle   Fire
-12   Slowbro   Fighting
-10   Sylveon   Steel
-6   Hisuian Typhlosion   Ground
-4   Hisuian Sneasel   Steel
-1   Bounsweet   Flying
+~120~
+18   Meowscarada   Fairy
+16   Iron Treads   Fighting
+14   Scizor   Rock
+12   Klefki   Ghost
+10   Tornadus-Incarnate   Grass
+6   Rotom-Frost   Ground
+3   Lycanroc-Midnight   Dark
+1   Venonat   Poison
 
 ~195~
-17   Great Tusk   Grass
-15   Ting-Lu   Water
-14   Heatran   Dragon
-13   Tyranitar   Poison
-8   Wo-Chien   Ghost
-7   Scovillain   Psychic
-5   Bruxish   Flying
-1   Bramblin   Bug
-
-~219~
-17   Garchomp   Ghost
-16   Iron Moth   Poison
-14   Zarude   Ground
-12   Iron Jugulis   Dragon
-8   Staraptor   Fire
-6   Farigiraf   Normal
-5   Houndstone   Ground
-2   Camerupt   Normal
-
-~58~
-17   Landorus-Incarnate   Poison
-15   Cinderace   Grass
-13   Thundurus-Therian   Grass
-11   Dugtrio   Normal
-9   Salazzle   Poison
-8   Hisuian Braviary   Ice
-5   Gothorita   Grass
-2   Dedenne   Electric
-
-~236~
-15   Meowscarada   Fairy
-15   Iron Treads   Poison
-14   Corviknight   Grass
-13   Lycanroc-Dusk   Grass
-11   Lokix   Bug
-6   Oricorio   Bug
-4   Rotom-Fan   Poison
-2   Diglett   Flying
-
-~264~
-17   Baxcalibur   Fire
-15   Zapdos   Fire
-14   Rotom-Wash   Steel
-12   Alolan Muk   Dark
-9   Inteleon   Fighting
-6   Charizard   Normal
-4   Cryogonal   Steel
-3   Lurantis   Fire
-
-~15~
-18   Spectrier   Normal
-15   Gholdengo   Normal
-14   Skeledirge   Flying
-11   Hisuian Samurott   Electric
-8   Overqwil   Poison
-6   Revavroom   Fighting
-5   Mabosstiff   Fighting
-3   Perrserker   Water
-
-~259~
-18   Urshifu-Single-Strike   Electric
-15   Mew   Grass
-14   Iron Hands   Bug
-12   Krookodile   Ice
-10   Tornadus-Incarnate   Ghost
-6   Alolan Raichu   Dragon
-3   Haunter   Fighting
-2   Shelgon   Ghost
-
-~252~
-18   Chi-Yu   Dark
-15   Greninja   Water
-12   Weavile   Rock
-11   Ceruledge   Steel
-10   Gardevoir   Fighting
-7   Maushold   Psychic
-5   Avalugg   Bug
-2   Raboot   Poison
-
-~167~
-17   Roaring Moon   Electric
-15   Ursaluna   Fighting
-14   Salamence   Electric
-12   Pawmot   Poison
-8   Regidrago   Grass
-7   Vaporeon   Grass
-4   Typhlosion   Fighting
-3   Dachsbun   Psychic
-
-~98~
-16   Volcarona   Psychic
-15   Dragonite   Rock
-14   Slowking   Ghost
-12   Basculegion   Dark
-10   Sandy Shocks   Ghost
-7   Hariyama   Ghost
-5   Froslass   Flying
-1   Bonsly   Ice
-
-~17~
-16   Galarian Slowking   Fighting
-14   Hydreigon   Bug
-13   Slither Wing   Ground
-13   Hoopa-Unbound   Psychic
-10   Armarouge   Ground
-8   Glastrier   Water
-4   Lycanroc-Midnight   Normal
-2   Lilligant   Ground
-
-~186~
-17   Annihilape   Flying
-16   Urshifu-Rapid-Strike   Steel
-14   Galarian Zapdos   Fighting
-12   Hisuian Goodra   Steel
-8   Florges   Grass
-7   Zoroark   Flying
-4   Paldean Tauros   Fairy
-2   Stonjourner   Dragon
-
-~166~
-16   Landorus-Therian   Psychic
-14   Gengar   Normal
-13   Glimmora   Ground
-12   Azelf   Dark
-9   Toedscruel   Dragon
-7   Kilowattrel   Water
-5   Rotom   Poison
-4   Skuntank   Ghost
-
-~162~
-17   Annihilape   Steel
-14   Hydreigon   Dark
-14   Thundurus-Incarnate   Flying
-13   Glimmora   Electric
-9   Talonflame   Psychic
-8   Mesprit   Poison
-3   Houndoom   Grass
-2   Morgrem   Fighting
-
-~96~
-18   Regieleki   Fighting
-15   Cinderace   Steel
-13   Espathra   Dark
-11   Lokix   Psychic
-10   Rillaboom   Normal
-6   Pincurchin   Ghost
-4   Jolteon   Ghost
-3   Leafeon   Water
-
-~19~
-17   Garchomp   Dragon
-15   Mew   Water
-13   Hisuian Lilligant   Steel
-12   Pawmot   Poison
-9   Paldean Tauros Aqua   Fighting
-8   Florges   Poison
-4   Primeape   Water
-2   Whiscash   Fairy
-
-~10~
-17   Great Tusk   Ice
-16   Volcarona   Poison
-13   Thundurus-Therian   Ground
-12   Kingambit   Water
-10   Torkoal   Ice
-7   Polteageist   Ghost
-4   Dunsparce   Fairy
-1   Cacnea   Water
-
-~279~
-17   Landorus-Incarnate   Grass
-16   Galarian Slowking   Normal
-13   Lycanroc-Dusk   Fighting
-11   Pelipper   Bug
-9   Mimikyu   Normal
-7   Scovillain   Ground
-4   Wyrdeer   Ice
-3   Flareon   Ground
-
-~2~
-16   Palafin   Normal
-15   Iron Treads   Ice
-14   Skeledirge   Fairy
-11   Cresselia   Ground
-10   Armarouge   Dark
-7   Rotom-Heat   Fairy
-6   Orthworm   Fighting
-1   Alolan Grimer   Grass
-
-~295~
-18   Iron Bundle   Psychic
-15   Ting-Lu   Dragon
-13   Scizor   Electric
-11   Dugtrio   Fire
-8   Dragalge   Water
-7   Kilowattrel   Steel
-4   Rotom-Fan   Fairy
-4   Raichu   Flying
-
-~109~
-17   Roaring Moon   Fighting
-15   Gholdengo   Normal
-14   Salamence   Bug
-11   Ceruledge   Ghost
-11   Haxorus   Fairy
-7   Chesnaught   Fighting
-4   Flapple   Dark
-1   Arrokuda   Poison
-
-~94~
-17   Sneasler   Ice
-17   Baxcalibur   Psychic
-13   Hoopa-Unbound   Ghost
-11   Hawlucha   Flying
-10   Gastrodon   Dragon
-8   Hisuian Braviary   Electric
-3   Greedent   Water
-1   Carkol   Bug
-
-~48~
-18   Urshifu-Single-Strike   Fairy
-15   Meowscarada   Bug
-14   Gengar   Psychic
-12   Slowbro   Normal
-9   Salazzle   Grass
-6   Grafaiai   Fire
-3   Lurantis   Bug
-3   Perrserker   Psychic
-
-~147~
-18   Spectrier   Steel
-15   Ursaluna   Bug
-13   Slither Wing   Bug
-11   Hippowdon   Fire
-10   Sylveon   Water
-7   Passimian   Steel
-4   Typhlosion   Poison
-2   Komala   Psychic
-
-~16~
-18   Chi-Yu   Normal
-15   Dragonite   Dragon
-14   Rotom-Wash   Flying
-11   Hisuian Arcanine   Dragon
-9   Moltres   Ice
-7   Arboliva   Water
-5   Articuno   Grass
-1   Carbink   Dragon
-
-~4~
-16   Tornadus-Therian   Water
-15   Greninja   Rock
-15   Zapdos   Poison
-12   Enamorus-Therian   Dark
-11   Breloom   Fire
-7   Chansey   Steel
-3   Haunter   Steel
-1   Braixen   Dragon
-
-~238~
-16   Urshifu-Rapid-Strike   Ghost
-14   Galarian Zapdos   Dark
-14   Zarude   Grass
-13   Tyranitar   Electric
-10   Galarian Slowbro   Ground
-7   Hoopa   Grass
-4   Bellibolt   Bug
-2   Falinks   Electric
-
-~233~
-16   Iron Moth   Normal
-14   Corviknight   Fairy
-14   Heatran   Psychic
-12   Alolan Muk   Normal
-10   Scream Tail   Grass
-7   Medicham   Dark
-5   Avalugg   Fairy
-2   Squawkabilly   Normal
-
-~145~
-16   Landorus-Therian   Water
-14   Slowking   Dragon
-14   Iron Hands   Ice
-12   Azelf   Normal
-11   Hisuian Samurott   Dark
-7   Eelektross   Ghost
-4   Zangoose   Ground
-2   Crabominable   Bug
-
-~212~
-18   Urshifu-Single-Strike   Steel
-15   Zapdos   Flying
-14   Zarude   Fighting
-11   Hawlucha   Rock
-10   Amoonguss   Grass
-6   Magneton   Grass
-3   Haunter   Psychic
-3   Lurantis   Normal
-
-~192~
-17   Annihilape   Water
-15   Meowscarada   Ghost
-14   Salamence   Rock
-11   Ceruledge   Fighting
-10   Decidueye   Dragon
-6   Rotom-Frost   Fairy
-4   Flapple   Normal
-3   Floatzel   Steel
-
-~65~
-17   Baxcalibur   Normal
-14   Iron Hands   Dark
-13   Gothitelle   Ghost
-11   Hisuian Samurott   Bug
-10   Sylveon   Ice
-8   Diancie   Ghost
-4   Wyrdeer   Fighting
-3   Houndoom   Ghost
-
-~237~
-18   Spectrier   Ice
-16   Galarian Slowking   Water
-13   Slither Wing   Ground
-13   Thundurus-Therian   Bug
-8   Blissey   Normal
-6   Galarian Articuno   Bug
-3   Frosmoth   Psychic
-3   Luxray   Dark
-
-~202~
-18   Chi-Yu   Grass
-15   Dragonite   Water
-14   Corviknight   Rock
-11   Galarian Moltres   Electric
-10   Sandy Shocks   Dragon
-5   Articuno   Ice
-4   Golduck   Flying
-3   Basculin   Fighting
-
-~191~
-18   Regieleki   Fairy
-15   Ting-Lu   Ghost
-13   Tyranitar   Dark
-11   Pelipper   Dark
-9   Toedscruel   Dragon
-7   Rotom-Heat   Ghost
-5   Houndstone   Grass
-2   Stonjourner   Ghost
-
-~45~
-17   Landorus-Incarnate   Grass
-16   Volcarona   Water
-13   Hisuian Lilligant   Psychic
-11   Hisuian Arcanine   Dark
-10   Tornadus-Incarnate   Dragon
-6   Alolan Persian   Normal
-5   Gothorita   Grass
-2   Camerupt   Normal
-
-~190~
-18   Iron Bundle   Normal
-15   Ursaluna   Fairy
-14   Hydreigon   Fairy
-11   Hippowdon   Poison
-8   Glastrier   Ground
-6   Lycanroc-Midday   Flying
-5   Sandaconda   Fighting
-3   Perrserker   Flying
-
-~243~
-17   Garchomp   Steel
-15   Gholdengo   Water
-14   Quaquaval   Ghost
-12   Pawmot   Dragon
-8   Mudsdale   Bug
-6   Grafaiai   Ground
-5   Samurott   Fighting
-3   Leafeon   Dragon
-
-~56~
-17   Roaring Moon   Electric
-15   Iron Treads   Fairy
-14   Enamorus-Incarnate   Dragon
-12   Alolan Muk   Ice
-8   Meloetta   Dark
-8   Alomomola   Electric
-3   Vivillon   Flying
-3   Ampharos   Electric
-
-~230~
-16   Palafin   Fairy
-15   Mew   Grass
-14   Gengar   Ice
-11   Klefki   Dragon
-9   Drednaw   Fighting
-7   Tsareena   Ice
-4   Girafarig   Water
-4   Dunsparce   Normal
-
-~105~
-17   Sneasler   Psychic
-15   Greninja   Ground
-14   Rotom-Wash   Fighting
-12   Iron Jugulis   Flying
-8   Hisuian Decidueye   Steel
-6   Pincurchin   Poison
-5   Abomasnow   Dark
-3   Flareon   Dragon
-
-~106~
-17   Great Tusk   Water
-15   Cinderace   Normal
-13   Lycanroc-Dusk   Rock
-12   Volcanion   Ground
-9   Uxie   Water
-8   Overqwil   Ice
-3   Alolan Dugtrio   Ghost
-3   Dachsbun   Steel
-
-~234~
-16   Landorus-Therian   Fairy
-14   Slowking   Bug
-14   Thundurus-Incarnate   Flying
-11   Dondozo   Dark
-10   Donphan   Poison
-8   Tinkaton   Steel
-4   Beartic   Electric
-3   Greedent   Psychic
-
-~138~
-16   Iron Moth   Ghost
-16   Urshifu-Rapid-Strike   Poison
-13   Hoopa-Unbound   Steel
-12   Krookodile   Normal
-9   Paldean Tauros Aqua   Fairy
-7   Vaporeon   Rock
-5   Rabsca   Grass
-2   Oranguru   Flying
-
-~293~
-16   Tornadus-Therian   Flying
-14   Skeledirge   Bug
-14   Heatran   Rock
-12   Slowbro   Bug
-9   Lucario   Bug
-6   Alolan Raichu   Poison
-5   Scyther   Water
-4   Hisuian Avalugg   Grass
-
-~67~
-17   Landorus-Incarnate   Poison
-15   Greninja   Bug
-14   Rotom-Wash   Fire
-14   Galarian Zapdos   Ground
-8   Rotom-Mow   Normal
-7   Kilowattrel   Flying
-3   Flareon   Fighting
-2   Dedenne   Dark
-
-~205~
-17   Annihilape   Ground
-15   Zapdos   Bug
-13   Scizor   Fighting
-12   Garganacl   Psychic
-9   Paldean Tauros Blaze   Dark
-7   Medicham   Poison
-4   Ursaring   Normal
-3   Lurantis   Bug
-
-~130~
-18   Urshifu-Single-Strike   Ghost
-15   Iron Treads   Rock
-13   Gothitelle   Ground
-11   Hisuian Arcanine   Normal
-10   Tornadus-Incarnate   Fire
-7   Mismagius   Rock
-4   Brambleghast   Ghost
-2   Hisuian Sliggoo   Fairy
-
-~272~
-16   Galarian Slowking   Water
-14   Corviknight   Bug
-13   Thundurus-Therian   Electric
-12   Azelf   Fighting
-9   Uxie   Dark
-7   Hariyama   Water
-7   Passimian   Water
-2   Calyrex   Psychic
-
-~221~
-17   Garchomp   Dragon
-16   Volcarona   Poison
-14   Enamorus-Incarnate   Normal
-12   Weavile   Dragon
-8   Meloetta   Fighting
-7   Maushold   Ice
-3   Dachsbun   Bug
-3   Frosmoth   Bug
-
-~86~
-18   Chi-Yu   Electric
-15   Mew   Steel
-13   Tyranitar   Grass
-12   Volcanion   Fighting
-8   Cyclizar   Normal
-8   Tinkaton   Fire
-3   Ampharos   Ghost
-3   Basculin   Fire
-
-~29~
-18   Regieleki   Psychic
-16   Tornadus-Therian   Dragon
-13   Hoopa-Unbound   Poison
-11   Galarian Moltres   Electric
-11   Breloom   Rock
-6   Oricorio   Fairy
-4   Raichu   Water
-1   Arrokuda   Ground
-
-~25~
-17   Baxcalibur   Fairy
-15   Gholdengo   Bug
-13   Espathra   Bug
-12   Krookodile   Dark
-9   Delphox   Psychic
-6   Hisuian Typhlosion   Ghost
-5   Froslass   Poison
-3   Haunter   Grass
-
-~232~
-17   Great Tusk   Normal
-15   Meowscarada   Fighting
-14   Iron Hands   Psychic
-11   Hawlucha   Fire
-9   Moltres   Poison
-7   Copperajah   Fighting
-4   Hisuian Sneasel   Rock
-3   Alolan Dugtrio   Water
-
-~99~
-17   Roaring Moon   Fighting
-14   Zarude   Grass
-14   Gengar   Flying
-11   Dugtrio   Poison
-10   Toxapex   Poison
-6   Toxicroak   Ground
-5   Bombirdier   Ice
-3   Perrserker   Electric
-
-~18~
-17   Sneasler   Normal
-15   Ursaluna   Normal
-14   Salamence   Normal
-12   Iron Jugulis   Water
-10   Gardevoir   Fairy
-7   Eelektross   Grass
-4   Wyrdeer   Ice
-1   Bounsweet   Dragon
-
-~258~
-18   Iron Bundle   Normal
-15   Dragonite   Fairy
-14   Thundurus-Incarnate   Ghost
-11   Pelipper   Water
-8   Bisharp   Grass
-6   Palossand   Dark
-4   Cryogonal   Fighting
-4   Veluza   Bug
-
-~269~
-18   Spectrier   Electric
-15   Cinderace   Flying
-13   Slither Wing   Dragon
-12   Kingambit   Fighting
-10   Gastrodon   Fighting
-6   Orthworm   Poison
-5   Rotom   Poison
-1   Carkol   Ghost
-
-~204~
-16   Palafin   Grass
-16   Iron Moth   Ground
-14   Hydreigon   Bug
-12   Grimmsnarl   Fire
-8   Goodra   Fire
-7   Arboliva   Fairy
-5   Mabosstiff   Flying
-2   Masquerain   Normal
-
-~182~
-16   Landorus-Therian   Ground
-15   Ting-Lu   Dragon
-14   Skeledirge   Water
-12   Pawmot   Fairy
-9   Talonflame   Ice
-6   Galarian Articuno   Fighting
-5   Bruxish   Fire
-3   Vivillon   Dragon
-
-~282~
-16   Urshifu-Rapid-Strike   Fairy
-14   Slowking   Rock
-14   Heatran   Psychic
-13   Hisuian Lilligant   Dark
-11   Ceruledge   Psychic
-7   Umbreon   Bug
-4   Girafarig   Fire
-1   Buizel   Ghost
-
-~35~
-17   Baxcalibur   Fire
-16   Urshifu-Rapid-Strike   Dark
-13   Hoopa-Unbound   Dragon
-11   Hisuian Arcanine   Electric
-9   Inteleon   Psychic
-6   Rotom-Frost   Grass
-5   Ditto   Steel
-3   Frosmoth   Dragon
-
-~187~
-17   Garchomp   Normal
-15   Iron Treads   Normal
-14   Zarude   Water
-12   Weavile   Water
-9   Toxtricity   Poison
-7   Maushold   Bug
-3   Dachsbun   Fighting
-3   Lurantis   Rock
-
-~241~
-17   Great Tusk   Electric
-16   Galarian Slowking   Bug
-13   Espathra   Ground
-12   Krookodile   Dragon
-9   Delphox   Psychic
-7   Medicham   Flying
-5   Bruxish   Bug
-1   Axew   Ghost
+18   Urshifu-Rapid-Strike   Electric
+16   Salamence   Dark
+13   Hawlucha   Ground
+12   Breloom   Grass
+9   Glastrier   Rock
+7   Flamigo   Ice
+3   Spiritomb   Ground
+2   Seviper   Bug
 
 ~115~
-18   Urshifu-Single-Strike   Dark
-13   Scizor   Electric
-13   Glimmora   Fire
-13   Lycanroc-Dusk   Ice
-9   Moltres   Ghost
-7   Chesnaught   Electric
-5   Froslass   Ground
-2   Eiscue   Poison
+18   Annihilape   Normal
+15   Gengar   Rock
+14   Azumarill   Ghost
+11   Gyarados   Ground
+8   Magnezone   Grass
+7   Revavroom   Dragon
+4   Bellibolt   Fire
+3   Leafeon   Steel
 
-~180~
-18   Iron Bundle   Electric
-15   Mew   Steel
-14   Hydreigon   Electric
-11   Hippowdon   Fire
-11   Ceruledge   Normal
-6   Alolan Raichu   Fire
-4   Brambleghast   Grass
-1   Bagon   Ice
-
-~298~
-15   Dragonite   Ice
-15   Gholdengo   Ghost
-13   Gothitelle   Dragon
-12   Grimmsnarl   Water
-10   Tornadus-Incarnate   Fighting
-9   Drednaw   Grass
-3   Leafeon   Dark
-3   Luxray   Dark
-
-~170~
-18   Spectrier   Flying
-15   Ting-Lu   Flying
-14   Corviknight   Electric
-12   Enamorus-Therian   Steel
-8   Florges   Poison
-6   Farigiraf   Flying
-5   Sableye   Flying
-2   Diglett   Fairy
-
-~107~
-18   Regieleki   Ice
-16   Volcarona   Grass
-13   Hisuian Lilligant   Water
-11   Cresselia   Fire
-10   Toxapex   Psychic
-6   Grafaiai   Bug
-3   Greedent   Normal
-3   Haunter   Fire
-
-~93~
-18   Chi-Yu   Flying
-15   Cinderace   Fire
-14   Heatran   Steel
-11   Pelipper   Steel
-10   Gardevoir   Dark
-6   Qwilfish   Water
-4   Spiritomb   Ice
-2   Misdreavus   Fairy
-
-~1~
-17   Annihilape   Ground
-15   Zapdos   Grass
-14   Gengar   Ice
-12   Slowbro   Normal
-10   Gastrodon   Dark
-8   Blissey   Bug
-3   Perrserker   Dragon
-1   Bergmite   Ghost
-
-~290~
-17   Landorus-Incarnate   Water
-15   Ursaluna   Flying
-14   Skeledirge   Grass
-11   Hisuian Zoroark   Poison
-10   Sylveon   Steel
-8   Diancie   Rock
-4   Hisuian Electrode   Poison
-1   Cetoddle   Flying
-
-~100~
-17   Sneasler   Steel
-15   Meowscarada   Rock
-13   Tyranitar   Ghost
-12   Azelf   Ghost
-9   Barraskewda   Normal
-7   Umbreon   Fairy
-5   Houndstone   Fairy
-2   Camerupt   Fairy
-
-~248~
-16   Tornadus-Therian   Fighting
-15   Greninja   Psychic
-14   Thundurus-Incarnate   Ghost
-12   Kleavor   Bug
-10   Sandy Shocks   Normal
-6   Palossand   Electric
-4   Flapple   Ice
-3   Ampharos   Grass
-
-~148~
-17   Roaring Moon   Rock
-14   Quaquaval   Flying
-14   Slowking   Ghost
-12   Alolan Muk   Fairy
-9   Talonflame   Poison
-7   Hariyama   Ghost
-4   Dunsparce   Grass
-3   Basculin   Flying
-
-~73~
-16   Iron Moth   Ice
-16   Palafin   Ghost
-14   Salamence   Ghost
-12   Pawmot   Rock
-10   Galarian Slowbro   Water
-6   Charizard   Flying
-4   Zangoose   Rock
-2   Altaria   Ground
-
-~12~
-16   Landorus-Therian   Normal
-14   Galarian Zapdos   Fire
-14   Iron Hands   Fighting
-11   Klefki   Rock
-10   Armarouge   Steel
-6   Alolan Persian   Dark
-6   Oricorio   Rock
-3   Flareon   Fire
-
-~7~
-17   Great Tusk   Bug
-16   Urshifu-Rapid-Strike   Fairy
-13   Glimmora   Ghost
-11   Lokix   Fairy
-9   Uxie   Psychic
-6   Hisuian Typhlosion   Water
-6   Alolan Persian   Normal
-2   Eiscue   Fire
-
-~224~
-18   Chi-Yu   Grass
-14   Enamorus-Incarnate   Flying
-14   Gengar   Grass
-13   Tyranitar   Grass
-9   Paldean Tauros Aqua   Dragon
-6   Revavroom   Electric
-3   Floatzel   Electric
-3   Haunter   Ice
-
-~131~
-18   Iron Bundle   Poison
-16   Galarian Slowking   Dark
-14   Corviknight   Dark
-11   Hawlucha   Flying
-8   Regidrago   Ground
-7   Passimian   Normal
-4   Ursaring   Grass
-2   Appletun   Water
-
-~21~
-17   Sneasler   Ice
-15   Dragonite   Dragon
-13   Slither Wing   Fighting
-13   Scizor   Fire
-10   Cetitan   Electric
-6   Palossand   Ghost
-3   Ampharos   Ground
-3   Perrserker   Ice
-
-~159~
-16   Landorus-Therian   Electric
-15   Cinderace   Steel
-14   Hydreigon   Poison
-13   Hisuian Lilligant   Normal
-11   Dugtrio   Poison
-6   Charizard   Flying
-4   Jolteon   Steel
-1   Arctibax   Ghost
-
-~123~
-17   Roaring Moon   Fire
-15   Ursaluna   Flying
-14   Zarude   Steel
-12   Hisuian Goodra   Fighting
-10   Donphan   Dark
-8   Wo-Chien   Steel
-3   Luxray   Electric
-1   Bounsweet   Fire
-
-~38~
-18   Regieleki   Ground
-15   Mew   Fire
-12   Garganacl   Fighting
-11   Hippowdon   Electric
-10   Sylveon   Flying
-6   Galarian Articuno   Grass
-5   Braviary   Rock
-3   Basculin   Normal
-
-~253~
-18   Spectrier   Ice
-15   Ting-Lu   Ice
-14   Salamence   Flying
-11   Ceruledge   Fire
-9   Inteleon   Fighting
-6   Farigiraf   Ice
-5   Froslass   Ghost
-2   Frogadier   Poison
-
-~36~
-18   Urshifu-Single-Strike   Water
-15   Greninja   Fairy
-14   Quaquaval   Dark
-12   Weavile   Steel
-7   Cloyster   Psychic
-6   Pincurchin   Ghost
-5   Gothorita   Ground
-3   Dachsbun   Grass
-
-~79~
-17   Baxcalibur   Normal
-15   Zapdos   Ghost
-14   Iron Hands   Fairy
-12   Azelf   Fairy
-10   Arcanine   Rock
-6   Venomoth   Electric
-4   Bellibolt   Poison
-2   Camerupt   Poison
-
-~276~
-17   Landorus-Incarnate   Normal
-15   Iron Treads   Fighting
-14   Rotom-Wash   Steel
-12   Enamorus-Therian   Fighting
-9   Mimikyu   Dragon
-6   Oricorio   Water
-5   Tatsugiri   Fire
-2   Misdreavus   Flying
-
-~28~
-17   Annihilape   Electric
-15   Gholdengo   Grass
-14   Galarian Zapdos   Bug
-12   Kingambit   Rock
-8   Alomomola   Bug
-7   Mismagius   Flying
-4   Typhlosion   Psychic
-3   Frosmoth   Fire
-
-~157~
-17   Garchomp   Psychic
-16   Palafin   Flying
-13   Lycanroc-Dusk   Ice
-12   Volcanion   Ghost
-10   Tornadus-Incarnate   Steel
-6   Alolan Raichu   Grass
-5   Indeedee   Bug
-1   Alolan Meowth   Normal
-
-~50~
-16   Iron Moth   Normal
-15   Meowscarada   Ground
-13   Thundurus-Therian   Poison
-13   Gothitelle   Electric
-9   Delphox   Flying
-6   Rotom-Frost   Poison
-6   Toxicroak   Normal
-2   Swalot   Flying
-
-~34~
-16   Tornadus-Therian   Dragon
-14   Skeledirge   Rock
-13   Espathra   Fairy
-11   Hisuian Zoroark   Flying
-9   Drednaw   Ghost
-7   Maushold   Steel
-6   Espeon   Fairy
-4   Cryogonal   Electric
-
-~89~
-16   Volcarona   Fire
-14   Slowking   Flying
-14   Heatran   Ground
-12   Grimmsnarl   Normal
-10   Rillaboom   Electric
-6   Magneton   Ghost
-6   Lycanroc-Midday   Fire
-2   Murkrow   Ice
-
-~57~
-18   Urshifu-Single-Strike   Steel
-15   Cinderace   Ghost
-14   Zarude   Rock
-12   Hisuian Goodra   Ice
-10   Sandy Shocks   Dragon
-7   Mismagius   Fairy
-3   Vivillon   Bug
-1   Cacturne   Rock
-
-~179~
-18   Iron Bundle   Flying
-14   Heatran   Fire
-14   Gengar   Water
-11   Hisuian Samurott   Ground
-10   Decidueye   Ghost
-7   Copperajah   Flying
-4   Beartic   Normal
-2   Glimmet   Rock
-
-~144~
-18   Chi-Yu   Fairy
-16   Iron Moth   Fighting
-13   Hisuian Lilligant   Grass
-10   Torkoal   Grass
-9   Barraskewda   Ground
-7   Chesnaught   Normal
-5   Avalugg   Steel
-2   Banette   Psychic
-
-~30~
-17   Baxcalibur   Psychic
-15   Iron Treads   Grass
-14   Salamence   Dragon
-12   Alolan Muk   Fairy
-10   Galarian Slowbro   Flying
-7   Eelektross   Water
-3   Leafeon   Ice
-2   Appletun   Grass
-
-~54~
-18   Regieleki   Normal
-16   Galarian Slowking   Ground
-14   Skeledirge   Fighting
-11   Haxorus   Fighting
-9   Toedscruel   Dragon
-6   Alolan Persian   Rock
-3   Frosmoth   Flying
-3   Perrserker   Ghost
-
-~284~
-17   Great Tusk   Poison
-16   Palafin   Fighting
-13   Espathra   Grass
-13   Gothitelle   Grass
-8   Florges   Normal
-7   Zoroark   Poison
-4   Raichu   Grass
-2   Misdreavus   Psychic
-
-~71~
-17   Annihilape   Dark
-15   Dragonite   Dark
-13   Glimmora   Rock
-11   Lokix   Ice
-9   Toxtricity   Bug
-7   Scovillain   Fighting
-5   Samurott   Dark
-3   Greedent   Fighting
-
-~268~
-17   Landorus-Incarnate   Poison
-15   Meowscarada   Dark
-15   Gholdengo   Grass
-11   Breloom   Dark
-9   Moltres   Dark
-6   Farigiraf   Poison
-5   Sandaconda   Dark
-2   Calyrex   Psychic
-
-~76~
-17   Garchomp   Fire
-15   Ursaluna   Ground
-13   Lycanroc-Dusk   Ghost
-11   Hawlucha   Flying
-9   Paldean Tauros Aqua   Water
-7   Arboliva   Fairy
-5   Honchkrow   Bug
-3   Alolan Dugtrio   Flying
-
-~117~
-17   Roaring Moon   Fire
-15   Zapdos   Bug
-14   Rotom-Wash   Fighting
-12   Krookodile   Electric
-10   Tornadus-Incarnate   Ice
-7   Hariyama   Bug
-4   Coalossal   Electric
-1   Cetoddle   Fairy
-
-~125~
-18   Spectrier   Water
-15   Greninja   Fairy
-14   Iron Hands   Ice
-12   Azelf   Fairy
-8   Dragalge   Poison
-6   Alolan Raichu   Ground
-5   Abomasnow   Fire
-2   Raboot   Ghost
-
-~261~
-17   Sneasler   Normal
-15   Mew   Grass
-14   Galarian Zapdos   Ground
-13   Scizor   Dark
-10   Toxapex   Ghost
-6   Revavroom   Fire
-3   Flareon   Ice
-2   Wigglytuff   Bug
-
-~229~
-16   Landorus-Therian   Ghost
-15   Ting-Lu   Bug
-13   Hoopa-Unbound   Ice
-12   Iron Jugulis   Dragon
-10   Sylveon   Dark
-8   Alomomola   Fighting
-4   Golduck   Fighting
-2   Muk   Grass
-
-~288~
-16   Volcarona   Bug
-14   Corviknight   Electric
-14   Quaquaval   Electric
-12   Enamorus-Therian   Water
-12   Garganacl   Poison
-6   Magneton   Rock
-4   Girafarig   Water
-2   Oinkologne   Rock
-
-~225~
-16   Urshifu-Rapid-Strike   Ice
-14   Hydreigon   Water
-14   Thundurus-Incarnate   Psychic
-11   Cresselia   Dragon
-9   Heracross   Dragon
-9   Salazzle   Bug
-4   Primeape   Grass
-3   Basculin   Steel
-
-~39~
-16   Tornadus-Therian   Fire
-14   Slowking   Psychic
-13   Slither Wing   Dark
-13   Tyranitar   Fighting
-9   Talonflame   Flying
-9   Paldean Tauros Blaze   Fairy
-4   Bellibolt   Steel
-2   Eiscue   Dark
+~47~
+17   Greninja   Poison
+15   Corviknight   Electric
+13   Krookodile   Ice
+11   Rillaboom   Steel
+11   Lokix   Water
+8   Blissey   Electric
+4   Primeape   Rock
+1   Riolu   Fire
 
 ~239~
-17   Garchomp   Dragon
-16   Iron Moth   Ghost
-14   Zarude   Ice
-11   Galarian Moltres   Bug
-10   Torkoal   Ground
-6   Charizard   Fighting
-3   Basculin   Fairy
-3   Floatzel   Water
-
-~211~
-18   Spectrier   Fairy
-15   Zapdos   Fairy
-13   Lycanroc-Dusk   Dark
-12   Slowbro   Steel
-10   Sandy Shocks   Normal
-7   Zoroark   Electric
-3   Houndoom   Poison
-2   Appletun   Ice
-
-~218~
-18   Regieleki   Psychic
-16   Palafin   Rock
-14   Corviknight   Bug
-11   Lokix   Normal
-8   Blissey   Fighting
-6   Qwilfish   Water
-5   Rabsca   Normal
-2   Thwackey   Fairy
-
-~155~
-17   Great Tusk   Steel
-16   Tornadus-Therian   Ground
-14   Thundurus-Incarnate   Ice
-11   Ceruledge   Poison
-8   Hisuian Braviary   Psychic
-7   Mismagius   Bug
-5   Sableye   Water
-2   Muk   Ice
-
-~46~
-18   Chi-Yu   Electric
-15   Cinderace   Grass
-14   Heatran   Ice
-11   Cresselia   Dark
-10   Cetitan   Normal
-6   Farigiraf   Flying
-3   Haunter   Dark
-3   Ampharos   Rock
-
-~256~
-17   Baxcalibur   Ground
-14   Iron Hands   Water
-13   Scizor   Ice
-12   Weavile   Dark
-10   Iron Thorns   Water
-8   Goodra   Dark
-5   Houndstone   Electric
-1   Alolan Diglett   Bug
-
-~250~
-17   Annihilape   Ghost
-15   Meowscarada   Electric
-14   Quaquaval   Normal
-12   Hisuian Goodra   Psychic
-9   Hatterene   Psychic
-6   Magneton   Fairy
-4   Primeape   Ghost
-3   Perrserker   Steel
-
-~51~
-17   Landorus-Incarnate   Poison
-15   Gholdengo   Rock
-14   Rotom-Wash   Bug
-12   Basculegion   Ice
-9   Toxtricity   Poison
-8   Alomomola   Steel
-3   Dachsbun   Ghost
-2   Dolliv   Poison
-
-~249~
-17   Roaring Moon   Psychic
-15   Greninja   Steel
-13   Gothitelle   Water
-12   Alolan Muk   Steel
-9   Drednaw   Grass
-7   Passimian   Flying
-5   Ditto   Normal
-2   Shelgon   Ghost
-
-~60~
-17   Sneasler   Bug
-15   Dragonite   Dark
-14   Hydreigon   Fire
-11   Hisuian Arcanine   Rock
-10   Toxapex   Dark
-6   Oricorio   Rock
-5   Rotom   Water
-2   Raboot   Poison
-
-~266~
-18   Iron Bundle   Normal
-15   Iron Treads   Ice
-13   Hisuian Lilligant   Fire
-11   Hawlucha   Ice
-10   Rillaboom   Fighting
-8   Cyclizar   Dark
-4   Zangoose   Grass
-1   Bronzor   Normal
-
-~88~
-18   Urshifu-Single-Strike   Ghost
-15   Ursaluna   Grass
-13   Tyranitar   Water
-12   Azelf   Normal
-10   Donphan   Steel
-7   Gallade   Ground
-4   Veluza   Grass
-1   Braixen   Flying
-
-~40~
-15   Ting-Lu   Dark
-15   Mew   Ice
-13   Espathra   Dragon
-12   Enamorus-Therian   Water
-8   Wo-Chien   Normal
-8   Glastrier   Dark
-5   Froslass   Water
-4   Hisuian Sneasel   Electric
-
-~33~
-16   Urshifu-Rapid-Strike   Grass
-16   Landorus-Therian   Electric
-13   Hoopa-Unbound   Steel
-12   Grimmsnarl   Water
-9   Heracross   Steel
-8   Dudunsparce   Steel
-3   Luxray   Ghost
-3   Flareon   Flying
-
-~41~
-16   Galarian Slowking   Ghost
-14   Skeledirge   Fairy
-14   Slowking   Ground
-12   Volcanion   Bug
-10   Gastrodon   Ground
-7   Polteageist   Flying
-5   Tatsugiri   Flying
-2   Gogoat   Poison
-
-~217~
-16   Volcarona   Ghost
-14   Salamence   Fire
-14   Enamorus-Incarnate   Dark
-12   Iron Jugulis   Dark
-10   Armarouge   Poison
-8   Florges   Poison
-5   Samurott   Steel
-1   Cacturne   Water
-
-~156~
-17   Roaring Moon   Water
-15   Meowscarada   Psychic
-14   Iron Hands   Fighting
-12   Krookodile   Steel
-9   Salazzle   Ground
-6   Venomoth   Fire
-5   Sableye   Grass
-2   Calyrex   Poison
-
-~289~
-18   Chi-Yu   Rock
-15   Greninja   Psychic
-14   Corviknight   Bug
-12   Garganacl   Steel
-8   Dragalge   Dragon
-7   Polteageist   Ground
-4   Paldean Tauros   Ghost
-2   Shelgon   Ground
-
-~3~
-17   Garchomp   Poison
-16   Volcarona   Ice
-14   Thundurus-Incarnate   Steel
-10   Sandy Shocks   Ghost
-10   Armarouge   Ice
-7   Copperajah   Psychic
-4   Cryogonal   Rock
-2   Wigglytuff   Psychic
-
-~174~
-16   Landorus-Therian   Steel
-14   Hydreigon   Normal
-14   Salamence   Ground
-11   Breloom   Dark
-10   Cetitan   Fairy
-9   Moltres   Grass
-5   Mabosstiff   Rock
-1   Buizel   Electric
-
-~128~
-18   Iron Bundle   Normal
-15   Dragonite   Rock
-14   Quaquaval   Ghost
-11   Klefki   Electric
-9   Toxtricity   Fairy
-7   Kilowattrel   Ice
-3   Flareon   Ground
-3   Lurantis   Electric
-
-~95~
-18   Spectrier   Steel
-15   Gholdengo   Fighting
-13   Lycanroc-Dusk   Dragon
-11   Pelipper   Fire
-9   Delphox   Fighting
-7   Cloyster   Poison
-5   Sneasel   Bug
-2   Hisuian Sliggoo   Ground
-
-~44~
-18   Urshifu-Single-Strike   Grass
-15   Ursaluna   Fire
-13   Glimmora   Fighting
-12   Azelf   Normal
-9   Uxie   Dragon
-6   Rotom-Frost   Fairy
-4   Raichu   Dark
-3   Luxray   Fire
-
-~296~
-17   Annihilape   Dark
-15   Iron Treads   Psychic
-12   Enamorus-Therian   Water
-12   Hisuian Goodra   Water
-9   Bronzong   Poison
-7   Maushold   Dark
-5   Articuno   Normal
-3   Vivillon   Steel
-
-~108~
-17   Landorus-Incarnate   Poison
-15   Mew   Ice
-14   Rotom-Wash   Poison
-11   Galarian Moltres   Fairy
-10   Rillaboom   Flying
-7   Chesnaught   Poison
-3   Leafeon   Grass
-3   Floatzel   Fairy
-
-~158~
-17   Sneasler   Ice
-16   Palafin   Flying
-13   Scizor   Ground
-11   Haxorus   Poison
-9   Paldean Tauros Blaze   Water
-8   Staraptor   Fairy
-3   Perrserker   Psychic
-3   Greedent   Fire
-
-~55~
-17   Baxcalibur   Flying
-15   Cinderace   Water
-13   Thundurus-Therian   Water
-12   Weavile   Flying
-9   Mimikyu   Normal
-7   Eelektross   Psychic
-4   Primeape   Grass
-3   Dachsbun   Dragon
-
-~161~
-18   Regieleki   Psychic
-15   Zapdos   Psychic
-13   Gothitelle   Ghost
-13   Azumarill   Grass
-10   Amoonguss   Bug
-6   Hisuian Typhlosion   Flying
-4   Hisuian Electrode   Rock
-1   Capsakid   Dark
-
-~200~
-17   Great Tusk   Normal
-16   Tornadus-Therian   Fairy
-14   Galarian Zapdos   Rock
-13   Tyranitar   Ghost
-9   Lucario   Dragon
-7   Chansey   Dark
-3   Houndoom   Rock
-1   Bagon   Ice
-
-~262~
-16   Urshifu-Rapid-Strike   Dark
-15   Ting-Lu   Grass
-14   Skeledirge   Electric
-11   Hisuian Zoroark   Normal
-9   Barraskewda   Ghost
-6   Farigiraf   Flying
-5   Tatsugiri   Dark
-4   Wyrdeer   Dark
-
-~43~
-16   Galarian Slowking   Steel
-14   Zarude   Ice
-14   Heatran   Dark
-12   Kleavor   Fire
-10   Scream Tail   Grass
-6   Revavroom   Electric
-5   Samurott   Fire
-3   Basculin   Electric
-
-~141~
-16   Iron Moth   Fire
-14   Slowking   Fairy
-14   Gengar   Grass
-12   Kingambit   Rock
-10   Gastrodon   Grass
-7   Gallade   Normal
-4   Hisuian Sneasel   Dragon
-3   Haunter   Grass
-
-~133~
-17   Great Tusk   Rock
-15   Iron Treads   Rock
-13   Scizor   Fire
-11   Cresselia   Ground
-10   Decidueye   Steel
-7   Eelektross   Ground
-4   Girafarig   Fire
-3   Houndoom   Psychic
-
-~228~
-17   Annihilape   Normal
-16   Volcarona   Dragon
-14   Skeledirge   Dark
-12   Slowbro   Ground
-8   Wo-Chien   Grass
-7   Chansey   Flying
-4   Rotom-Fan   Electric
-2   Oranguru   Ice
-
-~49~
-17   Roaring Moon   Ghost
-14   Gengar   Grass
-14   Hydreigon   Ground
-12   Krookodile   Rock
-10   Tornadus-Incarnate   Normal
-6   Alolan Raichu   Dark
-4   Cryogonal   Ice
-3   Frosmoth   Ghost
-
-~92~
-17   Landorus-Incarnate   Ice
-16   Urshifu-Rapid-Strike   Electric
-12   Enamorus-Therian   Ghost
-11   Hisuian Samurott   Dark
-9   Inteleon   Dragon
-7   Maushold   Bug
-5   Froslass   Fairy
-3   Dachsbun   Steel
-
-~152~
-18   Urshifu-Single-Strike   Psychic
-15   Gholdengo   Dragon
-14   Corviknight   Water
-12   Hisuian Goodra   Flying
-10   Clodsire   Fire
-6   Hisuian Typhlosion   Rock
-4   Ursaring   Ice
-1   Applin   Fairy
-
-~142~
-17   Sneasler   Fire
-15   Dragonite   Electric
-14   Rotom-Wash   Steel
-11   Dondozo   Psychic
-10   Torkoal   Normal
-7   Scovillain   Grass
-4   Paldean Tauros   Rock
-2   Vigoroth   Steel
-
-~134~
-17   Garchomp   Water
-15   Meowscarada   Rock
-13   Tyranitar   Electric
-11   Hisuian Zoroark   Electric
-11   Hisuian Arcanine   Rock
-6   Revavroom   Dragon
-5   Scyther   Fighting
-2   Shelgon   Fairy
-
-~199~
-17   Baxcalibur   Electric
-15   Zapdos   Dragon
-13   Espathra   Poison
-12   Pawmot   Water
-10   Cetitan   Fighting
-7   Mismagius   Bug
-3   Luxray   Psychic
-3   Vivillon   Poison
-
-~210~
-18   Spectrier   Dragon
-15   Cinderace   Steel
-13   Slither Wing   Fairy
-11   Hippowdon   Normal
-9   Noivern   Ground
-6   Magneton   Ghost
-5   Abomasnow   Dark
-3   Leafeon   Fairy
-
-~246~
-18   Chi-Yu   Grass
-14   Heatran   Electric
-14   Enamorus-Incarnate   Dragon
-12   Azelf   Ghost
-8   Meloetta   Fighting
-7   Copperajah   Water
-4   Hisuian Sneasel   Poison
-3   Alolan Dugtrio   Dragon
-
-~119~
-18   Regieleki   Psychic
-16   Iron Moth   Steel
-14   Quaquaval   Ghost
-12   Weavile   Dark
-8   Tinkaton   Electric
-7   Tsareena   Bug
-4   Golduck   Bug
-1   Carkol   Normal
-
-~129~
-18   Iron Bundle   Ice
-15   Ting-Lu   Fairy
-13   Glimmora   Steel
-12   Grimmsnarl   Rock
-8   Dragalge   Fighting
-7   Zoroark   Flying
-5   Tatsugiri   Ground
-2   Crabominable   Fairy
-
-~291~
-16   Tornadus-Therian   Rock
-15   Mew   Rock
-14   Iron Hands   Fighting
-13   Hisuian Lilligant   Fire
-10   Armarouge   Normal
-7   Medicham   Ghost
-3   Flareon   Fairy
-2   Muk   Fighting
-
-~75~
-16   Palafin   Dark
-14   Thundurus-Incarnate   Fire
-13   Hoopa-Unbound   Fighting
-13   Thundurus-Therian   Dragon
-10   Sylveon   Ghost
-7   Polteageist   Normal
-5   Avalugg   Fire
-2   Swalot   Dark
-
-~135~
-16   Galarian Slowking   Steel
-15   Ursaluna   Grass
-14   Zarude   Rock
-12   Kleavor   Ghost
-9   Paldean Tauros Blaze   Electric
-8   Glastrier   Dragon
-4   Flapple   Grass
-2   Sawsbuck   Psychic
-
-~118~
-16   Landorus-Therian   Ice
-15   Greninja   Normal
-14   Salamence   Normal
-12   Basculegion   Electric
-10   Galarian Slowbro   Ice
-7   Kilowattrel   Psychic
-3   Lurantis   Psychic
-3   Haunter   Fairy
-
-~299~
-17   Garchomp   Electric
-16   Galarian Slowking   Dark
-14   Rotom-Wash   Flying
-12   Kleavor   Steel
-8   Blissey   Flying
-6   Rotom-Frost   Fire
-4   Zangoose   Poison
-3   Flareon   Fighting
-
-~52~
-17   Baxcalibur   Steel
-16   Urshifu-Rapid-Strike   Electric
-14   Thundurus-Incarnate   Bug
-13   Tyranitar   Fire
-8   Quagsire   Dragon
-7   Cloyster   Ground
-4   Typhlosion   Water
-1   Arrokuda   Electric
-
-~280~
-18   Spectrier   Dragon
-15   Greninja   Ice
-13   Hisuian Lilligant   Grass
-11   Dondozo   Steel
-10   Sylveon   Rock
-6   Hisuian Typhlosion   Rock
-5   Scyther   Normal
-2   Dolliv   Fairy
-
-~8~
-18   Urshifu-Single-Strike   Normal
-15   Mew   Dragon
-13   Slither Wing   Ground
-12   Basculegion   Poison
-9   Bronzong   Dragon
-7   Chansey   Fighting
-5   Ditto   Steel
-1   Braixen   Bug
-
-~72~
-18   Chi-Yu   Flying
-16   Volcarona   Ice
-13   Glimmora   Electric
-12   Volcanion   Rock
-9   Toxtricity   Normal
-6   Magneton   Steel
-4   Girafarig   Dark
-2   Banette   Dragon
-
-~194~
-18   Regieleki   Rock
-15   Zapdos   Dark
-14   Gengar   Fighting
-11   Galarian Moltres   Psychic
-8   Staraptor   Normal
-7   Umbreon   Fairy
-5   Honchkrow   Grass
-2   Altaria   Rock
-
-~31~
-18   Iron Bundle   Ice
-15   Dragonite   Psychic
-14   Hydreigon   Fire
-12   Iron Jugulis   Psychic
-10   Tornadus-Incarnate   Bug
-7   Arboliva   Poison
-2   Falinks   Electric
-2   Raboot   Flying
-
-~13~
-17   Sneasler   Fire
-15   Meowscarada   Fairy
-14   Quaquaval   Electric
-12   Slowbro   Bug
-11   Dugtrio   Normal
-6   Toxicroak   Normal
-3   Lurantis   Poison
-2   Oranguru   Steel
-
-~143~
-15   Ting-Lu   Psychic
-14   Skeledirge   Fairy
-14   Galarian Zapdos   Steel
-11   Hisuian Arcanine   Ice
-10   Clodsire   Steel
-6   Qwilfish   Psychic
-6   Lycanroc-Midday   Ice
-4   Jolteon   Ice
-
-~137~
-17   Roaring Moon   Electric
-17   Annihilape   Ice
-13   Espathra   Fire
-12   Weavile   Fire
-9   Inteleon   Fire
-8   Hisuian Braviary   Bug
-3   Greedent   Steel
-1   Bramblin   Normal
-
-~74~
-17   Landorus-Incarnate   Dragon
-15   Iron Treads   Steel
-14   Slowking   Ice
-11   Lokix   Electric
-10   Scream Tail   Steel
-6   Galarian Articuno   Normal
-5   Sableye   Ice
-2   Vigoroth   Grass
-
-~126~
-17   Great Tusk   Normal
-15   Ursaluna   Fighting
-14   Enamorus-Incarnate   Fighting
-13   Thundurus-Therian   Fighting
-9   Talonflame   Ice
-6   Oricorio   Ground
-4   Wyrdeer   Ice
-2   Drifblim   Steel
-
-~220~
-15   Cinderace   Electric
-15   Gholdengo   Ice
-13   Hoopa-Unbound   Dragon
-13   Azumarill   Grass
-9   Moltres   Dark
-8   Mudsdale   Dragon
-5   Rotom   Normal
-2   Glaceon   Ground
-
-~231~
-16   Palafin   Water
-14   Salamence   Dragon
-14   Zarude   Steel
-12   Krookodile   Rock
-9   Mimikyu   Water
-7   Passimian   Fairy
-6   Alolan Persian   Fire
-2   Clawitzer   Dragon
-
-~66~
-16   Iron Moth   Dragon
-16   Tornadus-Therian   Electric
-14   Iron Hands   Ice
-13   Lycanroc-Dusk   Electric
-11   Haxorus   Ground
-6   Revavroom   Bug
-3   Luxray   Dragon
-1   Cacturne   Fairy
-
-~251~
-16   Landorus-Therian   Ground
-14   Heatran   Normal
-14   Corviknight   Normal
-13   Scizor   Flying
-11   Pelipper   Electric
-7   Maushold   Electric
-4   Veluza   Normal
-1   Axew   Ice
-
-~132~
-18   Regieleki   Electric
-15   Dragonite   Normal
-14   Heatran   Grass
-12   Azelf   Poison
-8   Regidrago   Ice
-8   Hisuian Decidueye   Fairy
-4   Coalossal   Grass
-1   Cetoddle   Steel
-
-~201~
-18   Urshifu-Single-Strike   Dark
-15   Gholdengo   Bug
-13   Scizor   Ghost
-11   Hisuian Zoroark   Psychic
-10   Gardevoir   Ice
-8   Mudsdale   Psychic
-3   Perrserker   Psychic
-2   Morgrem   Dark
-
-~196~
-18   Spectrier   Flying
-15   Meowscarada   Poison
-13   Hisuian Lilligant   Ghost
-12   Krookodile   Ghost
-8   Goodra   Steel
-6   Espeon   Grass
-5   Honchkrow   Bug
-3   Leafeon   Normal
-
-~300~
-15   Mew   Water
-14   Quaquaval   Dark
-14   Galarian Zapdos   Fighting
-14   Rotom-Wash   Ground
-9   Delphox   Normal
-8   Blissey   Dragon
-4   Jolteon   Normal
-2   Tropius   Dark
-
-~169~
-18   Iron Bundle   Ice
-15   Greninja   Flying
-14   Slowking   Rock
-12   Iron Jugulis   Fire
-8   Dragalge   Bug
-7   Rotom-Heat   Bug
-5   Sableye   Steel
-1   Bounsweet   Bug
-
-~260~
-17   Roaring Moon   Water
-16   Landorus-Therian   Psychic
-13   Thundurus-Therian   Dragon
-12   Kleavor   Poison
-9   Uxie   Fighting
-6   Pincurchin   Normal
-5   Articuno   Ghost
-2   Glaceon   Ghost
-
-~188~
-17   Baxcalibur   Normal
-15   Cinderace   Flying
-13   Gothitelle   Fire
-13   Espathra   Electric
-8   Hisuian Braviary   Water
-7   Gallade   Ghost
-4   Bellibolt   Fighting
-3   Luxray   Psychic
-
-~122~
-17   Great Tusk   Ice
-15   Zapdos   Bug
-14   Salamence   Normal
-14   Hydreigon   Fighting
-9   Talonflame   Normal
-7   Vaporeon   Ground
-3   Alolan Dugtrio   Bug
-1   Buizel   Fairy
-
-~297~
-18   Chi-Yu   Flying
-17   Annihilape   Fighting
-14   Corviknight   Fighting
-12   Weavile   Flying
-8   Rotom-Mow   Ground
-7   Flamigo   Bug
-3   Frosmoth   Rock
-1   Bonsly   Grass
-
-~112~
-15   Ting-Lu   Flying
-15   Iron Treads   Steel
-13   Slither Wing   Fire
-13   Glimmora   Ground
-10   Sylveon   Flying
-7   Zoroark   Flying
-4   Primeape   Dark
-3   Ampharos   Grass
-
-~121~
-17   Sneasler   Bug
-16   Urshifu-Rapid-Strike   Rock
-13   Tyranitar   Dragon
-11   Haxorus   Electric
-9   Mimikyu   Normal
-8   Overqwil   Ghost
-3   Haunter   Fighting
-3   Vivillon   Fire
+18   Garchomp   Ice
+15   Galarian Zapdos   Water
+13   Iron Jugulis   Fighting
+12   Alolan Muk   Psychic
+8   Mesprit   Psychic
+6   Galarian Articuno   Fighting
+5   Palossand   Ice
+3   Beartic   Grass
 
 ~11~
-17   Landorus-Incarnate   Rock
-16   Tornadus-Therian   Dark
-14   Zarude   Fairy
-11   Hisuian Samurott   Normal
-8   Quagsire   Fire
-7   Hoopa   Bug
-6   Hisuian Qwilfish   Psychic
-1   Charcadet   Flying
-
-~150~
-17   Garchomp   Ghost
-16   Iron Moth   Rock
-13   Azumarill   Ice
-12   Hisuian Goodra   Dark
-9   Barraskewda   Dragon
-7   Cloyster   Normal
-5   Gothorita   Flying
-1   Barboach   Fire
-
-~154~
-16   Galarian Slowking   Water
-15   Ursaluna   Electric
-14   Enamorus-Incarnate   Ice
-12   Alolan Muk   Ghost
-10   Donphan   Dragon
-8   Cyclizar   Fairy
-4   Spiritomb   Fairy
-1   Bramblin   Steel
-
-~116~
-14   Gengar   Bug
-14   Skeledirge   Normal
-14   Thundurus-Incarnate   Steel
-13   Lycanroc-Dusk   Ghost
-10   Armarouge   Psychic
-7   Medicham   Ice
-4   Zangoose   Rock
-4   Beartic   Bug
-
-~140~
-16   Volcarona   Bug
-16   Palafin   Bug
-13   Hoopa-Unbound   Psychic
-11   Klefki   Ground
-9   Bronzong   Fire
-7   Kilowattrel   Water
-5   Houndstone   Psychic
-3   Flareon   Fighting
-
-~287~
-18   Spectrier   Dragon
-16   Tornadus-Therian   Electric
-13   Hoopa-Unbound   Fighting
-12   Pawmot   Dragon
-8   Brute Bonnet   Ice
-7   Flamigo   Bug
-5   Gothorita   Fairy
-1   Carkol   Fairy
-
-~151~
-17   Sneasler   Fairy
-15   Meowscarada   Fairy
-14   Gengar   Fire
-11   Dondozo   Electric
-9   Lucario   Grass
-8   Mudsdale   Fighting
-3   Lurantis   Fire
-3   Dachsbun   Dark
-
-~214~
-18   Iron Bundle   Poison
-15   Zapdos   Fighting
-14   Enamorus-Incarnate   Ground
-11   Hippowdon   Psychic
-9   Toxtricity   Fairy
-6   Qwilfish   Water
-4   Primeape   Ground
-3   Perrserker   Normal
-
-~247~
-18   Chi-Yu   Normal
-15   Mew   Ghost
-14   Skeledirge   Fire
-11   Hisuian Arcanine   Bug
-10   Sylveon   Dragon
-6   Charizard   Bug
-5   Houndstone   Fairy
-1   Charcadet   Dark
-
-~68~
-17   Landorus-Incarnate   Fairy
-15   Cinderace   Electric
-14   Galarian Zapdos   Grass
-12   Slowbro   Water
-9   Noivern   Fire
-8   Cyclizar   Fire
-3   Leafeon   Electric
-2   Lilligant   Water
-
-~5~
-17   Baxcalibur   Fighting
-15   Dragonite   Ice
-13   Hisuian Lilligant   Dragon
-11   Klefki   Electric
-9   Barraskewda   Ghost
-7   Kilowattrel   Psychic
-5   Froslass   Fire
-3   Flareon   Psychic
-
-~61~
-17   Roaring Moon   Dark
-15   Gholdengo   Psychic
-14   Salamence   Bug
-11   Pelipper   Grass
-9   Uxie   Fire
-8   Staraptor   Electric
-3   Alolan Dugtrio   Fire
-3   Vivillon   Ghost
-
-~172~
-18   Regieleki   Fairy
-14   Quaquaval   Flying
-13   Slither Wing   Steel
-12   Iron Jugulis   Grass
-9   Inteleon   Fire
-7   Chesnaught   Rock
-4   Paldean Tauros   Dark
-3   Floatzel   Poison
-
-~9~
-17   Garchomp   Water
-15   Greninja   Ground
-13   Scizor   Flying
-12   Kleavor   Grass
-10   Amoonguss   Ghost
-7   Medicham   Flying
-4   Beartic   Steel
-2   Eiscue   Fire
-
-~278~
-18   Urshifu-Single-Strike   Flying
-15   Iron Treads   Psychic
-13   Espathra   Normal
-12   Hisuian Goodra   Electric
-8   Meloetta   Fire
-7   Eelektross   Electric
-5   Samurott   Psychic
-2   Dragonair   Water
-
-~120~
-17   Great Tusk   Psychic
-16   Palafin   Rock
-14   Slowking   Ice
-12   Enamorus-Therian   Fairy
-9   Delphox   Bug
-7   Zoroark   Psychic
-3   Greedent   Fairy
-2   Glaceon   Ghost
-
-~207~
-17   Annihilape   Fighting
-15   Ting-Lu   Bug
-13   Lycanroc-Dusk   Dark
-12   Alolan Muk   Psychic
-10   Torkoal   Dragon
-7   Hariyama   Fire
-4   Girafarig   Flying
-2   Altaria   Water
-
-~20~
-16   Volcarona   Rock
-15   Ursaluna   Rock
-14   Zarude   Bug
-11   Ceruledge   Flying
-8   Gyarados   Fairy
-7   Cloyster   Fairy
-6   Venomoth   Steel
-3   Basculin   Ground
-
-~37~
-16   Landorus-Therian   Water
-14   Hydreigon   Dragon
-14   Thundurus-Incarnate   Bug
-12   Grimmsnarl   Ground
-10   Iron Thorns   Electric
-6   Alolan Raichu   Bug
-5   Tatsugiri   Water
-3   Ampharos   Fairy
-
-~81~
-16   Iron Moth   Steel
-14   Corviknight   Psychic
-14   Iron Hands   Ice
-11   Breloom   Rock
-10   Donphan   Ground
-7   Gallade   Normal
-5   Bruxish   Poison
-3   Haunter   Psychic
-
-~110~
-16   Urshifu-Rapid-Strike   Rock
-16   Galarian Slowking   Bug
-14   Rotom-Wash   Dark
-13   Glimmora   Water
-9   Hatterene   Psychic
-6   Farigiraf   Grass
-5   Articuno   Water
-1   Bagon   Poison
-
-~286~
-18   Regieleki   Dark
-16   Volcarona   Grass
-14   Corviknight   Flying
-12   Krookodile   Rock
-8   Overqwil   Rock
-7   Rotom-Heat   Dark
-3   Houndoom   Ground
-2   Grumpig   Water
-
-~149~
-17   Garchomp   Dragon
-16   Iron Moth   Electric
-13   Glimmora   Flying
-11   Dondozo   Rock
-10   Decidueye   Poison
-6   Venomoth   Psychic
-5   Bombirdier   Water
-2   Oranguru   Bug
-
-~53~
-18   Iron Bundle   Poison
-15   Gholdengo   Psychic
-14   Salamence   Steel
-12   Hisuian Goodra   Steel
-8   Mudsdale   Psychic
-7   Eelektross   Dragon
-3   Haunter   Ghost
-3   Dachsbun   Flying
-
-~114~
-17   Baxcalibur   Bug
-15   Meowscarada   Fairy
-14   Heatran   Fire
-12   Enamorus-Therian   Grass
-9   Bronzong   Ground
-8   Staraptor   Normal
-3   Luxray   Fighting
-2   Squawkabilly   Normal
-
-~267~
-17   Great Tusk   Fighting
-15   Greninja   Water
-14   Hydreigon   Ghost
-12   Slowbro   Fire
-8   Cyclizar   Ground
-7   Chesnaught   Fairy
-4   Hisuian Avalugg   Bug
-3   Perrserker   Poison
+17   Ting-Lu   Poison
+15   Heatran   Grass
+14   Hoopa-Unbound   Fighting
+11   Scream Tail   Steel
+9   Overqwil   Rock
+7   Umbreon   Rock
+5   Dachsbun   Water
+2   Crocalor   Bug
 
 ~271~
-17   Roaring Moon   Ghost
-15   Dragonite   Fighting
-13   Hoopa-Unbound   Flying
-11   Hisuian Arcanine   Electric
-9   Delphox   Normal
-7   Chansey   Poison
-6   Pincurchin   Psychic
-2   Slaking   Normal
+17   Landorus-Therian   Poison
+16   Iron Hands   Fighting
+13   Galarian Moltres   Psychic
+12   Dondozo   Bug
+8   Hisuian Decidueye   Dark
+6   Alolan Persian   Ice
+5   Honchkrow   Dark
+3   Coalossal   Fighting
 
-~77~
-18   Spectrier   Electric
-16   Galarian Slowking   Rock
-13   Thundurus-Therian   Grass
-12   Grimmsnarl   Normal
-9   Drednaw   Steel
-6   Hisuian Typhlosion   Steel
-5   Samurott   Fairy
-1   Bronzor   Water
+~138~
+18   Sneasler   Ghost
+15   Slowking   Electric
+14   Zarude   Steel
+12   Hisuian Zoroark   Ground
+8   Wo-Chien   Fire
+6   Hisuian Typhlosion   Poison
+4   Wyrdeer   Ghost
+3   Raichu   Electric
+
+~53~
+17   Gholdengo   Psychic
+16   Skeledirge   Water
+15   Cyclizar   Normal
+11   Arcanine   Fighting
+8   Goodra   Ghost
+7   Vaporeon   Flying
+5   Braviary   Ghost
+1   Diglett   Flying
+
+~58~
+17   Iron Moth   Fire
+16   Galarian Slowking   Psychic
+14   Glimmora   Normal
+13   Gothitelle   Grass
+8   Dudunsparce   Grass
+6   Farigiraf   Fire
+5   Brambleghast   Fighting
+1   Dartrix   Ground
+
+~40~
+17   Mew   Fighting
+16   Cinderace   Fighting
+13   Ceruledge   Ghost
+11   Clodsire   Poison
+10   Toxapex   Rock
+6   Ursaring   Ice
+5   Drifblim   Ground
+2   Naclstack   Bug
+
+~234~
+16   Zapdos   Electric
+14   Hisuian Samurott   Flying
+13   Sandy Shocks   Fairy
+12   Paldean Tauros Aqua   Electric
+10   Decidueye   Electric
+7   Passimian   Flying
+5   Lycanroc-Midday   Flying
+3   Golduck   Rock
+
+~65~
+18   Volcarona   Bug
+15   Hydreigon   Steel
+14   Grimmsnarl   Fighting
+11   Torkoal   Fairy
+8   Forretress   Fire
+7   Bisharp   Water
+5   Bruxish   Grass
+2   Oinkologne   Poison
+
+~43~
+18   Enamorus-Incarnate   Ice
+15   Rotom-Wash   Rock
+13   Slowbro   Grass
+11   Donphan   Dark
+9   Toedscruel   Steel
+7   Tsareena   Fairy
+5   Ditto   Fighting
+2   Murkrow   Fighting
+
+~7~
+18   Dragonite   Psychic
+15   Hisuian Lilligant   Electric
+13   Weavile   Ghost
+13   Hisuian Goodra   Fairy
+8   Mudsdale   Rock
+7   Maushold   Bug
+3   Lurantis   Flying
+3   Bombirdier   Rock
+
+~284~
+16   Quaquaval   Electric
+15   Thundurus-Incarnate   Normal
+13   Basculegion   Normal
+12   Haxorus   Rock
+8   Florges   Ghost
+7   Eelektross   Poison
+6   Chansey   Steel
+3   Frosmoth   Poison
+
+~152~
+18   Volcarona   Poison
+16   Skeledirge   Psychic
+14   Scizor   Dragon
+11   Iron Thorns   Grass
+10   Sylveon   Psychic
+6   Farigiraf   Bug
+4   Dunsparce   Dark
+1   Calyrex   Normal
+
+~143~
+17   Ting-Lu   Fairy
+16   Galarian Slowking   Ice
+13   Galarian Moltres   Psychic
+11   Rillaboom   Dark
+10   Pawmot   Water
+6   Ursaring   Ground
+5   Avalugg   Poison
+2   Spidops   Ground
+
+~83~
+17   Iron Moth   Bug
+16   Zapdos   Water
+15   Heatran   Fighting
+11   Donphan   Psychic
+9   Hatterene   Fire
+6   Espeon   Dragon
+4   Flapple   Dark
+2   Muk   Poison
+
+~147~
+18   Garchomp   Ghost
+16   Salamence   Psychic
+13   Krookodile   Ground
+12   Cresselia   Psychic
+10   Decidueye   Dark
+6   Hisuian Electrode   Ground
+4   Cryogonal   Fighting
+1   Snover   Flying
+
+~263~
+19   Baxcalibur   Ground
+16   Cinderace   Rock
+13   Volcanion   Dragon
+11   Lokix   Dark
+9   Bronzong   Dark
+6   Charizard   Dark
+4   Articuno   Flying
+2   Crabominable   Grass
+
+~73~
+18   Annihilape   Fire
+15   Corviknight   Fairy
+14   Glimmora   Steel
+11   Amoonguss   Poison
+8   Mesprit   Ice
+7   Tsareena   Steel
+4   Rotom-Fan   Dark
+3   Spiritomb   Rock
+
+~282~
+17   Landorus-Therian   Flying
+16   Quaquaval   Bug
+13   Garganacl   Flying
+12   Dondozo   Water
+9   Salazzle   Fighting
+6   Venomoth   Ground
+5   Samurott   Flying
+2   Hisuian Sliggoo   Fighting
+
+~109~
+18   Meowscarada   Flying
+16   Iron Hands   Ground
+13   Weavile   Rock
+12   Haxorus   Rock
+8   Magnezone   Dark
+6   Pincurchin   Dark
+5   Drifblim   Steel
+2   Electrode   Normal
+
+~25~
+17   Mew   Poison
+15   Thundurus-Incarnate   Water
+13   Ceruledge   Fighting
+12   Hippowdon   Electric
+9   Delphox   Normal
+6   Toxicroak   Grass
+5   Ditto   Steel
+3   Leafeon   Electric
+
+~14~
+17   Gholdengo   Electric
+14   Thundurus-Therian   Dark
+14   Azumarill   Ghost
+12   Klefki   Fairy
+10   Toxapex   Ice
+7   Eelektross   Normal
+4   Jolteon   Fairy
+2   Oinkologne   Normal
+
+~70~
+18   Dragonite   Fairy
+15   Galarian Zapdos   Ghost
+14   Grimmsnarl   Fighting
+12   Paldean Tauros Aqua   Electric
+10   Heracross   Fairy
+7   Rotom-Heat   Normal
+3   Beartic   Bug
+1   Croagunk   Fire
+
+~62~
+17   Greninja   Fire
+15   Rotom-Wash   Steel
+13   Sandy Shocks   Flying
+12   Pelipper   Flying
+10   Drednaw   Fairy
+7   Maushold   Psychic
+5   Braviary   Steel
+1   Wingull   Psychic
+
+~61~
+18   Enamorus-Incarnate   Dragon
+15   Hisuian Lilligant   Steel
+13   Gothitelle   Bug
+13   Azelf   Dragon
+9   Glastrier   Flying
+6   Rotom-Frost   Rock
+4   Skuntank   Poison
+2   Crocalor   Steel
+
+~81~
+18   Urshifu-Rapid-Strike   Normal
+17   Ursaluna   Poison
+14   Hoopa-Unbound   Psychic
+11   Gyarados   Ground
+9   Lucario   Ice
+7   Scovillain   Rock
+3   Flareon   Grass
+1   Hatenna   Ground
+
+~19~
+18   Sneasler   Fighting
+15   Slowking   Dark
+14   Slither Wing   Grass
+11   Arcanine   Ground
+8   Meloetta   Rock
+7   Zoroark   Water
+5   Dachsbun   Normal
+2   Falinks   Ice
+
+~256~
+19   Tornadus-Therian   Flying
+14   Hisuian Samurott   Ghost
+13   Iron Jugulis   Dark
+12   Hisuian Arcanine   Fairy
+9   Uxie   Rock
+7   Chesnaught   Grass
+3   Frosmoth   Psychic
+3   Girafarig   Poison
+
+~272~
+18   Meowscarada   Fire
+15   Slowking   Fairy
+13   Basculegion   Ground
+12   Alolan Muk   Fire
+9   Bronzong   Steel
+6   Venomoth   Poison
+4   Mabosstiff   Electric
+3   Frosmoth   Ghost
+
+~276~
+18   Volcarona   Fire
+16   Cinderace   Ground
+13   Weavile   Poison
+12   Breloom   Rock
+8   Hisuian Decidueye   Fire
+6   Ursaring   Bug
+4   Froslass   Psychic
+3   Zangoose   Fire
+
+~141~
+17   Ursaluna   Dragon
+15   Galarian Zapdos   Normal
+13   Krookodile   Steel
+11   Lokix   Rock
+10   Tornadus-Incarnate   Fire
+8   Alomomola   Grass
+4   Articuno   Ice
+2   Falinks   Poison
+
+~88~
+18   Dragonite   Fairy
+16   Galarian Slowking   Ghost
+14   Thundurus-Therian   Dark
+11   Clodsire   Fire
+9   Toxtricity   Ground
+6   Alolan Persian   Electric
+4   Rabsca   Grass
+2   Lilligant   Poison
+
+~286~
+18   Sneasler   Electric
+15   Gengar   Fire
+13   Slowbro   Dragon
+11   Amoonguss   Normal
+9   Barraskewda   Water
+7   Maushold   Electric
+5   Abomasnow   Ground
+2   Houndoom   Water
+
+~158~
+18   Enamorus-Incarnate   Fighting
+15   Rotom-Wash   Grass
+13   Hawlucha   Dark
+12   Hisuian Arcanine   Water
+8   Wo-Chien   Rock
+7   Orthworm   Flying
+5   Honchkrow   Poison
+2   Squawkabilly   Normal
 
 ~160~
-17   Annihilape   Fighting
-15   Cinderace   Grass
-14   Galarian Zapdos   Dragon
-14   Enamorus-Incarnate   Poison
-10   Tornadus-Incarnate   Dragon
-6   Hisuian Qwilfish   Ghost
-3   Vivillon   Electric
-1   Azurill   Fighting
+16   Skeledirge   Flying
+16   Iron Treads   Rock
+14   Lycanroc-Dusk   Fighting
+12   Tinkaton   Psychic
+10   Decidueye   Ghost
+6   Oricorio   Flying
+5   Lycanroc-Midday   Fire
+1   Growlithe   Grass
 
-~183~
-17   Landorus-Incarnate   Water
-15   Zapdos   Rock
-14   Skeledirge   Dark
-11   Hippowdon   Dark
-10   Torkoal   Dark
-8   Regidrago   Poison
-3   Flareon   Bug
-2   Whiscash   Dark
+~140~
+16   Quaquaval   Fairy
+16   Zapdos   Dark
+14   Glimmora   Ground
+12   Dondozo   Electric
+10   Toxapex   Ghost
+6   Hisuian Typhlosion   Fighting
+4   Rotom-Fan   Psychic
+2   Oinkologne   Fairy
+
+~126~
+18   Garchomp   Normal
+15   Heatran   Ice
+14   Scizor   Grass
+12   Hisuian Zoroark   Steel
+8   Blissey   Steel
+7   Umbreon   Steel
+3   Girafarig   Steel
+3   Gothorita   Fighting
+
+~56~
+17   Landorus-Therian   Water
+15   Hydreigon   Fighting
+14   Grimmsnarl   Ice
+12   Haxorus   Normal
+8   Regidrago   Fighting
+8   Mesprit   Steel
+3   Lurantis   Normal
+3   Typhlosion   Electric
+
+~223~
+18   Annihilape   Bug
+14   Tyranitar   Psychic
+13   Enamorus-Therian   Ghost
+12   Hippowdon   Electric
+10   Galarian Slowbro   Bug
+7   Rotom-Heat   Rock
+4   Primeape   Dark
+2   Appletun   Normal
+
+~275~
+18   Urshifu-Rapid-Strike   Fairy
+15   Cyclizar   Water
+13   Hisuian Goodra   Bug
+11   Dugtrio   Normal
+10   Sylveon   Grass
+7   Hoopa   Water
+5   Tatsugiri   Ghost
+1   Sandygast   Poison
+
+~35~
+17   Ting-Lu   Ground
+17   Gholdengo   Dragon
+14   Azumarill   Electric
+12   Cresselia   Dark
+8   Diancie   Fairy
+6   Grafaiai   Fire
+5   Ditto   Fire
+1   Chespin   Steel
+
+~66~
+19   Great Tusk   Water
+15   Corviknight   Psychic
+13   Galarian Moltres   Fire
+12   Klefki   Electric
+8   Dragalge   Normal
+7   Vaporeon   Grass
+3   Vivillon   Ground
+3   Lycanroc-Midnight   Ghost
+
+~36~
+17   Iron Moth   Steel
+16   Iron Hands   Grass
+13   Gothitelle   Ground
+11   Iron Thorns   Dragon
+9   Mimikyu   Poison
+7   Medicham   Fairy
+5   Rotom   Grass
+2   Luxray   Grass
+
+~186~
+17   Greninja   Poison
+16   Salamence   Ground
+13   Sandy Shocks   Fire
+12   Kleavor   Fairy
+10   Inteleon   Water
+7   Gallade   Electric
+4   Hisuian Avalugg   Ground
+1   Yungoos   Water
+
+~182~
+19   Great Tusk   Ice
+15   Thundurus-Incarnate   Fairy
+13   Hisuian Goodra   Grass
+11   Arcanine   Bug
+8   Forretress   Psychic
+7   Medicham   Electric
+5   Paldean Tauros   Poison
+2   Camerupt   Fighting
+
+~112~
+17   Iron Moth   Dragon
+15   Hisuian Lilligant   Ice
+13   Slowbro   Normal
+13   Galarian Moltres   Fire
+11   Paldean Tauros Blaze   Dark
+6   Grafaiai   Ice
+4   Rabsca   Ice
+1   Magikarp   Dark
+
+~210~
+19   Baxcalibur   Fairy
+15   Corviknight   Grass
+13   Iron Jugulis   Fire
+11   Scream Tail   Bug
+10   Armarouge   Dragon
+6   Copperajah   Water
+3   Lycanroc-Midnight   Bug
+3   Sneasel   Rock
+
+~89~
+18   Sneasler   Flying
+16   Cinderace   Dragon
+14   Espathra   Rock
+11   Clodsire   Fire
+8   Mudsdale   Dark
+6   Toxicroak   Steel
+5   Brambleghast   Flying
+2   Dedenne   Steel
+
+~32~
+18   Garchomp   Fighting
+15   Rotom-Wash   Fighting
+13   Krookodile   Fairy
+11   Donphan   Water
+10   Drednaw   Ice
+7   Passimian   Poison
+3   Beartic   Poison
+3   Bombirdier   Ice
+
+~171~
+17   Gholdengo   Dragon
+16   Zapdos   Rock
+15   Galarian Zapdos   Water
+11   Amoonguss   Fire
+9   Bronzong   Steel
+6   Oricorio   Dark
+4   Hisuian Avalugg   Fairy
+2   Falinks   Normal
+
+~237~
+17   Greninja   Bug
+15   Heatran   Flying
+14   Grimmsnarl   Poison
+12   Klefki   Dragon
+8   Florges   Grass
+6   Farigiraf   Fighting
+5   Samurott   Grass
+3   Hisuian Sneasel   Fairy
+
+~9~
+18   Annihilape   Psychic
+16   Iron Hands   Ice
+13   Weavile   Poison
+12   Kleavor   Fighting
+8   Wo-Chien   Normal
+8   Magnezone   Ice
+3   Flareon   Grass
+2   Basculin   Ghost
+
+~146~
+18   Enamorus-Incarnate   Rock
+15   Gengar   Ice
+13   Basculegion   Rock
+11   Dugtrio   Fire
+9   Hisuian Braviary   Ghost
+7   Vaporeon   Dragon
+4   Veluza   Ghost
+3   Spiritomb   Water
+
+~159~
+18   Dragonite   Steel
+16   Salamence   Flying
+14   Hisuian Samurott   Rock
+11   Gyarados   Poison
+8   Diancie   Fairy
+8   Mesprit   Ice
+3   Zangoose   Rock
+2   Luxray   Psychic
+
+~63~
+17   Landorus-Therian   Normal
+16   Skeledirge   Ice
+14   Zarude   Water
+11   Noivern   Normal
+10   Pawmot   Dark
+6   Pincurchin   Fighting
+3   Typhlosion   Ice
+3   Girafarig   Steel
+
+~18~
+18   Volcarona   Dragon
+15   Slowking   Flying
+14   Glimmora   Bug
+12   Haxorus   Grass
+8   Blissey   Normal
+6   Chansey   Water
+4   Klawf   Fire
+3   Leafeon   Water
+
+~12~
+18   Meowscarada   Poison
+15   Hydreigon   Fairy
+13   Ceruledge   Dark
+11   Torkoal   Flying
+9   Salazzle   Flying
+8   Alomomola   Dark
+3   Perrserker   Fairy
+3   Lurantis   Normal
+
+~293~
+17   Ursaluna   Dragon
+16   Quaquaval   Grass
+13   Garganacl   Steel
+12   Paldean Tauros Aqua   Normal
+10   Cetitan   Fire
+6   Charizard   Dragon
+5   Rotom   Bug
+1   Applin   Ghost
+
+~128~
+18   Urshifu-Rapid-Strike   Flying
+16   Iron Treads   Water
+13   Azelf   Ground
+12   Dondozo   Rock
+9   Moltres   Psychic
+6   Rotom-Frost   Fire
+5   Ditto   Fighting
+1   Varoom   Ice
+
+~168~
+19   Tornadus-Therian   Poison
+16   Galarian Slowking   Steel
+13   Hawlucha   Ice
+11   Lokix   Dragon
+9   Mimikyu   Water
+6   Sableye   Fire
+4   Wyrdeer   Poison
+2   Stonjourner   Dragon
+
+~167~
+17   Greninja   Fighting
+15   Heatran   Ice
+13   Slowbro   Rock
+12   Cresselia   Grass
+10   Sylveon   Steel
+6   Qwilfish   Water
+5   Braviary   Dragon
+2   Glaceon   Fighting
+
+~208~
+19   Great Tusk   Ground
+16   Cinderace   Psychic
+14   Lycanroc-Dusk   Ghost
+11   Donphan   Rock
+10   Gastrodon   Steel
+5   Houndstone   Grass
+4   Veluza   Water
+1   Galarian Meowth   Fire
+
+~10~
+17   Gholdengo   Dark
+15   Hydreigon   Fire
+14   Hoopa-Unbound   Ghost
+12   Hippowdon   Fairy
+8   Brute Bonnet   Flying
+7   Orthworm   Fairy
+5   Ditto   Fighting
+2   Slaking   Fairy
+
+~150~
+18   Annihilape   Rock
+15   Slowking   Normal
+14   Zarude   Rock
+12   Pelipper   Fairy
+8   Diancie   Rock
+6   Alolan Raichu   Ground
+5   Dachsbun   Psychic
+2   Swalot   Ice
+
+~123~
+17   Ting-Lu   Normal
+15   Hisuian Lilligant   Grass
+14   Hisuian Samurott   Steel
+12   Haxorus   Electric
+8   Goodra   Electric
+8   Florges   Water
+4   Hisuian Avalugg   Fairy
+2   Zweilous   Grass
 
 ~255~
-17   Sneasler   Steel
-15   Ursaluna   Psychic
-13   Tyranitar   Fire
-12   Volcanion   Ice
-9   Toxtricity   Psychic
-6   Charizard   Steel
-5   Braviary   Flying
-3   Leafeon   Fairy
+18   Volcarona   Electric
+15   Rotom-Wash   Poison
+14   Slither Wing   Ground
+11   Clodsire   Dragon
+10   Drednaw   Normal
+6   Oricorio   Flying
+5   Avalugg   Normal
+1   Meditite   Normal
 
-~254~
-18   Urshifu-Single-Strike   Fire
-15   Mew   Dragon
-14   Rotom-Wash   Rock
-12   Kleavor   Fighting
-10   Sylveon   Steel
-7   Maushold   Grass
-3   Floatzel   Flying
-1   Carkol   Rock
+~162~
+18   Sneasler   Ghost
+17   Landorus-Therian   Steel
+13   Gothitelle   Flying
+11   Paldean Tauros Blaze   Ghost
+8   Hisuian Decidueye   Dragon
+7   Gallade   Ground
+4   Primeape   Rock
+2   Lilligant   Fighting
 
-~198~
-18   Chi-Yu   Steel
-14   Thundurus-Incarnate   Steel
-13   Gothitelle   Steel
-11   Breloom   Fighting
-9   Uxie   Dragon
-8   Quagsire   Bug
-4   Veluza   Steel
-3   Basculin   Dragon
-
-~103~
-16   Landorus-Therian   Dragon
-15   Ting-Lu   Ice
-15   Iron Treads   Ghost
-14   Quaquaval   Electric
-9   Salazzle   Fire
-6   Alolan Raichu   Fighting
-4   Cryogonal   Electric
-1   Arctibax   Water
-
-~64~
-16   Urshifu-Rapid-Strike   Fire
-14   Gengar   Normal
-13   Slither Wing   Grass
-11   Ceruledge   Fire
-10   Amoonguss   Rock
-9   Heracross   Water
-4   Rotom-Fan   Psychic
-3   Ampharos   Fairy
-
-~216~
-14   Iron Hands   Bug
-14   Slowking   Dragon
-13   Hisuian Lilligant   Psychic
-12   Alolan Muk   Fire
-9   Paldean Tauros Aqua   Water
-8   Tinkaton   Fighting
-7   Kilowattrel   Ground
-3   Greedent   Rock
-
-~176~
-16   Palafin   Dragon
-16   Tornadus-Therian   Ice
-13   Espathra   Dragon
-12   Basculegion   Electric
-11   Klefki   Bug
-6   Toxicroak   Ghost
-4   Bellibolt   Electric
-2   Tropius   Fire
-
-~24~
-18   Urshifu-Single-Strike   Dark
-15   Ting-Lu   Dragon
-14   Skeledirge   Dragon
-13   Gothitelle   Ice
-9   Talonflame   Fire
-6   Espeon   Dark
-4   Skuntank   Ground
-1   Carkol   Ice
-
-~184~
-17   Great Tusk   Bug
-16   Palafin   Steel
-13   Tyranitar   Steel
-11   Haxorus   Dark
-10   Arcanine   Electric
-8   Alomomola   Rock
-3   Houndoom   Psychic
-2   Whiscash   Fighting
-
-~294~
-18   Spectrier   Bug
-16   Urshifu-Rapid-Strike   Ground
-12   Krookodile   Flying
-11   Pelipper   Bug
-10   Tornadus-Incarnate   Dragon
-7   Maushold   Bug
-4   Lycanroc-Midnight   Ice
-2   Swalot   Water
-
-~181~
-17   Landorus-Incarnate   Ghost
-15   Gholdengo   Fire
-13   Azumarill   Ice
-12   Garganacl   Electric
-9   Toedscruel   Electric
-7   Hoopa   Bug
-5   Gothorita   Electric
-2   Appletun   Ghost
-
-~285~
-16   Iron Moth   Dragon
-14   Hydreigon   Fairy
-14   Thundurus-Incarnate   Dragon
-13   Thundurus-Therian   Electric
-10   Armarouge   Dark
-6   Alolan Persian   Bug
-6   Venomoth   Ground
-1   Cetoddle   Dragon
-
-~80~
-17   Garchomp   Fire
-14   Enamorus-Incarnate   Fairy
-14   Galarian Zapdos   Psychic
-14   Quaquaval   Ghost
-8   Blissey   Dragon
-6   Palossand   Dark
-6   Lycanroc-Midday   Ground
-1   Carbink   Water
-
-~165~
-17   Annihilape   Dark
-14   Zarude   Ground
-14   Slowking   Poison
-11   Galarian Moltres   Ground
-10   Cetitan   Ground
-7   Zoroark   Fire
-5   Ditto   Ground
-2   Grumpig   Fairy
-
-~215~
-17   Roaring Moon   Electric
-15   Cinderace   Dark
-15   Iron Treads   Psychic
-13   Slither Wing   Electric
-8   Magnezone   Fighting
-8   Regidrago   Grass
-3   Flareon   Poison
-1   Bounsweet   Water
-
-~209~
-17   Sneasler   Dragon
-15   Dragonite   Ground
-13   Lycanroc-Dusk   Ground
-12   Grimmsnarl   Steel
-9   Drednaw   Poison
-7   Flamigo   Steel
-5   Samurott   Bug
-2   Morgrem   Dragon
+~94~
+17   Iron Moth   Fire
+16   Iron Hands   Fire
+13   Azelf   Dragon
+11   Gyarados   Water
+9   Salazzle   Psychic
+7   Passimian   Bug
+4   Bellibolt   Bug
+3   Lurantis   Bug
 
 ~136~
-18   Chi-Yu   Normal
-17   Baxcalibur   Electric
-13   Scizor   Ghost
-11   Hisuian Arcanine   Flying
-10   Scream Tail   Fire
-6   Charizard   Water
-4   Raichu   Bug
-1   Barboach   Water
+18   Enamorus-Incarnate   Rock
+16   Skeledirge   Fire
+13   Krookodile   Ghost
+12   Dondozo   Electric
+10   Inteleon   Flying
+5   Palossand   Dragon
+4   Mabosstiff   Normal
+2   Oranguru   Electric
 
-~244~
-18   Iron Bundle   Psychic
-15   Ursaluna   Fairy
-13   Hoopa-Unbound   Fire
-12   Kleavor   Ice
-10   Galarian Slowbro   Poison
-7   Umbreon   Fighting
-4   Hisuian Avalugg   Rock
-1   Alolan Diglett   Steel
-
-~111~
-18   Regieleki   Electric
-15   Greninja   Fire
-13   Espathra   Steel
-12   Hisuian Goodra   Steel
-9   Hatterene   Normal
-6   Grafaiai   Ice
-4   Jolteon   Water
-3   Greedent   Rock
-
-~82~
-16   Landorus-Therian   Steel
-15   Mew   Water
-15   Meowscarada   Water
-12   Iron Jugulis   Fairy
-9   Paldean Tauros Blaze   Dragon
-6   Orthworm   Water
-5   Articuno   Steel
-2   Altaria   Psychic
-
-~27~
-16   Volcarona   Dragon
-15   Zapdos   Rock
-14   Iron Hands   Electric
-13   Hisuian Lilligant   Fighting
-10   Gastrodon   Normal
-7   Medicham   Electric
-3   Vivillon   Poison
-2   Frogadier   Electric
-
-~213~
-14   Corviknight   Bug
-14   Rotom-Wash   Bug
-14   Heatran   Ghost
-12   Azelf   Fighting
-10   Torkoal   Flying
-8   Florges   Steel
-5   Braviary   Ice
-3   Frosmoth   Fairy
-
-~22~
-16   Tornadus-Therian   Bug
-16   Galarian Slowking   Dark
-13   Glimmora   Fairy
-12   Weavile   Bug
-9   Heracross   Bug
-7   Vaporeon   Steel
-4   Zangoose   Dragon
-3   Ampharos   Bug
+~2~
+18   Urshifu-Rapid-Strike   Ice
+16   Iron Treads   Flying
+13   Hawlucha   Ice
+12   Tinkaton   Rock
+10   Galarian Slowbro   Psychic
+6   Rotom-Frost   Psychic
+4   Flapple   Fighting
+1   Fuecoco   Steel
 
 ~139~
-17   Annihilape   Water
-16   Tornadus-Therian   Rock
-13   Glimmora   Fairy
-12   Alolan Muk   Electric
-10   Scream Tail   Grass
-7   Passimian   Rock
-3   Haunter   Ghost
-2   Glaceon   Electric
+18   Dragonite   Fire
+16   Quaquaval   Ice
+14   Espathra   Bug
+11   Scream Tail   Water
+9   Toxtricity   Normal
+7   Mismagius   Ice
+4   Dunsparce   Rock
+1   Greavard   Ice
 
-~42~
-17   Roaring Moon   Normal
-15   Mew   Fire
-14   Thundurus-Incarnate   Dragon
-12   Kingambit   Poison
-10   Amoonguss   Water
-6   Farigiraf   Dark
-3   Basculin   Water
-3   Houndoom   Ghost
+~24~
+18   Meowscarada   Poison
+15   Galarian Zapdos   Steel
+13   Iron Jugulis   Psychic
+11   Rillaboom   Electric
+9   Overqwil   Rock
+6   Magneton   Grass
+6   Charizard   Poison
+2   Misdreavus   Electric
 
-~78~
-17   Landorus-Incarnate   Ice
-15   Greninja   Rock
-13   Slither Wing   Dark
-12   Garganacl   Normal
-11   Dugtrio   Fire
-7   Gallade   Bug
-4   Hisuian Sneasel   Dark
-1   Cetoddle   Water
+~67~
+19   Baxcalibur   Ice
+15   Thundurus-Incarnate   Steel
+13   Hisuian Goodra   Poison
+12   Hisuian Arcanine   Grass
+9   Talonflame   Water
+7   Flamigo   Bug
+4   Rabsca   Grass
+1   Vespiquen   Fighting
 
-~87~
-16   Urshifu-Rapid-Strike   Rock
-15   Gholdengo   Psychic
-14   Skeledirge   Ice
-11   Hisuian Arcanine   Ground
-10   Galarian Slowbro   Ice
-7   Arboliva   Steel
-5   Mabosstiff   Fire
-2   Misdreavus   Grass
+~192~
+17   Mew   Fire
+16   Salamence   Dark
+14   Grimmsnarl   Poison
+11   Noivern   Steel
+9   Hatterene   Steel
+6   Copperajah   Ice
+4   Rotom-Fan   Fairy
+3   Beartic   Fire
 
-~274~
-17   Sneasler   Ground
-15   Cinderace   Flying
-13   Hisuian Lilligant   Ground
-11   Breloom   Psychic
-10   Tornadus-Incarnate   Poison
-8   Dudunsparce   Flying
-5   Gothorita   Poison
-1   Carbink   Water
-
-~84~
-18   Regieleki   Fighting
-15   Zapdos   Bug
-13   Gothitelle   Normal
-12   Basculegion   Water
-9   Noivern   Psychic
-7   Flamigo   Grass
-5   Bombirdier   Water
-1   Cacturne   Dark
-
-~153~
-18   Chi-Yu   Steel
-16   Galarian Slowking   Bug
-12   Volcanion   Poison
-12   Azelf   Dragon
-10   Clodsire   Bug
-7   Kilowattrel   Steel
-4   Wyrdeer   Psychic
-1   Azurill   Water
-
-~206~
-17   Baxcalibur   Rock
-16   Iron Moth   Bug
-13   Espathra   Grass
-11   Hawlucha   Poison
-10   Rillaboom   Grass
-6   Alolan Raichu   Ghost
-4   Veluza   Flying
-3   Vivillon   Dark
-
-~59~
-16   Palafin   Flying
-15   Dragonite   Poison
-14   Zarude   Fairy
-12   Grimmsnarl   Ground
-9   Paldean Tauros Blaze   Flying
-7   Maushold   Fairy
-5   Articuno   Steel
-2   Eiscue   Bug
-
-~90~
-18   Urshifu-Single-Strike   Ghost
-16   Landorus-Therian   Ice
-14   Slowking   Normal
-11   Lokix   Fairy
-10   Armarouge   Dragon
-6   Espeon   Fairy
-3   Leafeon   Grass
-2   Falinks   Ground
-
-~163~
-18   Iron Bundle   Dragon
-16   Volcarona   Normal
-13   Thundurus-Therian   Ground
-11   Pelipper   Grass
-8   Blissey   Flying
-8   Goodra   Normal
-4   Flapple   Poison
-2   Wigglytuff   Fire
+~246~
+18   Garchomp   Flying
+15   Corviknight   Steel
+14   Scizor   Dragon
+11   Arcanine   Grass
+8   Quagsire   Water
+7   Polteageist   Normal
+5   Tatsugiri   Ground
+2   Stonjourner   Bug
 
 ~281~
-17   Garchomp   Dragon
-15   Ursaluna   Fairy
-14   Iron Hands   Ground
-12   Slowbro   Bug
+16   Zapdos   Bug
+15   Gengar   Rock
+13   Volcanion   Rock
+12   Alolan Muk   Dark
+10   Armarouge   Flying
+7   Medicham   Electric
+4   Froslass   Rock
+3   Alolan Dugtrio   Water
+
+~71~
+17   Gholdengo   Ghost
+15   Rotom-Wash   Flying
+14   Zarude   Bug
+12   Haxorus   Electric
+10   Tornadus-Incarnate   Ground
+7   Rotom-Heat   Dragon
+4   Cryogonal   Flying
+1   Spewpa   Rock
+
+~206~
+18   Volcarona   Rock
+16   Skeledirge   Flying
+13   Azelf   Dark
+12   Klefki   Ice
+9   Toedscruel   Grass
+6   Galarian Articuno   Poison
+3   Zangoose   Electric
+3   Floatzel   Poison
+
+~295~
+19   Tornadus-Therian   Fairy
+17   Mew   Fighting
+13   Gothitelle   Normal
+11   Donphan   Psychic
+8   Brute Bonnet   Ice
+7   Polteageist   Dark
+4   Primeape   Steel
+1   Carkol   Dragon
+
+~196~
+19   Great Tusk   Ground
+15   Cyclizar   Grass
+14   Thundurus-Therian   Poison
+12   Pelipper   Ghost
+8   Hisuian Decidueye   Rock
+5   Sandaconda   Electric
+5   Abomasnow   Poison
+2   Gabite   Ice
+
+~249~
+17   Ting-Lu   Electric
+15   Hydreigon   Dragon
+14   Espathra   Grass
+12   Paldean Tauros Aqua   Fire
+10   Gastrodon   Fairy
+6   Venomoth   Fairy
+4   Veluza   Steel
+2   Zweilous   Dark
+
+~107~
+17   Landorus-Therian   Electric
+16   Cinderace   Dragon
+14   Scizor   Fairy
+11   Torkoal   Ground
+9   Talonflame   Ground
+7   Gallade   Bug
+4   Skuntank   Psychic
+2   Appletun   Ground
+
+~165~
+17   Ursaluna   Dark
+16   Salamence   Ghost
+13   Volcanion   Ghost
+11   Rillaboom   Dragon
+11   Iron Thorns   Poison
+6   Oricorio   Grass
+3   Alolan Dugtrio   Psychic
+3   Coalossal   Steel
+
+~134~
+18   Enamorus-Incarnate   Ghost
+15   Thundurus-Incarnate   Fire
+13   Garganacl   Ground
+11   Gyarados   Fairy
+9   Hisuian Braviary   Psychic
+7   Hoopa   Flying
+4   Froslass   Flying
+3   Lurantis   Ice
+
+~151~
+18   Dragonite   Fire
+16   Zapdos   Grass
+14   Hisuian Samurott   Psychic
+11   Dugtrio   Grass
+9   Toxtricity   Dragon
+7   Bisharp   Steel
+4   Articuno   Bug
+1   Magikarp   Dragon
+
+~97~
+18   Garchomp   Psychic
+17   Iron Moth   Fairy
+13   Iron Jugulis   Rock
+11   Noivern   Dark
 9   Uxie   Grass
-7   Mismagius   Poison
-4   Jolteon   Ghost
-2   Electrode   Water
+6   Chansey   Fire
+4   Flapple   Fighting
+2   Murkrow   Poison
+
+~82~
+17   Greninja   Steel
+16   Iron Treads   Rock
+13   Enamorus-Therian   Poison
+11   Lokix   Dark
+9   Salazzle   Electric
+6   Hisuian Electrode   Bug
+5   Drifblim   Bug
+3   Golduck   Bug
+
+~161~
+18   Meowscarada   Psychic
+15   Heatran   Ice
+14   Glimmora   Fairy
+12   Kleavor   Ice
+8   Goodra   Ground
+7   Vaporeon   Fairy
+5   Braviary   Flying
+1   Delibird   Steel
+
+~6~
+18   Urshifu-Rapid-Strike   Flying
+15   Hisuian Lilligant   Water
+13   Hisuian Goodra   Dragon
+11   Paldean Tauros Blaze   Fighting
+10   Heracross   Bug
+6   Farigiraf   Psychic
+5   Paldean Tauros   Bug
+2   Gogoat   Rock
+
+~291~
+16   Iron Hands   Psychic
+16   Galarian Slowking   Rock
+13   Sandy Shocks   Steel
+11   Arcanine   Ice
+9   Overqwil   Normal
+8   Mudsdale   Ghost
+4   Wyrdeer   Bug
+3   Frosmoth   Ground
+
+~29~
+18   Sneasler   Flying
+15   Galarian Zapdos   Poison
+13   Basculegion   Ice
+13   Galarian Moltres   Fairy
+9   Delphox   Rock
+6   Alolan Raichu   Grass
+4   Hisuian Avalugg   Water
+2   Morgrem   Bug
+
+~105~
+19   Baxcalibur   Fighting
+15   Slowking   Bug
+13   Weavile   Ground
+11   Amoonguss   Grass
+9   Bronzong   Grass
+7   Maushold   Electric
+3   Raichu   Ghost
+3   Typhlosion   Dragon
+
+~201~
+18   Volcarona   Psychic
+16   Iron Treads   Fire
+14   Thundurus-Therian   Grass
+12   Hisuian Arcanine   Fire
+8   Dudunsparce   Fire
+7   Umbreon   Electric
+3   Lurantis   Flying
+2   Morgrem   Steel
+
+~243~
+19   Baxcalibur   Poison
+15   Galarian Zapdos   Normal
+13   Gothitelle   Ground
+12   Pelipper   Poison
+8   Florges   Electric
+7   Kilowattrel   Electric
+3   Gothorita   Grass
+3   Floatzel   Rock
+
+~149~
+17   Landorus-Therian   Flying
+15   Corviknight   Steel
+14   Lycanroc-Dusk   Steel
+12   Breloom   Dark
+8   Diancie   Electric
+6   Farigiraf   Fighting
+5   Drifblim   Steel
+3   Spiritomb   Water
+
+~80~
+19   Tornadus-Therian   Dark
+15   Cyclizar   Water
+13   Hawlucha   Flying
+11   Clodsire   Steel
+10   Armarouge   Ghost
+7   Polteageist   Flying
+3   Frosmoth   Normal
+2   Electrode   Poison
+
+~242~
+18   Urshifu-Rapid-Strike   Electric
+15   Thundurus-Incarnate   Water
+14   Zarude   Flying
+12   Kleavor   Dragon
+8   Wo-Chien   Fighting
+6   Galarian Articuno   Fighting
+4   Skuntank   Steel
+3   Vivillon   Psychic
+
+~179~
+17   Ursaluna   Electric
+15   Hydreigon   Poison
+14   Glimmora   Normal
+12   Hippowdon   Ice
+10   Inteleon   Ghost
+6   Charizard   Ground
+3   Sneasel   Fire
+3   Golduck   Normal
+
+~252~
+18   Garchomp   Water
+16   Galarian Slowking   Ice
+14   Scizor   Poison
+11   Scream Tail   Rock
+9   Uxie   Dragon
+7   Chesnaught   Poison
+4   Wyrdeer   Dark
+1   Rolycoly   Steel
+
+~91~
+18   Annihilape   Flying
+15   Slowking   Poison
+13   Volcanion   Ground
+12   Cresselia   Flying
+8   Regidrago   Psychic
+7   Flamigo   Fairy
+4   Jolteon   Water
+3   Perrserker   Rock
+
+~175~
+16   Zapdos   Psychic
+15   Hisuian Lilligant   Bug
+14   Espathra   Fighting
+12   Tinkaton   Normal
+10   Sylveon   Ground
+6   Rotom-Frost   Steel
+5   Abomasnow   Dragon
+2   Misdreavus   Water
+
+~264~
+18   Sneasler   Water
+16   Skeledirge   Ghost
+13   Hisuian Goodra   Rock
+12   Dondozo   Ghost
+10   Gardevoir   Water
+5   Bruxish   Ice
+4   Cryogonal   Poison
+2   Luxray   Ice
+
+~215~
+18   Dragonite   Flying
+16   Cinderace   Normal
+14   Hoopa-Unbound   Fire
+11   Lokix   Fighting
+8   Forretress   Fire
+6   Ursaring   Bug
+4   Froslass   Flying
+3   Flareon   Electric
+
+~204~
+17   Ting-Lu   Ice
+14   Tyranitar   Steel
+14   Hisuian Samurott   Steel
+12   Haxorus   Poison
+10   Pawmot   Steel
+7   Bisharp   Dark
+4   Klawf   Steel
+2   Eiscue   Flying
+
+~213~
+18   Meowscarada   Psychic
+16   Quaquaval   Water
+13   Enamorus-Therian   Ice
+12   Klefki   Bug
+9   Salazzle   Ghost
+7   Arboliva   Bug
+3   Typhlosion   Flying
+2   Basculin   Water
+
+~163~
+17   Iron Moth   Fairy
+15   Gengar   Psychic
+13   Garganacl   Flying
+11   Rillaboom   Ghost
+10   Tornadus-Incarnate   Dark
+7   Medicham   Fire
+5   Sandaconda   Dragon
+2   Muk   Fighting
+
+~194~
+18   Enamorus-Incarnate   Fighting
+15   Heatran   Normal
+14   Grimmsnarl   Flying
+11   Amoonguss   Flying
+10   Heracross   Ground
+6   Hisuian Electrode   Fairy
+4   Rotom-Fan   Grass
+2   Hattrem   Fighting
+
+~247~
+17   Mew   Flying
+15   Rotom-Wash   Fighting
+14   Azumarill   Bug
+11   Noivern   Electric
+8   Magnezone   Poison
+7   Scovillain   Bug
+5   Dachsbun   Rock
+3   Bombirdier   Ghost
+
+~298~
+19   Baxcalibur   Ice
+17   Greninja   Steel
+14   Azumarill   Fire
+12   Kleavor   Ghost
+8   Mudsdale   Normal
+7   Flamigo   Water
+2   Clawitzer   Grass
+1   Quilladin   Electric
+
+~220~
+18   Volcarona   Psychic
+15   Cyclizar   Fighting
+14   Grimmsnarl   Normal
+12   Pelipper   Dark
+8   Goodra   Rock
+7   Chesnaught   Rock
+3   Frosmoth   Psychic
+3   Spiritomb   Fighting
+
+~232~
+19   Great Tusk   Bug
+15   Hydreigon   Fire
+14   Lycanroc-Dusk   Fire
+11   Clodsire   Water
+9   Mimikyu   Flying
+6   Alolan Persian   Ghost
+3   Coalossal   Rock
+3   Girafarig   Ground
+
+~31~
+17   Ursaluna   Grass
+16   Iron Treads   Ice
+13   Krookodile   Ground
+11   Rillaboom   Dark
+9   Salazzle   Dragon
+8   Alomomola   Water
+5   Abomasnow   Dark
+1   Scorbunny   Psychic
+
+~199~
+18   Dragonite   Rock
+15   Corviknight   Water
+13   Hisuian Goodra   Dragon
+12   Dondozo   Dark
+10   Gardevoir   Dark
+7   Rotom-Heat   Steel
+3   Beartic   Dragon
+2   Pyroar   Ghost
+
+~74~
+17   Ting-Lu   Flying
+16   Salamence   Grass
+14   Thundurus-Therian   Fire
+12   Tinkaton   Electric
+10   Decidueye   Fighting
+6   Magneton   Ghost
+4   Bellibolt   Ground
+1   Vespiquen   Normal
+
+~297~
+17   Mew   Bug
+15   Thundurus-Incarnate   Bug
+13   Volcanion   Fire
+12   Hisuian Zoroark   Rock
+8   Hisuian Decidueye   Fighting
+7   Hariyama   Normal
+5   Samurott   Fighting
+3   Golduck   Ground
+
+~269~
+18   Sneasler   Poison
+16   Quaquaval   Fairy
+13   Galarian Moltres   Grass
+11   Noivern   Psychic
+8   Blissey   Bug
+7   Medicham   Flying
+4   Klawf   Steel
+3   Perrserker   Fire
+
+~267~
+17   Iron Moth   Grass
+16   Galarian Slowking   Ghost
+13   Basculegion   Electric
+11   Torkoal   Bug
+10   Inteleon   Ice
+6   Qwilfish   Ground
+5   Braviary   Poison
+2   Komala   Ice
+
+~244~
+18   Garchomp   Rock
+16   Cinderace   Grass
+13   Slowbro   Normal
+11   Gyarados   Bug
+9   Rotom-Mow   Steel
+7   Arboliva   Normal
+3   Floatzel   Psychic
+3   Alolan Dugtrio   Electric
+
+~129~
+18   Meowscarada   Dark
+15   Hisuian Lilligant   Fairy
+15   Heatran   Ghost
+11   Arcanine   Dark
+9   Talonflame   Ground
+6   Copperajah   Dark
+3   Leafeon   Dragon
+3   Flareon   Grass
+
+~266~
+17   Landorus-Therian   Flying
+15   Rotom-Wash   Grass
+14   Hisuian Samurott   Psychic
+12   Alolan Muk   Steel
+9   Delphox   Steel
+7   Kilowattrel   Fighting
+5   Houndstone   Dragon
+1   Psyduck   Water
+
+~86~
+18   Annihilape   Dark
+15   Galarian Zapdos   Poison
+13   Azelf   Fighting
+12   Klefki   Bug
+8   Diancie   Steel
+7   Mismagius   Fire
+4   Flapple   Dragon
+3   Bombirdier   Poison
+
+~101~
+18   Enamorus-Incarnate   Ground
+16   Skeledirge   Steel
+13   Iron Jugulis   Fire
+12   Paldean Tauros Aqua   Fairy
+10   Tornadus-Incarnate   Fighting
+6   Ursaring   Dark
+3   Raichu   Normal
+2   Slaking   Poison
+
+~214~
+19   Tornadus-Therian   Dragon
+15   Gengar   Ice
+13   Weavile   Dragon
+11   Scream Tail   Fighting
+8   Staraptor   Water
+8   Regidrago   Electric
+5   Bruxish   Dragon
+1   Frogadier   Dark
+
+~236~
+17   Gholdengo   Ghost
+16   Zapdos   Poison
+14   Slither Wing   Water
+11   Iron Thorns   Water
+9   Hatterene   Ghost
+6   Pincurchin   Fire
+5   Dachsbun   Normal
+2   Ampharos   Fairy
+
+~96~
+17   Greninja   Grass
+16   Skeledirge   Rock
+14   Tyranitar   Steel
+12   Hippowdon   Ghost
+7   Cloyster   Fairy
+7   Hariyama   Fire
+5   Brambleghast   Poison
+2   Houndoom   Dragon
+
+~197~
+18   Volcarona   Bug
+16   Iron Treads   Ice
+13   Basculegion   Rock
+11   Clodsire   Fighting
+10   Heracross   Dark
+7   Mismagius   Ice
+3   Hisuian Sneasel   Psychic
+2   Masquerain   Ground
+
+~240~
+17   Mew   Dragon
+16   Salamence   Dragon
+14   Espathra   Fighting
+12   Hisuian Arcanine   Ice
+9   Talonflame   Psychic
+6   Ursaring   Fairy
+3   Zangoose   Fairy
+3   Golduck   Water
+
+~133~
+18   Urshifu-Rapid-Strike   Rock
+16   Quaquaval   Fighting
+13   Slowbro   Steel
+12   Hisuian Zoroark   Fairy
+9   Mimikyu   Rock
+6   Hisuian Electrode   Ice
+4   Cryogonal   Psychic
+2   Camerupt   Ice
+
+~277~
+17   Ting-Lu   Rock
+16   Cinderace   Ground
+13   Ceruledge   Rock
+12   Tinkaton   Dark
+8   Staraptor   Poison
+7   Scovillain   Steel
+5   Ditto   Ice
+2   Ampharos   Fighting
+
+~87~
+17   Landorus-Therian   Electric
+16   Iron Hands   Ice
+13   Sandy Shocks   Rock
+13   Enamorus-Therian   Rock
+8   Alomomola   Ice
+6   Pincurchin   Bug
+5   Avalugg   Dragon
+2   Sawsbuck   Ice
+
+~233~
+19   Great Tusk   Electric
+16   Zapdos   Rock
+14   Lycanroc-Dusk   Fighting
+12   Breloom   Ghost
+9   Overqwil   Fire
+6   Copperajah   Electric
+3   Alolan Dugtrio   Steel
+1   Bramblin   Ground
+
+~45~
+18   Enamorus-Incarnate   Ice
+15   Hydreigon   Ghost
+14   Glimmora   Water
+11   Torkoal   Normal
+10   Decidueye   Ice
+6   Grafaiai   Water
+4   Froslass   Ghost
+2   Lilligant   Water
+
+~122~
+17   Gholdengo   Steel
+15   Gengar   Grass
+14   Thundurus-Therian   Rock
+11   Gyarados   Fire
+10   Gastrodon   Electric
+6   Toxicroak   Ghost
+5   Palossand   Fire
+2   Pyroar   Fairy
+
+~273~
+19   Baxcalibur   Steel
+15   Rotom-Wash   Water
+14   Hoopa-Unbound   Fire
+11   Rillaboom   Psychic
+9   Toedscruel   Psychic
+6   Sableye   Rock
+5   Dachsbun   Normal
+1   Quilava   Dark
+
+~254~
+18   Garchomp   Flying
+17   Ursaluna   Ground
+13   Iron Jugulis   Fire
+11   Amoonguss   Fairy
+8   Quagsire   Rock
+7   Arboliva   Dragon
+4   Dunsparce   Rock
+2   Appletun   Normal
+
+~279~
+18   Sneasler   Fighting
+15   Hisuian Lilligant   Bug
+14   Zarude   Bug
+12   Haxorus   Ice
+9   Moltres   Psychic
+6   Galarian Articuno   Normal
+4   Jolteon   Fire
+2   Spidops   Ghost
+
+~200~
+18   Annihilape   Rock
+15   Corviknight   Dark
+13   Hisuian Goodra   Fairy
+12   Dondozo   Flying
+8   Forretress   Normal
+7   Tsareena   Rock
+5   Scyther   Electric
+2   Oranguru   Fairy
+
+~248~
+18   Dragonite   Rock
+15   Galarian Zapdos   Ice
+14   Slither Wing   Steel
+11   Lokix   Ghost
+9   Hisuian Braviary   Poison
+5   Tatsugiri   Fighting
+5   Samurott   Grass
+3   Lurantis   Water
+
+~23~
+19   Tornadus-Therian   Flying
+15   Heatran   Dark
+14   Scizor   Fire
+11   Iron Thorns   Ghost
+9   Delphox   Fairy
+7   Eelektross   Rock
+3   Bombirdier   Dark
+2   Wigglytuff   Ghost
+
+~218~
+16   Galarian Slowking   Poison
+15   Slowking   Fairy
+15   Thundurus-Incarnate   Rock
+12   Paldean Tauros Aqua   Flying
+9   Hatterene   Normal
+6   Alolan Persian   Ghost
+6   Magneton   Bug
+1   Krokorok   Fairy
+
+~106~
+18   Dragonite   Rock
+16   Skeledirge   Flying
+13   Basculegion   Electric
+12   Dondozo   Dragon
+8   Hisuian Decidueye   Poison
+7   Chesnaught   Poison
+3   Leafeon   Grass
+3   Girafarig   Ice
+
+~127~
+17   Ting-Lu   Ice
+16   Galarian Slowking   Fire
+13   Volcanion   Grass
+12   Tinkaton   Ghost
+8   Dudunsparce   Ghost
+7   Zoroark   Dragon
+5   Lycanroc-Midday   Fire
+2   Swalot   Flying
+
+~108~
+19   Tornadus-Therian   Fire
+15   Slowking   Ghost
+14   Scizor   Psychic
+11   Amoonguss   Fire
+10   Cetitan   Ice
+6   Toxicroak   Flying
+4   Jolteon   Rock
+1   Shroodle   Rock
+
+~292~
+18   Volcarona   Fighting
+15   Cyclizar   Ghost
+14   Hoopa-Unbound   Rock
+11   Gyarados   Fairy
+9   Bronzong   Poison
+6   Farigiraf   Poison
+5   Houndstone   Normal
+2   Stonjourner   Fire
+
+~241~
+17   Landorus-Therian   Rock
+15   Gengar   Dark
+14   Espathra   Psychic
+12   Pelipper   Bug
+10   Toxapex   Water
+6   Ursaring   Poison
+4   Klawf   Dragon
+2   Morgrem   Steel
+
+~278~
+18   Meowscarada   Dark
+16   Salamence   Electric
+13   Ceruledge   Grass
+12   Haxorus   Ghost
+9   Delphox   Normal
+7   Polteageist   Bug
+3   Lycanroc-Midnight   Dragon
+2   Thwackey   Fairy
+
+~77~
+17   Iron Moth   Fighting
+16   Iron Hands   Ice
+12   Hisuian Arcanine   Ice
+12   Paldean Tauros Aqua   Normal
+10   Gastrodon   Dark
+7   Scovillain   Dark
+4   Froslass   Ghost
+2   Altaria   Dragon
+
+~103~
+18   Enamorus-Incarnate   Fighting
+14   Glimmora   Water
+14   Slither Wing   Ghost
+12   Hippowdon   Fighting
+10   Gardevoir   Ghost
+6   Rotom-Frost   Poison
+4   Dunsparce   Rock
+2   Dedenne   Bug
+
+~170~
+17   Gholdengo   Water
+15   Galarian Zapdos   Ice
+15   Hydreigon   Flying
+13   Hisuian Goodra   Rock
+8   Florges   Bug
+6   Alolan Raichu   Ground
+5   Abomasnow   Water
+1   Dragonair   Dragon
+
+~280~
+17   Mew   Psychic
+15   Hisuian Lilligant   Electric
+13   Galarian Moltres   Fire
+12   Breloom   Electric
+9   Glastrier   Fairy
+7   Medicham   Ground
+5   Samurott   Poison
+2   Hattrem   Fire
+
+~217~
+17   Ursaluna   Water
+15   Corviknight   Grass
+13   Slowbro   Rock
+12   Cresselia   Rock
+8   Brute Bonnet   Water
+7   Mismagius   Dark
+5   Scyther   Psychic
+3   Hisuian Sneasel   Water
+
+~99~
+17   Greninja   Bug
+16   Zapdos   Fighting
+14   Tyranitar   Electric
+12   Alolan Muk   Ghost
+9   Uxie   Normal
+6   Copperajah   Rock
+4   Rabsca   Fire
+2   Crabominable   Ice
+
+~79~
+18   Garchomp   Fairy
+15   Heatran   Electric
+14   Hisuian Samurott   Rock
+12   Hisuian Zoroark   Rock
+9   Salazzle   Ground
+7   Kilowattrel   Normal
+3   Lurantis   Flying
+2   Slaking   Fire
+
+~261~
+18   Annihilape   Fairy
+16   Cinderace   Ground
+15   Rotom-Wash   Water
+12   Klefki   Grass
+8   Quagsire   Fairy
+6   Grafaiai   Water
+4   Bellibolt   Flying
+1   Chewtle   Psychic
+
+~110~
+18   Urshifu-Rapid-Strike   Ghost
+16   Iron Treads   Bug
+13   Azelf   Dragon
+11   Scream Tail   Ground
+9   Talonflame   Electric
+7   Gallade   Ice
+5   Bruxish   Ghost
+1   Carbink   Electric
+
+~135~
+18   Sneasler   Psychic
+16   Quaquaval   Ice
+13   Iron Jugulis   Normal
+10   Galarian Slowbro   Steel
+8   Wo-Chien   Grass
+7   Hariyama   Flying
+6   Magneton   Poison
+2   Eiscue   Ground
+
+~39~
+17   Gholdengo   Ghost
+14   Zarude   Psychic
+13   Enamorus-Therian   Fairy
+11   Clodsire   Poison
+10   Gardevoir   Dark
+7   Flamigo   Psychic
+5   Palossand   Flying
+3   Coalossal   Ghost
+
+~173~
+18   Dragonite   Fire
+16   Quaquaval   Electric
+14   Espathra   Grass
+11   Noivern   Bug
+7   Chesnaught   Bug
+7   Kilowattrel   Ice
+5   Scyther   Rock
+2   Oranguru   Bug
+
+~268~
+17   Mew   Ground
+15   Heatran   Grass
+14   Scizor   Ground
+11   Paldean Tauros Blaze   Fighting
+10   Armarouge   Ice
+6   Ursaring   Ghost
+4   Hisuian Avalugg   Steel
+3   Typhlosion   Water
+
+~176~
+19   Baxcalibur   Grass
+15   Gengar   Dark
+14   Hoopa-Unbound   Dark
+11   Gyarados   Steel
+10   Pawmot   Ghost
+6   Alolan Raichu   Poison
+4   Skuntank   Ice
+1   Cetoddle   Ground
+
+~198~
+17   Ting-Lu   Ground
+16   Zapdos   Electric
+13   Sandy Shocks   Poison
+11   Arcanine   Normal
+9   Lucario   Electric
+7   Polteageist   Steel
+5   Avalugg   Electric
+2   Naclstack   Normal
+
+~245~
+17   Iron Moth   Fairy
+16   Iron Treads   Fighting
+14   Glimmora   Steel
+12   Tinkaton   Ice
+8   Dudunsparce   Dragon
+7   Revavroom   Poison
+3   Gothorita   Water
+3   Leafeon   Psychic
+
+~144~
+18   Garchomp   Rock
+16   Salamence   Ice
+13   Galarian Moltres   Ground
+11   Lokix   Fire
+8   Hisuian Decidueye   Poison
+6   Espeon   Fire
+5   Ditto   Dragon
+3   Raichu   Grass
+
+~46~
+17   Greninja   Fairy
+16   Cinderace   Ground
+13   Slowbro   Water
+11   Torkoal   Grass
+10   Toxapex   Water
+6   Venomoth   Poison
+4   Veluza   Electric
+3   Zangoose   Grass
+
+~205~
+17   Landorus-Therian   Fire
+15   Hydreigon   Normal
+14   Tyranitar   Water
+12   Alolan Muk   Ground
+10   Tornadus-Incarnate   Fighting
+6   Copperajah   Grass
+3   Alolan Dugtrio   Fighting
+3   Sneasel   Ice
+
+~212~
+18   Enamorus-Incarnate   Bug
+15   Hisuian Lilligant   Fairy
+14   Thundurus-Therian   Dragon
+12   Pelipper   Poison
+10   Heracross   Ground
+5   Brambleghast   Flying
+5   Houndstone   Ground
+1   Magikarp   Bug
+
+~258~
+18   Volcarona   Dark
+16   Galarian Slowking   Water
+13   Azelf   Bug
+12   Hisuian Zoroark   Fighting
+8   Regidrago   Bug
+7   Hoopa   Water
+3   Hisuian Sneasel   Psychic
+3   Perrserker   Ice
+
+~257~
+18   Urshifu-Rapid-Strike   Steel
+14   Grimmsnarl   Rock
+14   Azumarill   Rock
+12   Hippowdon   Dragon
+9   Rotom-Mow   Ice
+7   Vaporeon   Grass
+4   Primeape   Rock
+2   Whiscash   Bug
+
+~84~
+19   Great Tusk   Fighting
+17   Ursaluna   Ice
+13   Hawlucha   Ice
+11   Amoonguss   Dragon
+9   Salazzle   Dark
+6   Oricorio   Fighting
+3   Beartic   Ghost
+2   Murkrow   Dark
+
+~222~
+18   Annihilape   Ground
+14   Hisuian Samurott   Ground
+13   Iron Jugulis   Bug
+12   Dondozo   Bug
+10   Inteleon   Fighting
+6   Alolan Persian   Electric
+4   Cryogonal   Water
+3   Lurantis   Electric
+
+~221~
+18   Sneasler   Rock
+15   Corviknight   Water
+14   Slither Wing   Ghost
+12   Cresselia   Ground
+9   Bronzong   Fairy
+6   Chansey   Water
+3   Flareon   Steel
+3   Golduck   Ground
+
+~157~
+19   Tornadus-Therian   Flying
+15   Rotom-Wash   Bug
+13   Weavile   Ghost
+12   Klefki   Grass
+9   Toedscruel   Water
+7   Arboliva   Grass
+4   Flapple   Fire
+1   Flaaffy   Dragon
+
+~285~
+17   Landorus-Therian   Ground
+15   Gengar   Fairy
+13   Ceruledge   Poison
+11   Iron Thorns   Water
+8   Blissey   Psychic
+7   Umbreon   Dragon
+6   Charizard   Fire
+3   Perrserker   Bug
+
+~288~
+17   Iron Moth   Grass
+15   Galarian Zapdos   Fighting
+14   Tyranitar   Rock
+12   Pelipper   Flying
+10   Galarian Slowbro   Psychic
+6   Sableye   Rock
+3   Lycanroc-Midnight   Water
+3   Lurantis   Fairy
+
+~148~
+18   Sneasler   Flying
+15   Cyclizar   Bug
+14   Slither Wing   Grass
+11   Scream Tail   Ghost
+10   Cetitan   Bug
+6   Alolan Persian   Fairy
+5   Paldean Tauros   Bug
+1   Flittle   Fire
+
+~193~
+17   Ting-Lu   Ghost
+15   Corviknight   Psychic
+14   Thundurus-Therian   Ghost
+12   Kleavor   Rock
+9   Moltres   Water
+7   Mismagius   Normal
+3   Sneasel   Ice
+3   Raichu   Ghost
+
+~164~
+18   Enamorus-Incarnate   Fighting
+15   Heatran   Psychic
+14   Azumarill   Flying
+11   Amoonguss   Electric
+9   Barraskewda   Psychic
+6   Hisuian Electrode   Poison
+4   Primeape   Grass
+3   Vivillon   Bug
+
+~226~
+17   Mew   Dark
+17   Ursaluna   Steel
+13   Volcanion   Electric
+12   Dondozo   Fairy
+9   Delphox   Normal
+6   Espeon   Dark
+3   Floatzel   Dark
+3   Coalossal   Electric
+
+~44~
+17   Gholdengo   Ground
+16   Iron Hands   Electric
+15   Hydreigon   Rock
+12   Hisuian Arcanine   Ice
+9   Talonflame   Ground
+6   Farigiraf   Water
+3   Flareon   Fighting
+2   Clawitzer   Dark
+
+~178~
+18   Annihilape   Psychic
+16   Quaquaval   Dragon
+13   Sandy Shocks   Ground
+11   Gyarados   Steel
+8   Mudsdale   Grass
+6   Magneton   Steel
+5   Abomasnow   Fire
+3   Typhlosion   Dark
+
+~72~
+18   Meowscarada   Rock
+15   Rotom-Wash   Fire
+13   Hawlucha   Normal
+11   Lokix   Psychic
+10   Drednaw   Fighting
+7   Passimian   Ground
+3   Spiritomb   Steel
+3   Beartic   Rock
+
+~30~
+18   Garchomp   Grass
+16   Salamence   Flying
+13   Slowbro   Water
+11   Arcanine   Rock
+9   Overqwil   Fire
+7   Hariyama   Poison
+5   Palossand   Dragon
+1   Hippopotas   Fighting
+
+~75~
+17   Greninja   Fire
+16   Galarian Slowking   Ice
+14   Lycanroc-Dusk   Grass
+12   Haxorus   Grass
+9   Lucario   Ice
+7   Medicham   Electric
+4   Mabosstiff   Ice
+1   Haunter   Water
+
+~290~
+18   Volcarona   Poison
+16   Zapdos   Fairy
+13   Azelf   Flying
+12   Klefki   Dragon
+9   Uxie   Flying
+6   Rotom-Frost   Poison
+4   Hisuian Avalugg   Dragon
+2   Wigglytuff   Psychic
+
+~183~
+18   Urshifu-Rapid-Strike   Ice
+16   Cinderace   Fairy
+13   Basculegion   Flying
+12   Hisuian Zoroark   Fighting
+9   Hisuian Braviary   Ice
+7   Arboliva   Ghost
+3   Bombirdier   Ground
+2   Seviper   Ghost
+
+~116~
+19   Tornadus-Therian   Normal
+15   Slowking   Normal
+14   Zarude   Ghost
+11   Clodsire   Fairy
+8   Alomomola   Ice
+6   Hisuian Qwilfish   Dragon
+4   Bellibolt   Ground
+3   Girafarig   Fairy
+
+~113~
+18   Dragonite   Dragon
+15   Hisuian Lilligant   Grass
+13   Enamorus-Therian   Psychic
+11   Torkoal   Normal
+10   Toxapex   Ghost
+6   Qwilfish   Ice
+4   Skuntank   Normal
+3   Hisuian Sneasel   Dark
+
+~55~
+19   Great Tusk   Dragon
+15   Thundurus-Incarnate   Psychic
+13   Gothitelle   Ground
+11   Paldean Tauros Blaze   Psychic
+9   Rotom-Mow   Flying
+5   Samurott   Normal
+5   Indeedee   Fairy
+3   Gothorita   Dragon
+
+~22~
+17   Mew   Ghost
+15   Hydreigon   Fairy
+14   Slither Wing   Normal
+13   Iron Jugulis   Bug
+8   Wo-Chien   Bug
+6   Venomoth   Flying
+4   Flapple   Flying
+3   Sneasel   Normal
+
+~51~
+19   Tornadus-Therian   Poison
+15   Rotom-Wash   Ground
+14   Grimmsnarl   Ground
+11   Rillaboom   Rock
+9   Hisuian Braviary   Ghost
+6   Rotom-Frost   Water
+5   Ditto   Ice
+1   Jumpluff   Fairy
+
+~274~
+17   Gholdengo   Ghost
+16   Iron Treads   Dark
+13   Weavile   Normal
+11   Noivern   Psychic
+9   Overqwil   Normal
+7   Vaporeon   Electric
+4   Hisuian Avalugg   Normal
+3   Typhlosion   Bug
+
+~299~
+17   Ting-Lu   Electric
+16   Skeledirge   Ground
+15   Galarian Zapdos   Rock
+11   Gyarados   Dragon
+9   Moltres   Grass
+7   Tsareena   Steel
+3   Frosmoth   Ghost
+2   Oinkologne   Psychic
+
+~265~
+18   Dragonite   Psychic
+17   Iron Moth   Steel
+13   Slowbro   Steel
+12   Pelipper   Rock
+9   Talonflame   Ghost
+6   Oricorio   Fairy
+3   Bombirdier   Fairy
+2   Basculin   Water
+
+~21~
+18   Annihilape   Normal
+15   Slowking   Water
+13   Hisuian Goodra   Water
+12   Kleavor   Ghost
+8   Hisuian Decidueye   Fighting
+7   Flamigo   Dragon
+4   Veluza   Fire
+3   Raichu   Normal
+
+~300~
+16   Zapdos   Dark
+16   Salamence   Fairy
+14   Glimmora   Dark
+11   Clodsire   Poison
+9   Rotom-Mow   Poison
+6   Chansey   Fairy
+5   Honchkrow   Fire
+3   Coalossal   Dragon
+
+~27~
+18   Enamorus-Incarnate   Dark
+17   Landorus-Therian   Fire
+13   Sandy Shocks   Dragon
+12   Hisuian Zoroark   Ice
+8   Florges   Dark
+6   Grafaiai   Normal
+5   Indeedee   Ghost
+1   Riolu   Dark
+
+~104~
+15   Cyclizar   Electric
+15   Hisuian Lilligant   Grass
+15   Corviknight   Psychic
+13   Galarian Moltres   Dark
+9   Toxtricity   Rock
+7   Maushold   Ground
+4   Jolteon   Grass
+2   Seviper   Steel
+
+~118~
+18   Meowscarada   Rock
+16   Iron Hands   Dark
+13   Gothitelle   Dragon
+12   Alolan Muk   Normal
+8   Quagsire   Electric
+7   Rotom-Heat   Fairy
+5   Abomasnow   Steel
+1   Calyrex   Ground
+
+~156~
+18   Sneasler   Grass
+16   Cinderace   Psychic
+12   Cresselia   Dragon
+12   Haxorus   Water
+10   Gardevoir   Fire
+6   Hisuian Typhlosion   Ghost
+4   Wyrdeer   Normal
+2   Luxray   Flying
+
+~13~
+17   Ursaluna   Electric
+15   Thundurus-Incarnate   Normal
+14   Espathra   Dragon
+12   Hippowdon   Ghost
+10   Cetitan   Ground
+6   Copperajah   Fairy
+3   Floatzel   Rock
+3   Perrserker   Psychic
+
+~154~
+18   Urshifu-Rapid-Strike   Grass
+16   Quaquaval   Steel
+14   Scizor   Electric
+12   Breloom   Poison
+8   Blissey   Ghost
+7   Zoroark   Dark
+3   Lurantis   Ghost
+2   Oranguru   Bug
+
+~50~
+18   Garchomp   Ice
+14   Lycanroc-Dusk   Ghost
+14   Hoopa-Unbound   Water
+12   Tinkaton   Ice
+10   Sylveon   Electric
+7   Medicham   Grass
+4   Cryogonal   Ghost
+1   Bonsly   Rock
+
+~16~
+19   Baxcalibur   Steel
+16   Galarian Slowking   Psychic
+13   Garganacl   Ground
+11   Paldean Tauros Blaze   Dark
+10   Armarouge   Poison
+5   Brambleghast   Ice
+4   Primeape   Fighting
+2   Masquerain   Ghost
+
+~185~
+19   Great Tusk   Ground
+17   Greninja   Ghost
+13   Azelf   Poison
+11   Lokix   Grass
+9   Lucario   Rock
+6   Alolan Raichu   Dark
+3   Lycanroc-Midnight   Dragon
+2   Morgrem   Fairy
+
+~227~
+18   Sneasler   Electric
+16   Skeledirge   Steel
+14   Zarude   Bug
+12   Tinkaton   Fire
+8   Dragalge   Fire
+6   Venomoth   Water
+4   Cryogonal   Steel
+2   Clawitzer   Normal
+
+~177~
+17   Gholdengo   Ice
+15   Galarian Zapdos   Psychic
+14   Hisuian Samurott   Bug
+12   Dondozo   Ice
+9   Talonflame   Bug
+7   Mismagius   Normal
+5   Braviary   Rock
+1   Teddiursa   Steel
+
+~49~
+18   Dragonite   Ghost
+15   Rotom-Wash   Ground
+12   Breloom   Ghost
+11   Torkoal   Electric
+9   Mimikyu   Psychic
+7   Rotom-Heat   Ground
+5   Honchkrow   Fairy
+3   Leafeon   Poison
+
+~287~
+18   Volcarona   Poison
+15   Gengar   Water
+14   Espathra   Ghost
+12   Haxorus   Electric
+8   Dudunsparce   Fairy
+6   Hisuian Typhlosion   Steel
+5   Lycanroc-Midday   Electric
+2   Muk   Flying
+
+~238~
+17   Greninja   Water
+16   Quaquaval   Electric
+14   Scizor   Ice
+11   Scream Tail   Grass
+10   Pawmot   Steel
+5   Drifblim   Fairy
+5   Avalugg   Electric
+2   Crocalor   Rock
+
+~124~
+17   Ting-Lu   Flying
+16   Cinderace   Dragon
+13   Hisuian Goodra   Rock
+11   Lokix   Dark
+10   Inteleon   Bug
+7   Gallade   Dragon
+3   Zangoose   Psychic
+3   Lurantis   Fighting
+
+~93~
+18   Enamorus-Incarnate   Flying
+16   Zapdos   Ghost
+13   Slowbro   Water
+11   Paldean Tauros Blaze   Fairy
+10   Gastrodon   Fire
+6   Espeon   Flying
+4   Skuntank   Fire
+2   Morgrem   Water
+
+~262~
+17   Landorus-Therian   Fighting
+16   Iron Treads   Ice
+14   Slither Wing   Grass
+12   Hisuian Zoroark   Ice
+8   Quagsire   Psychic
+7   Bisharp   Fairy
+3   Alolan Dugtrio   Dragon
+3   Raichu   Poison
+
+~155~
+19   Great Tusk   Fairy
+16   Iron Hands   Fire
+13   Garganacl   Dragon
+10   Decidueye   Ground
+9   Hisuian Braviary   Bug
+8   Hisuian Decidueye   Water
+3   Typhlosion   Dragon
+2   Basculin   Ground
+
+~191~
+17   Iron Moth   Normal
+15   Thundurus-Incarnate   Steel
+14   Thundurus-Therian   Grass
+12   Hippowdon   Ground
+9   Toedscruel   Rock
+7   Polteageist   Grass
+5   Houndstone   Fire
+1   Bonsly   Ice
+
+~41~
+18   Meowscarada   Fire
+16   Salamence   Poison
+13   Krookodile   Grass
+12   Cresselia   Fairy
+9   Overqwil   Fighting
+7   Scovillain   Ground
+3   Flareon   Rock
+2   Misdreavus   Grass
+
+~207~
+17   Mew   Poison
+16   Galarian Slowking   Dragon
+13   Basculegion   Flying
+11   Iron Thorns   Fire
+9   Bronzong   Water
+7   Passimian   Fighting
+4   Wyrdeer   Dark
+3   Golduck   Bug
+
+~224~
+18   Annihilape   Water
+17   Ursaluna   Fighting
+13   Weavile   Fire
+11   Noivern   Ice
+8   Brute Bonnet   Ghost
+7   Vaporeon   Fighting
+4   Rotom-Fan   Dark
+2   Ampharos   Dark
+
+~189~
+18   Garchomp   Fighting
+15   Hydreigon   Poison
+14   Lycanroc-Dusk   Fairy
+12   Hisuian Arcanine   Ice
+9   Rotom-Mow   Fairy
+7   Cloyster   Ghost
+3   Lycanroc-Midnight   Dragon
+2   Houndoom   Poison
+
+~98~
+18   Urshifu-Rapid-Strike   Water
+15   Cyclizar   Rock
+14   Azumarill   Ground
+10   Cetitan   Fire
+9   Moltres   Fighting
+7   Umbreon   Dragon
+4   Bellibolt   Ground
+3   Perrserker   Dark
+
+~250~
+19   Baxcalibur   Fire
+15   Heatran   Fire
+12   Paldean Tauros Aqua   Fairy
+12   Klefki   Poison
+10   Drednaw   Fire
+6   Rotom-Frost   Normal
+5   Paldean Tauros   Bug
+1   Growlithe   Electric
+
+~60~
+17   Greninja   Steel
+16   Iron Treads   Bug
+14   Tyranitar   Normal
+13   Azelf   Fighting
+8   Brute Bonnet   Fairy
+6   Oricorio   Bug
+3   Golduck   Fairy
+3   Bombirdier   Normal
+
+~174~
+18   Annihilape   Normal
+15   Hisuian Lilligant   Grass
+14   Espathra   Ice
+11   Dugtrio   Rock
+8   Goodra   Normal
+8   Florges   Steel
+4   Skuntank   Poison
+2   Morgrem   Bug
+
+~78~
+17   Iron Moth   Ghost
+15   Corviknight   Fairy
+14   Grimmsnarl   Fighting
+12   Paldean Tauros Aqua   Poison
+9   Talonflame   Grass
+7   Vaporeon   Bug
+4   Cryogonal   Bug
+2   Wigglytuff   Electric
+
+~202~
+17   Ting-Lu   Normal
+15   Galarian Zapdos   Bug
+14   Zarude   Psychic
+13   Gothitelle   Flying
+9   Moltres   Poison
+6   Sableye   Fighting
+4   Rabsca   Steel
+2   Altaria   Electric
+
+~153~
+17   Gholdengo   Normal
+16   Skeledirge   Psychic
+13   Volcanion   Dragon
+12   Breloom   Ground
+8   Dragalge   Ice
+8   Dudunsparce   Dark
+5   Tatsugiri   Ice
+1   Arctibax   Dragon
+
+~57~
+18   Enamorus-Incarnate   Grass
+15   Rotom-Wash   Water
+13   Enamorus-Therian   Flying
+12   Pelipper   Water
+9   Hatterene   Dragon
+7   Flamigo   Steel
+3   Lurantis   Normal
+3   Gothorita   Electric
+
+~69~
+17   Mew   Ice
+16   Galarian Slowking   Dark
+13   Hawlucha   Poison
+13   Ceruledge   Dragon
+8   Regidrago   Normal
+7   Umbreon   Psychic
+4   Primeape   Poison
+2   Luxray   Psychic
+
+~203~
+17   Landorus-Therian   Grass
+16   Cinderace   Fighting
+13   Hisuian Goodra   Ghost
+12   Klefki   Steel
+9   Hisuian Braviary   Normal
+7   Tsareena   Dragon
+4   Froslass   Water
+2   Greedent   Fire
+
+~34~
+19   Great Tusk   Fairy
+16   Iron Hands   Flying
+14   Lycanroc-Dusk   Fire
+11   Clodsire   Normal
+9   Bronzong   Normal
+6   Chansey   Water
+4   Rotom-Fan   Water
+1   Growlithe   Ice
+
+~95~
+17   Ursaluna   Poison
+15   Hydreigon   Poison
+13   Krookodile   Dragon
+11   Rillaboom   Water
+11   Donphan   Flying
+6   Hisuian Typhlosion   Flying
+5   Braviary   Psychic
+2   Squawkabilly   Psychic
+
+~251~
+18   Sneasler   Ice
+16   Salamence   Normal
+13   Weavile   Electric
+11   Lokix   Poison
+9   Uxie   Electric
+7   Eelektross   Fire
+3   Spiritomb   Bug
+3   Typhlosion   Ground
+
+~289~
+18   Urshifu-Rapid-Strike   Normal
+16   Zapdos   Ghost
+14   Thundurus-Therian   Grass
+12   Alolan Muk   Fairy
+8   Alomomola   Fire
+6   Qwilfish   Psychic
+4   Hisuian Avalugg   Grass
+2   Electrode   Grass
+
+~5~
+18   Meowscarada   Dragon
+15   Slowking   Dragon
+13   Galarian Moltres   Dark
+13   Sandy Shocks   Poison
+10   Inteleon   Dragon
+6   Farigiraf   Grass
+4   Mabosstiff   Electric
+1   Glimmet   Water
+
+~26~
+18   Volcarona   Ghost
+15   Gengar   Grass
+14   Azumarill   Steel
+12   Dondozo   Fighting
+10   Pawmot   Bug
+7   Zoroark   Psychic
+3   Hisuian Sneasel   Dark
+1   Charcadet   Ground
+
+~52~
+19   Tornadus-Therian   Psychic
+15   Heatran   Flying
+13   Iron Jugulis   Normal
+11   Iron Thorns   Water
+9   Rotom-Mow   Steel
+7   Gallade   Fairy
+3   Coalossal   Bug
+3   Leafeon   Poison
+
+~125~
+19   Baxcalibur   Dark
+16   Quaquaval   Fighting
+13   Basculegion   Electric
+11   Arcanine   Ice
+8   Mesprit   Grass
+6   Rotom-Frost   Psychic
+4   Jolteon   Flying
+3   Zangoose   Dark
+
+~260~
+18   Annihilape   Psychic
+16   Galarian Slowking   Water
+14   Tyranitar   Fairy
+12   Breloom   Water
+9   Delphox   Water
+6   Hisuian Qwilfish   Fire
+4   Mabosstiff   Rock
+1   Marill   Fairy
+
+~225~
+18   Meowscarada   Fighting
+16   Skeledirge   Fairy
+14   Espathra   Grass
+12   Cresselia   Dragon
+8   Blissey   Ground
+6   Alolan Persian   Dragon
+3   Floatzel   Grass
+3   Coalossal   Poison
+
+~59~
+18   Dragonite   Steel
+15   Hisuian Lilligant   Grass
+14   Lycanroc-Dusk   Fighting
+12   Alolan Muk   Rock
+8   Alomomola   Fire
+7   Eelektross   Dark
+5   Indeedee   Fighting
+1   Dewott   Psychic
+
+~28~
+18   Garchomp   Ghost
+16   Iron Treads   Grass
+14   Hisuian Samurott   Fire
+12   Hippowdon   Grass
+9   Toedscruel   Ghost
+6   Hisuian Typhlosion   Bug
+4   Hisuian Avalugg   Ghost
+1   Carkol   Ghost
+
+~190~
+18   Urshifu-Rapid-Strike   Fire
+15   Thundurus-Incarnate   Psychic
+13   Gothitelle   Poison
+11   Arcanine   Bug
+10   Gastrodon   Dragon
+7   Revavroom   Psychic
+4   Bellibolt   Flying
+2   Whiscash   Grass
+
+~253~
+17   Iron Moth   Water
+15   Rotom-Wash   Water
+14   Glimmora   Dark
+12   Klefki   Ghost
+10   Sylveon   Grass
+6   Grafaiai   Poison
+5   Samurott   Fire
+1   Bounsweet   Electric
+
+~42~
+18   Volcarona   Dragon
+16   Cinderace   Normal
+14   Thundurus-Therian   Ground
+12   Dondozo   Electric
+8   Goodra   Flying
+6   Qwilfish   Ground
+5   Brambleghast   Poison
+1   Shellos   Fire
+
+~296~
+17   Greninja   Psychic
+17   Ting-Lu   Water
+15   Cyclizar   Rock
+12   Kleavor   Ground
+8   Wo-Chien   Ghost
+7   Flamigo   Dragon
+3   Bombirdier   Rock
+1   Deerling   Bug
+
+~230~
+18   Enamorus-Incarnate   Ice
+16   Zapdos   Normal
+14   Grimmsnarl   Normal
+11   Scream Tail   Dark
+9   Mimikyu   Electric
+7   Passimian   Rock
+4   Rabsca   Fire
+1   Dartrix   Steel
+
+~169~
+16   Quaquaval   Ice
+15   Hydreigon   Flying
+13   Hisuian Goodra   Flying
+12   Hisuian Arcanine   Fighting
+10   Armarouge   Fairy
+6   Venomoth   Rock
+5   Bruxish   Ground
+3   Perrserker   Grass
+
+~229~
+18   Sneasler   Ice
+15   Corviknight   Psychic
+14   Azumarill   Fire
+12   Haxorus   Grass
+7   Maushold   Fighting
+6   Charizard   Fairy
+5   Honchkrow   Fire
+3   Frosmoth   Electric
+
+~270~
+19   Baxcalibur   Steel
+16   Salamence   Rock
+14   Slither Wing   Dark
+11   Torkoal   Ground
+7   Arboliva   Psychic
+6   Farigiraf   Psychic
+6   Alolan Raichu   Grass
+1   Eevee   Rock
+
+~209~
+17   Mew   Psychic
+15   Gengar   Grass
+14   Zarude   Psychic
+12   Tinkaton   Electric
+10   Galarian Slowbro   Fighting
+7   Orthworm   Normal
+4   Rotom-Fan   Water
+1   Meditite   Grass
+
+~54~
+19   Tornadus-Therian   Fire
+15   Slowking   Fire
+14   Scizor   Dragon
+12   Pelipper   Electric
+10   Toxapex   Psychic
+6   Rotom-Frost   Electric
+3   Raichu   Fire
+1   Sandygast   Rock
+
+~187~
+19   Great Tusk   Flying
+16   Iron Hands   Steel
+13   Galarian Moltres   Fire
+12   Paldean Tauros Aqua   Grass
+8   Magnezone   Rock
+5   Houndstone   Dragon
+5   Braviary   Normal
+2   Clawitzer   Water
+
+~283~
+17   Ursaluna   Flying
+17   Gholdengo   Grass
+14   Hoopa-Unbound   Ice
+10   Decidueye   Fire
+9   Hisuian Braviary   Ghost
+7   Gallade   Poison
+5   Abomasnow   Normal
+1   Corvisquire   Fairy
+
+~90~
+18   Meowscarada   Dark
+16   Salamence   Flying
+13   Enamorus-Therian   Ice
+11   Donphan   Grass
+8   Dragalge   Psychic
+7   Polteageist   Poison
+4   Skuntank   Ice
+3   Sneasel   Fighting
+
+~3~
+19   Baxcalibur   Dragon
+15   Thundurus-Incarnate   Electric
+13   Weavile   Ghost
+11   Paldean Tauros Blaze   Poison
+10   Galarian Slowbro   Dark
+6   Magneton   Psychic
+3   Zangoose   Dark
+3   Golduck   Ground
+
+~100~
+18   Urshifu-Rapid-Strike   Ice
+16   Quaquaval   Normal
+14   Thundurus-Therian   Fighting
+11   Iron Thorns   Ice
+8   Goodra   Poison
+7   Hariyama   Flying
+5   Avalugg   Electric
+1   Chespin   Fire
+
+~92~
+18   Dragonite   Fire
+16   Cinderace   Fighting
+14   Tyranitar   Steel
+11   Torkoal   Rock
+8   Forretress   Dark
+7   Kilowattrel   Fairy
+4   Rabsca   Ice
+2   Muk   Ghost
+
+~17~
+18   Garchomp   Electric
+15   Galarian Zapdos   Fire
+13   Slowbro   Steel
+12   Cresselia   Bug
+9   Toedscruel   Ice
+6   Toxicroak   Steel
+5   Indeedee   Fighting
+2   Thwackey   Dark
+
+~228~
+18   Annihilape   Rock
+16   Skeledirge   Ghost
+14   Grimmsnarl   Grass
+12   Pelipper   Psychic
+9   Barraskewda   Normal
+6   Venomoth   Psychic
+4   Cryogonal   Normal
+1   Tynamo   Flying
+
+~68~
+17   Greninja   Dragon
+17   Iron Moth   Ground
+14   Lycanroc-Dusk   Bug
+11   Rillaboom   Fairy
+8   Mesprit   Rock
+7   Eelektross   Fire
+3   Girafarig   Ghost
+3   Vivillon   Dark
+
+~4~
+18   Enamorus-Incarnate   Fighting
+15   Hisuian Lilligant   Grass
+13   Basculegion   Fire
+12   Klefki   Electric
+9   Bronzong   Poison
+7   Orthworm   Bug
+3   Lycanroc-Midnight   Electric
+3   Lurantis   Flying
+
+~117~
+16   Galarian Slowking   Steel
+15   Corviknight   Ice
+14   Slither Wing   Fighting
+12   Hisuian Zoroark   Rock
+10   Pawmot   Grass
+7   Maushold   Dragon
+5   Tatsugiri   Grass
+1   Axew   Ground
+
+~188~
+17   Ting-Lu   Dark
+16   Zapdos   Poison
+13   Volcanion   Flying
+12   Alolan Muk   Water
+9   Lucario   Steel
+7   Vaporeon   Steel
+4   Articuno   Psychic
+2   Clawitzer   Psychic
+
+~181~
+17   Ursaluna   Flying
+16   Iron Hands   Flying
+14   Hoopa-Unbound   Electric
+11   Dugtrio   Dragon
+10   Decidueye   Dark
+6   Alolan Raichu   Flying
+5   Scyther   Flying
+1   Litleo   Fire
+
+~216~
+18   Sneasler   Psychic
+15   Gengar   Steel
+14   Scizor   Ground
+11   Lokix   Electric
+9   Uxie   Ice
+6   Ursaring   Fire
+5   Houndstone   Flying
+2   Hisuian Sliggoo   Ice
+
+~137~
+17   Landorus-Therian   Grass
+15   Cyclizar   Psychic
+13   Sandy Shocks   Dark
+12   Hippowdon   Normal
+8   Brute Bonnet   Fire
+6   Espeon   Grass
+5   Drifblim   Ground
+4   Froslass   Grass
+
+~1~
+18   Volcarona   Fighting
+15   Heatran   Dragon
+14   Hisuian Samurott   Ghost
+12   Dondozo   Steel
+8   Regidrago   Poison
+7   Passimian   Normal
+3   Typhlosion   Ice
+3   Flareon   Water
+
+~180~
+17   Mew   Ice
+15   Rotom-Wash   Ghost
+14   Zarude   Steel
+11   Noivern   Ghost
+9   Overqwil   Grass
+7   Chesnaught   Psychic
+4   Jolteon   Grass
+3   Alolan Dugtrio   Steel
+
+~172~
+17   Gholdengo   Flying
+16   Iron Treads   Ice
+15   Hydreigon   Water
+12   Hisuian Arcanine   Grass
+10   Inteleon   Flying
+6   Qwilfish   Poison
+3   Leafeon   Rock
+1   Carkol   Fairy
+
+~102~
+17   Ting-Lu   Dragon
+16   Galarian Slowking   Grass
+13   Enamorus-Therian   Grass
+12   Alolan Muk   Bug
+10   Decidueye   Psychic
+6   Pincurchin   Grass
+5   Samurott   Fighting
+1   Croagunk   Ghost
+
+~142~
+18   Annihilape   Dark
+16   Zapdos   Dragon
+13   Ceruledge   Ice
+11   Lokix   Bug
+10   Cetitan   Fighting
+6   Alolan Raichu   Dragon
+3   Raichu   Water
+3   Golduck   Fire
+
+~20~
+18   Urshifu-Rapid-Strike   Fairy
+15   Heatran   Dark
+13   Krookodile   Electric
+11   Noivern   Bug
+8   Regidrago   Steel
+7   Revavroom   Water
+5   Abomasnow   Water
+3   Beartic   Fairy
+
+~111~
+18   Enamorus-Incarnate   Water
+16   Salamence   Ice
+13   Basculegion   Dragon
+12   Tinkaton   Dragon
+10   Inteleon   Dark
+6   Magneton   Grass
+4   Skuntank   Dark
+1   Mareep   Dragon
+
+~231~
+19   Tornadus-Therian   Psychic
+16   Quaquaval   Grass
+14   Slither Wing   Fire
+11   Scream Tail   Dragon
+8   Quagsire   Bug
+6   Hisuian Typhlosion   Fire
+5   Houndstone   Dragon
+1   Sunkern   Fairy
+
+~130~
+17   Landorus-Therian   Ice
+16   Iron Treads   Ice
+13   Hawlucha   Grass
+11   Arcanine   Grass
+9   Barraskewda   Bug
+7   Passimian   Flying
+4   Klawf   Poison
+3   Alolan Dugtrio   Rock
+
+~211~
+18   Dragonite   Psychic
+14   Zarude   Ground
+14   Hisuian Samurott   Poison
+12   Hisuian Zoroark   Poison
+10   Toxapex   Ghost
+7   Polteageist   Poison
+3   Typhlosion   Ice
+2   Camerupt   Rock
+
+~114~
+18   Meowscarada   Normal
+17   Greninja   Flying
+14   Azumarill   Flying
+11   Paldean Tauros Blaze   Electric
+10   Drednaw   Bug
+7   Cloyster   Dragon
+2   Clawitzer   Bug
+1   Kricketot   Grass
+
+~131~
+17   Mew   Dragon
+16   Cinderace   Ice
+14   Grimmsnarl   Dragon
+12   Kleavor   Poison
+8   Dragalge   Fighting
+6   Chansey   Dragon
+5   Braviary   Poison
+2   Crocalor   Ghost
+
+~121~
+17   Ursaluna   Normal
+15   Hydreigon   Fairy
+14   Tyranitar   Poison
+11   Iron Thorns   Electric
+9   Talonflame   Normal
+8   Goodra   Fire
+3   Floatzel   Dragon
+3   Gothorita   Fire
+
+~37~
+17   Iron Moth   Psychic
+15   Hisuian Lilligant   Dragon
+14   Espathra   Dragon
+13   Iron Jugulis   Steel
+9   Uxie   Normal
+6   Copperajah   Dark
+5   Scyther   Dragon
+1   Larvesta   Ground
+
+~15~
+19   Great Tusk   Poison
+16   Skeledirge   Ground
+13   Gothitelle   Rock
+12   Haxorus   Steel
+8   Diancie   Dark
+6   Farigiraf   Fairy
+3   Leafeon   Normal
+3   Lycanroc-Midnight   Bug
+
+~132~
+19   Baxcalibur   Psychic
+15   Rotom-Wash   Water
+13   Galarian Moltres   Steel
+11   Donphan   Dark
+8   Mudsdale   Ice
+7   Orthworm   Dark
+5   Tatsugiri   Bug
+2   Morgrem   Electric
+
+~184~
+18   Volcarona   Electric
+15   Gengar   Flying
+14   Hoopa-Unbound   Rock
+11   Amoonguss   Flying
+10   Armarouge   Dragon
+6   Charizard   Psychic
+5   Paldean Tauros   Psychic
+1   Hypno   Fairy
+
+~8~
+18   Sneasler   Electric
+15   Corviknight   Electric
+13   Sandy Shocks   Rock
+11   Torkoal   Bug
+10   Pawmot   Normal
+6   Toxicroak   Psychic
+5   Avalugg   Bug
+2   Hattrem   Rock
+
+~76~
+16   Iron Hands   Ground
+15   Cyclizar   Normal
+14   Lycanroc-Dusk   Grass
+11   Clodsire   Psychic
+11   Rillaboom   Ice
+7   Kilowattrel   Poison
+4   Articuno   Ghost
+2   Misdreavus   Fire
+
+~235~
+18   Garchomp   Rock
+15   Slowking   Fairy
+15   Rotom-Wash   Ice
+12   Alolan Muk   Psychic
+8   Hisuian Decidueye   Dragon
+6   Hisuian Typhlosion   Ghost
+3   Typhlosion   Ghost
+3   Gothorita   Grass
+
+~294~
+18   Sneasler   Flying
+16   Salamence   Fairy
+13   Hisuian Goodra   Psychic
+11   Arcanine   Ice
+9   Bronzong   Steel
+7   Mismagius   Steel
+4   Dunsparce   Grass
+2   Falinks   Fighting
+
+~38~
+17   Ting-Lu   Fire
+15   Gengar   Fire
+14   Zarude   Ice
+12   Hippowdon   Grass
+10   Galarian Slowbro   Fire
+7   Vaporeon   Flying
+3   Beartic   Dark
+2   Greedent   Grass
+
+~259~
+18   Annihilape   Ice
+15   Hisuian Lilligant   Dark
+13   Hawlucha   Normal
+11   Clodsire   Water
+8   Goodra   Water
+8   Alomomola   Ice
+5   Drifblim   Fairy
+2   Zweilous   Steel
+
+~85~
+18   Volcarona   Dragon
+15   Thundurus-Incarnate   Fire
+14   Scizor   Fighting
+11   Iron Thorns   Ghost
+9   Toxtricity   Psychic
+7   Revavroom   Bug
+5   Bruxish   Steel
+1   Rellor   Water
+
+~33~
+18   Urshifu-Rapid-Strike   Fighting
+15   Cyclizar   Rock
+14   Tyranitar   Poison
+11   Noivern   Flying
+11   Dugtrio   Psychic
+6   Farigiraf   Fire
+4   Primeape   Ice
+1   Venonat   Rock
+
+~64~
+18   Enamorus-Incarnate   Grass
+16   Zapdos   Psychic
+13   Gothitelle   Fire
+11   Donphan   Dragon
+9   Uxie   Grass
+8   Brute Bonnet   Dark
+3   Sneasel   Fire
+2   Komala   Fighting
+
+~219~
+18   Dragonite   Bug
+15   Galarian Zapdos   Dark
+13   Sandy Shocks   Fighting
+11   Lokix   Electric
+10   Toxapex   Fairy
+7   Rotom-Heat   Dark
+4   Froslass   Poison
+2   Muk   Dragon
+
+~166~
+17   Landorus-Therian   Flying
+15   Hydreigon   Dragon
+14   Slither Wing   Fairy
+12   Dondozo   Dark
+8   Staraptor   Flying
+6   Pincurchin   Dark
+6   Oricorio   Dragon
+2   Houndoom   Grass
+
+~119~
+17   Mew   Dark
+16   Iron Treads   Normal
+13   Basculegion   Electric
+11   Rillaboom   Dark
+10   Sylveon   Fairy
+6   Grafaiai   Ghost
+5   Sandaconda   Ice
+2   Morgrem   Fairy
+
+~48~
+18   Meowscarada   Fighting
+16   Iron Hands   Steel
+12   Breloom   Dragon
+12   Klefki   Normal
+10   Inteleon   Ice
+6   Toxicroak   Fire
+4   Rabsca   Bug
+2   Thwackey   Fairy
+
+~145~
+19   Tornadus-Therian   Rock
+14   Grimmsnarl   Poison
+14   Hisuian Samurott   Ghost
+11   Paldean Tauros Blaze   Steel
+9   Hatterene   Rock
+7   Passimian   Steel
+3   Golduck   Grass
+3   Lycanroc-Midnight   Fire
 

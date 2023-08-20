@@ -82,6 +82,8 @@ class Draft():
         prices = price_list.read().splitlines()
         for price in prices:
             pair = price.split("\t")
+            if int(pair[1]) > MAX_TIER:
+                continue
             self.tierlist[int(pair[1])-1].append(pair[0])
             
     def __init_types__(self):

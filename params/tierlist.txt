@@ -98,7 +98,7 @@ Tyranitar	14
 Alolan Muk	12
 Azelf	13
 Basculegion	13
-Enamorus-Therian	13
+Enamorus-Therian	12
 Garganacl	13
 Grimmsnarl	14
 Hisuian Goodra	13
