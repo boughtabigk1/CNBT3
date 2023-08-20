@@ -2,7 +2,7 @@ import random
 import sys
 
 TOTAL_BUDGET = 80
-MIN_TIER, MAX_TIER = 1, 18
+MIN_TIER, MAX_TIER = 1, 19
 GROUP_SIZE = 16
 OUTPUT_PATH = 'output/teams.txt'
 PLAYER_INPUT = 'params/players.txt'

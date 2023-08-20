@@ -1,154 +1,197 @@
-Chi-Yu	18
-Iron Bundle	18
-Regieleki	18
-Spectrier	18
-Urshifu-Single-Strike	18
-Annihilape	17
-Baxcalibur	17
-Garchomp	17
-Great Tusk	17
-Landorus-Incarnate	17
-Roaring Moon	17
-Sneasler	17
+Arceus	99
+Arceus-Bug	99
+Arceus-Dark	99
+Arceus-Dragon	99
+Arceus-Electric	99
+Arceus-Fairy	99
+Arceus-Fighting	99
+Arceus-Fire	99
+Arceus-Flying	99
+Arceus-Ghost	99
+Arceus-Grass	99
+Arceus-Ground	99
+Arceus-Ice	99
+Arceus-Poison	99
+Arceus-Psychic	99
+Arceus-Rock	99
+Arceus-Steel	99
+Arceus-Water	99
+Calyrex-Ice-Rider	99
+Calyrex-Shadow-Rider	99
+Dialga	99
+Dialga-Origin	99
+Eternamax Eternatus	99
+Eternatus	99
+Flutter Mane	99
+Giratina	99
+Giratina-Origin	99
+Groudon	99
+Koraidon	99
+Kyogre	99
+Magearna	99
+Mewtwo	99
+Miraidon	99
+Palkia	99
+Palkia-Origin	99
+Rayquaza	99
+Zacian	99
+Zacian-Crowned	99
+Zamazenta	99
+Chien-Pao	99
+Dragapult	99
+Iron Valiant	99
+Zamazenta-Crowned	99
+Chi-Yu	99
+Iron Bundle	99
+Regieleki	99
+Spectrier	99
+Urshifu-Single-Strike	99
+Annihilape	18
+Baxcalibur	19
+Garchomp	18
+Great Tusk	19
+Landorus-Incarnate	99
+Roaring Moon	99
+Sneasler	18
 Galarian Slowking	16
-Iron Moth	16
-Landorus-Therian	16
-Palafin	16
-Tornadus-Therian	16
-Urshifu-Rapid-Strike	16
-Volcarona	16
-Cinderace	15
-Dragonite	15
-Gholdengo	15
-Greninja	15
-Iron Treads	15
-Meowscarada	15
-Mew	15
-Ting-Lu	15
-Ursaluna	15
-Zapdos	15
-Corviknight	14
-Enamorus-Incarnate	14
-Galarian Zapdos	14
-Gengar	14
-Heatran	14
-Hydreigon	14
-Iron Hands	14
-Quaquaval	14
-Rotom-Wash	14
-Salamence	14
-Skeledirge	14
-Slowking	14
-Thundurus-Incarnate	14
+Iron Moth	17
+Landorus-Therian	17
+Palafin	99
+Tornadus-Therian	19
+Urshifu-Rapid-Strike	18
+Volcarona	18
+Cinderace	16
+Dragonite	18
+Gholdengo	17
+Greninja	17
+Iron Treads	16
+Meowscarada	18
+Mew	17
+Ting-Lu	17
+Ursaluna	17
+Zapdos	16
+Corviknight	15
+Enamorus-Incarnate	18
+Galarian Zapdos	15
+Gengar	15
+Heatran	15
+Hydreigon	15
+Iron Hands	16
+Quaquaval	16
+Rotom-Wash	15
+Salamence	16
+Skeledirge	16
+Slowking	15
+Thundurus-Incarnate	15
 Zarude	14
-Azumarill	13
-Espathra	13
-Glimmora	13
+Azumarill	14
+Espathra	14
+Glimmora	14
 Gothitelle	13
-Hisuian Lilligant	13
-Hoopa-Unbound	13
-Lycanroc-Dusk	13
-Scizor	13
-Slither Wing	13
-Thundurus-Therian	13
-Tyranitar	13
+Hisuian Lilligant	15
+Hoopa-Unbound	14
+Lycanroc-Dusk	14
+Scizor	14
+Slither Wing	14
+Thundurus-Therian	14
+Tyranitar	14
 Alolan Muk	12
-Azelf	12
-Basculegion	12
-Enamorus-Therian	12
-Garganacl	12
-Grimmsnarl	12
-Hisuian Goodra	12
-Iron Jugulis	12
-Kingambit	12
+Azelf	13
+Basculegion	13
+Enamorus-Therian	13
+Garganacl	13
+Grimmsnarl	14
+Hisuian Goodra	13
+Iron Jugulis	13
+Kingambit	99
 Kleavor	12
-Krookodile	12
-Pawmot	12
-Slowbro	12
-Volcanion	12
-Weavile	12
-Breloom	11
-Ceruledge	11
-Cresselia	11
-Dondozo	11
+Krookodile	13
+Pawmot	10
+Slowbro	13
+Volcanion	13
+Weavile	13
+Breloom	12
+Ceruledge	13
+Cresselia	12
+Dondozo	12
 Dugtrio	11
-Galarian Moltres	11
-Hawlucha	11
-Haxorus	11
-Hippowdon	11
-Hisuian Arcanine	11
-Hisuian Samurott	11
-Hisuian Zoroark	11
-Klefki	11
+Galarian Moltres	13
+Hawlucha	13
+Haxorus	12
+Hippowdon	12
+Hisuian Arcanine	12
+Hisuian Samurott	14
+Hisuian Zoroark	12
+Klefki	12
 Lokix	11
-Pelipper	11
-Amoonguss	10
-Arcanine	10
+Pelipper	12
+Amoonguss	11
+Arcanine	11
 Armarouge	10
 Cetitan	10
-Clodsire	10
+Clodsire	11
 Decidueye	10
-Donphan	10
+Donphan	11
 Galarian Slowbro	10
 Gardevoir	10
 Gastrodon	10
-Iron Thorns	10
-Rillaboom	10
-Sandy Shocks	10
-Scream Tail	10
+Iron Thorns	11
+Rillaboom	11
+Sandy Shocks	13
+Scream Tail	11
 Sylveon	10
-Torkoal	10
+Torkoal	11
 Tornadus-Incarnate	10
 Toxapex	10
 Barraskewda	9
 Bronzong	9
 Delphox	9
-Drednaw	9
+Drednaw	10
 Hatterene	9
-Heracross	9
-Inteleon	9
+Heracross	10
+Inteleon	10
 Lucario	9
 Mimikyu	9
 Moltres	9
-Noivern	9
-Paldean Tauros Aqua	9
-Paldean Tauros Blaze	9
+Noivern	11
+Paldean Tauros Aqua	12
+Paldean Tauros Blaze	11
 Salazzle	9
 Talonflame	9
 Toedscruel	9
 Toxtricity	9
 Uxie	9
 Alomomola	8
-Bisharp	8
+Bisharp	7
 Blissey	8
 Brute Bonnet	8
-Cyclizar	8
+Cyclizar	15
 Diancie	8
 Dragalge	8
 Dudunsparce	8
 Florges	8
 Forretress	8
-Glastrier	8
+Glastrier	9
 Goodra	8
-Gyarados	8
-Hisuian Braviary	8
+Gyarados	11
+Hisuian Braviary	9
 Hisuian Decidueye	8
 Magnezone	8
 Meloetta	8
 Mesprit	8
 Mudsdale	8
-Overqwil	8
+Overqwil	9
 Quagsire	8
 Regidrago	8
-Rotom-Mow	8
+Rotom-Mow	9
 Staraptor	8
-Tinkaton	8
+Tinkaton	12
 Wo-Chien	8
 Arboliva	7
-Chansey	7
+Chansey	6
 Chesnaught	7
 Cloyster	7
-Copperajah	7
+Copperajah	6
 Eelektross	7
 Flamigo	7
 Gallade	7
@@ -175,100 +218,100 @@ Galarian Articuno	6
 Grafaiai	6
 Hisuian Qwilfish	6
 Hisuian Typhlosion	6
-Lycanroc-Midday	6
+Lycanroc-Midday	5
 Magneton	6
 Oricorio	6
-Orthworm	6
-Palossand	6
+Orthworm	7
+Palossand	5
 Pincurchin	6
 Qwilfish	6
-Revavroom	6
+Revavroom	7
 Rotom-Frost	6
 Toxicroak	6
 Venomoth	6
 Abomasnow	5
-Articuno	5
+Articuno	4
 Avalugg	5
-Bombirdier	5
+Bombirdier	3
 Braviary	5
 Bruxish	5
 Ditto	5
-Froslass	5
-Gothorita	5
+Froslass	4
+Gothorita	3
 Honchkrow	5
 Houndstone	5
 Indeedee	5
-Klawf	5
-Mabosstiff	5
-Rabsca	5
+Klawf	4
+Mabosstiff	4
+Rabsca	4
 Rotom	5
-Sableye	5
+Sableye	6
 Samurott	5
 Sandaconda	5
 Scyther	5
-Sneasel	5
+Sneasel	3
 Tatsugiri	5
-Beartic	4
+Beartic	3
 Bellibolt	4
-Brambleghast	4
-Coalossal	4
+Brambleghast	5
+Coalossal	3
 Cryogonal	4
 Dunsparce	4
 Flapple	4
-Girafarig	4
-Golduck	4
+Girafarig	3
+Golduck	3
 Hisuian Avalugg	4
-Hisuian Electrode	4
-Hisuian Sneasel	4
+Hisuian Electrode	6
+Hisuian Sneasel	3
 Jolteon	4
-Lycanroc-Midnight	4
-Paldean Tauros	4
+Lycanroc-Midnight	3
+Paldean Tauros	5
 Primeape	4
-Raichu	4
+Raichu	3
 Rotom-Fan	4
 Skuntank	4
-Spiritomb	4
-Typhlosion	4
-Ursaring	4
+Spiritomb	3
+Typhlosion	3
+Ursaring	6
 Veluza	4
 Wyrdeer	4
-Zangoose	4
+Zangoose	3
 Alolan Dugtrio	3
-Ampharos	3
-Basculin	3
-Dachsbun	3
+Ampharos	2
+Basculin	2
+Dachsbun	5
 Flareon	3
 Floatzel	3
 Frosmoth	3
-Greedent	3
-Haunter	3
-Houndoom	3
+Greedent	2
+Haunter	1
+Houndoom	2
 Leafeon	3
 Lurantis	3
-Luxray	3
+Luxray	2
 Perrserker	3
 Vivillon	3
 Altaria	2
 Appletun	2
-Banette	2
-Calyrex	2
+Banette	1
+Calyrex	1
 Camerupt	2
 Clawitzer	2
 Crabominable	2
 Crocalor	2
 Dedenne	2
-Diglett	2
-Dolliv	2
-Dragonair	2
-Drifblim	2
+Diglett	1
+Dolliv	1
+Dragonair	1
+Drifblim	5
 Eiscue	2
 Electrode	2
 Falinks	2
-Frogadier	2
+Frogadier	1
 Glaceon	2
-Glimmet	2
+Glimmet	1
 Gogoat	2
-Grumpig	2
+Grumpig	1
 Hisuian Sliggoo	2
 Komala	2
 Lilligant	2
@@ -281,17 +324,17 @@ Naclstack	2
 Oinkologne	2
 Oranguru	2
 Pyroar	2
-Raboot	2
+Raboot	1
 Sawsbuck	2
-Shelgon	2
+Shelgon	1
 Slaking	2
 Spidops	2
 Squawkabilly	2
 Stonjourner	2
 Swalot	2
 Thwackey	2
-Tropius	2
-Vigoroth	2
+Tropius	1
+Vigoroth	1
 Whiscash	2
 Wigglytuff	2
 Alolan Diglett	1
@@ -318,3 +361,186 @@ Carbink	1
 Carkol	1
 Cetoddle	1
 Charcadet	1
+Charmander	1
+Charmeleon	1
+Chespin	1
+Chewtle	1
+Clauncher	1
+Combee	1
+Corvisquire	1
+Crabrawler	1
+Croagunk	1
+Cubchoo	1
+Cufant	1
+Cyndaquil	1
+Dartrix	1
+Deerling	1
+Deino	1
+Delibird	1
+Dewott	1
+Drakloak	1
+Dratini	1
+Dreepy	1
+Drifloon	1
+Drizzile	1
+Drowzee	1
+Eelektrik	1
+Eevee	1
+Fennekin	1
+Fidough	1
+Finizen	1
+Finneon	1
+Flaaffy	1
+Flabébé	1
+Fletchinder	1
+Fletchling	1
+Flittle	1
+Floette	1
+Floragato	1
+Fomantis	1
+Foongus	1
+Fraxure	1
+Frigibax	1
+Froakie	1
+Fuecoco	1
+Gabite	2
+Galarian Meowth	1
+Galarian Slowpoke	1
+Gastly	1
+Gible	1
+Gimmighoul	1
+Glalie	1
+Goomy	1
+Gothita	1
+Greavard	1
+Grimer	1
+Grookey	1
+Growlithe	1
+Gulpin	1
+Gumshoos	1
+Happiny	1
+Hatenna	1
+Hattrem	2
+Hippopotas	1
+Hisuian Growlithe	1
+Hisuian Voltorb	1
+Hisuian Zorua	1
+Hoppip	1
+Houndour	1
+Hypno	1
+Igglybuff	1
+Impidimp	1
+Jigglypuff	1
+Jumpluff	1
+Kirlia	1
+Kricketot	1
+Kricketune	1
+Krokorok	1
+Kubfu	1
+Larvesta	1
+Larvitar	1
+Lechonk	1
+Litleo	1
+Lumineon	1
+Luvdisc	1
+Luxio	1
+Magikarp	1
+Magnemite	1
+Makuhita	1
+Mankey	1
+Mareanie	1
+Mareep	1
+Marill	1
+Maschiff	1
+Meditite	1
+Meowth	1
+Mudbray	1
+Nacli	1
+Noibat	1
+Numel	1
+Nymble	1
+Pachirisu	1
+Paldean Wooper	1
+Pawmi	1
+Pawmo	1
+Pawniard	1
+Persian	1
+Petilil	1
+Phanpy	1
+Pichu	1
+Pikachu	1
+Pineco	1
+Psyduck	1
+Pupitar	1
+Quaxly	1
+Quaxwell	1
+Quilava	1
+Quilladin	1
+Ralts	1
+Rellor	1
+Riolu	1
+Rockruff	1
+Rolycoly	1
+Rookidee	1
+Rowlet	1
+Rufflet	1
+Salandit	1
+Sandile	1
+Sandygast	1
+Scatterbug	1
+Scorbunny	1
+Seviper	2
+Shellder	1
+Shellos	1
+Shinx	1
+Shroodle	1
+Shroomish	1
+Shuppet	1
+Silicobra	1
+Sinistea	1
+Skiddo	1
+Skiploom	1
+Skrelp	1
+Skwovet	1
+Slakoth	1
+Sliggoo	1
+Slowpoke	1
+Smoliv	1
+Snom	1
+Snorunt	1
+Snover	1
+Sobble	1
+Spewpa	1
+Spoink	1
+Sprigatito	1
+Stantler	1
+Staravia	1
+Starly	1
+Steenee	1
+Stunky	1
+Sudowoodo	1
+Sunflora	1
+Sunkern	1
+Surskit	1
+Swablu	1
+Tadbulb	1
+Tandemaus	1
+Tarountula	1
+Teddiursa	1
+Tinkatink	1
+Tinkatuff	1
+Toedscool	1
+Toxel	1
+Tynamo	1
+Varoom	1
+Venonat	1
+Vespiquen	1
+Voltorb	1
+Wattrel	1
+Wiglett	1
+Wingull	1
+Wooper	1
+Wugtrio	1
+Yungoos	1
+Zorua	1
+Zweilous	2
