@@ -167,7 +167,6 @@ class Draft():
     def fix_draft(self):
         for player_index, player in enumerate(self.players):
             while player.pts != TOTAL_BUDGET:
-                player.__print_team__()
                 if player.pts < TOTAL_BUDGET:
                     self.__upgrade1__(player_index)
                 elif player.pts > TOTAL_BUDGET:
