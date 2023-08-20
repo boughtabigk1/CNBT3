@@ -2,7 +2,7 @@ import random
 import sys
 
 TOTAL_BUDGET = 80
-MAX_TIER = 18
+MIN_TIER, MAX_TIER = 1, 18
 GROUP_SIZE = 16
 OUTPUT_PATH = 'output/teams.txt'
 PLAYER_INPUT = 'params/players.txt'
@@ -10,6 +10,7 @@ TIER_INPUT = 'params/tierlist.txt'
 TYPE_INPUT = 'params/types.txt'
 TEAM_COMP_INPUT = 'params/brackets1.txt'
 # TEAM_COMP_INPUT = 'params/brackets2.txt'
+USAGE_ERR = "Arguments: \n'draft' to generate teams \n'replace <value>' to get replacement mon ±1 point"
                 
 def clear_results(path: str):
     with open(path, 'w') as file:
@@ -61,12 +62,13 @@ class Player:
         for mon in self.mons:
             print(str(mon.val) + "   " +  mon.name)
   
+  
 class Bracket():
     def __init__(self, min: int, max: int, qty: int):
         self.min = min
         self.max = max
         self.qty = qty
-    
+
 class Draft():
     def __init__(self, players):
         self.__init_tiers__()
@@ -106,11 +108,11 @@ class Draft():
         direction = -1
         actual_value = target_value+(offset*direction)
         under_min, over_max = False, False
-        while actual_value < 1 or actual_value > MAX_TIER or (len(self.tierlist[actual_value-1])) == 0:
+        while actual_value < MIN_TIER or actual_value > MAX_TIER or (len(self.tierlist[actual_value-1])) == 0:
             direction *= -1
             offset += 1 if direction > 0 else 0
             actual_value = target_value+(offset*direction)
-            if actual_value < 1:
+            if actual_value < MIN_TIER:
                 under_min = True
             if actual_value > MAX_TIER:
                 over_max = True
@@ -140,7 +142,7 @@ class Draft():
         
     def __downgrade1__(self, player_index):
         mon_index = random.randint(0, self.num_mons-1)
-        while self.players[player_index].mons[mon_index].val == 1:
+        while self.players[player_index].mons[mon_index].val == MIN_TIER:
             mon_index = (mon_index + 1)%self.num_mons
         pick_value = self.players[player_index].mons[mon_index].val - 1
         pick = self.__get_mon__(pick_value)
@@ -174,6 +176,15 @@ class Draft():
             for mon_index in range(self.num_mons):
                 type = self.types[random.randint(0, len(self.types)-1)]
                 self.players[player_index].mons[mon_index].tera_type = type
+            
+    def replace_mon(self, val: int):
+        upper = min(MAX_TIER, val+1)
+        lower = max(MIN_TIER, val-1)
+        new_val = random.randint(lower, upper)
+        new_mon = self.__get_mon__(new_val)
+        new_mon.tera_type = self.types[random.randint(0, len(self.types)-1)]
+        return new_mon
+
     def sort_teams(self):
         for player in self.players:
             player.mons = sorted(player.mons, key=lambda mon: mon.val, reverse=True)
@@ -186,8 +197,7 @@ class Draft():
                 sum += mon.val
                 print(str(mon.val) + "   " + mon.name + "   " + mon.tera_type)
             print("")
-        print("_________________________________")    
-    
+        # print("_________________________________")    
     
     def write_results(self, path: str):
         output = ""
@@ -196,12 +206,13 @@ class Draft():
             for mon in player.mons:
                 output += str(mon.val) + "   " + mon.name + "   " + mon.tera_type + "\n"
             output += "\n"
-        output += "_________________________________\n"
+        # output += "_________________________________\n"
         file_path = path  # Replace with your desired file path
         with open(file_path, 'a') as file:
             file.write(output) 
+
         
-def main(): 
+def draft():
     clear_results(OUTPUT_PATH)
     groups = parse_groups(GROUP_SIZE)
     for group in groups:
@@ -210,8 +221,26 @@ def main():
         new_draft.fix_draft()
         new_draft.sort_teams()
         new_draft.assign_teras()
-        # new_draft.print_results()
+        new_draft.print_results()
         new_draft.write_results(OUTPUT_PATH)
+    
+def replace(val: int):        
+    if val > MAX_TIER or val < 1:
+        exit("INVALID PRICE")
+    new_draft = Draft([])
+    new_mon = new_draft.replace_mon(val)
+    print(str(new_mon.val) + "   " + new_mon.name + "   " + new_mon.tera_type)
+    
+    
+def main(): 
+    if len(sys.argv) <= 1:
+        sys.exit(USAGE_ERR)
+    elif sys.argv[1] == "draft":
+        draft()
+    elif len(sys.argv) >= 3 and sys.argv[1] == "replace" and sys.argv[2].isnumeric:
+        replace(int(sys.argv[2]))
+    else:
+        sys.exit(USAGE_ERR)
         
 if __name__ == "__main__":
     main()
