@@ -221,7 +221,7 @@ Hisuian Typhlosion	6
 Lycanroc-Midday	5
 Magneton	6
 Oricorio	6
-Orthworm	7
+Orthworm	8
 Palossand	5
 Pincurchin	6
 Qwilfish	6
@@ -544,3 +544,5 @@ Wugtrio	1
 Yungoos	1
 Zorua	1
 Zweilous	2
+Walking Wake	16
+Iron Leaves	11

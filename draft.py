@@ -4,7 +4,8 @@ import sys
 TOTAL_BUDGET = 80
 MIN_TIER, MAX_TIER = 1, 19
 GROUP_SIZE = 16
-OUTPUT_PATH = 'output/teams.txt'
+READABLE_OUTPUT_PATH = 'output/teams.txt'
+DOC_OUTPUT_PATH = 'output/teams-data.txt'
 PLAYER_INPUT = 'params/players.txt'
 TIER_INPUT = 'params/tierlist.txt'
 TYPE_INPUT = 'params/types.txt'
@@ -20,13 +21,15 @@ def parse_groups(group_size: int):
     groups = []
     curr_group = []
     player_list = open(PLAYER_INPUT, 'r')
-    player_names = player_list.read().splitlines()
-    random.shuffle(player_names)
-    for player_index, player_name in enumerate(player_names):
+    signups = player_list.read().splitlines()
+    random.shuffle(signups)
+    for player_index, signup in enumerate(signups):
+        parts = signup.split("\t")
+        player = Player(parts[0], parts[1])
         if player_index % group_size == 0 and player_index > 0:
             groups.append(curr_group)
             curr_group = []
-        curr_group.append(player_name)
+        curr_group.append(player)
     if len(curr_group) > 0:
         groups.append(curr_group)
     return groups
@@ -38,8 +41,9 @@ class Mon:
         self.tera_type = ""
 
 class Player:
-    def __init__(self, name: str):
+    def __init__(self, name: str, team_name: str):
         self.name = name
+        self.team_name = team_name
         self.pts = 0
         self.mons = []
         
@@ -100,10 +104,8 @@ class Draft():
             self.brackets.append(Bracket(int(vals[0]), int(vals[1]), int(vals[2])))
             self.num_mons += int(vals[2])
             
-    def __init_players__(self, group):
-        self.players = []
-        for player_name in group:
-            self.players.append(Player(player_name))
+    def __init_players__(self, players):
+        self.players = players
         
     def __get_mon__(self, target_value: int):
         offset= 0
@@ -200,21 +202,36 @@ class Draft():
             print("")
         # print("_________________________________")    
     
-    def write_results(self, path: str):
+    def write_results_readable(self, path: str):
         output = ""
         for player in self.players:
             output += "~" + player.name + "~\n"
             for mon in player.mons:
-                output += str(mon.val) + "   " + mon.name + "   " + mon.tera_type + "\n"
+                output += str(mon.val) + "\t" + mon.name + "\t" + mon.tera_type + "\n"
             output += "\n"
         # output += "_________________________________\n"
+        file_path = path  # Replace with your desired file path
+        with open(file_path, 'a') as file:
+            file.write(output)     
+            
+    def write_results_formatted(self, path: str):
+        output = ""
+        for player in self.players:
+            output += player.team_name + "\t"
+            output += player.name + "\t"
+            for mon in player.mons:
+                output += mon.name + "\t"            
+            for mon in player.mons:
+                output += mon.tera_type + "\t"
+            output += "\n"
         file_path = path  # Replace with your desired file path
         with open(file_path, 'a') as file:
             file.write(output) 
 
         
 def draft():
-    clear_results(OUTPUT_PATH)
+    clear_results(READABLE_OUTPUT_PATH)
+    clear_results(DOC_OUTPUT_PATH)
     groups = parse_groups(GROUP_SIZE)
     for group in groups:
         new_draft = Draft(group)
@@ -223,7 +240,9 @@ def draft():
         new_draft.sort_teams()
         new_draft.assign_teras()
         new_draft.print_results()
-        new_draft.write_results(OUTPUT_PATH)
+        new_draft.write_results_readable(READABLE_OUTPUT_PATH)
+        new_draft.write_results_formatted(DOC_OUTPUT_PATH)
+        
     
 def replace(val: int):        
     if val > MAX_TIER or val < 1:
