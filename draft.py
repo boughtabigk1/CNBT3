@@ -194,7 +194,7 @@ class Draft():
             for mon in player.mons:
                 sum += mon.val
                 # print(str(mon.val) + "   " + mon.name + "   " + mon.tera_type)
-                print(f"{str(mon.val):6} {mon.tera_type:<8} {mon.name:<19} ")
+                print(f"{str(mon.val):4} {mon.tera_type:<9} {mon.name:<19} ")
 
             print("")
     
@@ -203,7 +203,7 @@ class Draft():
         for player in self.players:
             output += player.name + " / " + player.team_name + "\n"
             for mon in player.mons:
-                output += str(mon.val) + "\t" + mon.name + "\t" + mon.tera_type + "\n"
+                output += f"{str(mon.val):4} {mon.tera_type:<9} {mon.name:<19} \n"
             output += "\n"
         # output += "_________________________________\n"
         file_path = path  # Replace with your desired file path
