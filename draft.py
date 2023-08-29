@@ -60,11 +60,6 @@ class Player:
     def get_rand(self):
         index = random.randint(0, len(self.mons))
         return (index, self[index].val)      
-    
-    def __print_team__(self):
-        print(self.name + " team~ ")
-        for mon in self.mons:
-            print(str(mon.val) + "   " +  mon.name)
   
   
 class Bracket():
@@ -198,9 +193,10 @@ class Draft():
             print(player.name + " / " + player.team_name)
             for mon in player.mons:
                 sum += mon.val
-                print(str(mon.val) + "   " + mon.name + "   " + mon.tera_type)
+                # print(str(mon.val) + "   " + mon.name + "   " + mon.tera_type)
+                print(f"{str(mon.val):6} {mon.tera_type:<8} {mon.name:<19} ")
+
             print("")
-        # print("_________________________________")    
     
     def write_results_readable(self, path: str):
         output = ""
