@@ -201,7 +201,7 @@ class Draft():
     def write_results_readable(self, path: str):
         output = ""
         for player in self.players:
-            output += player.name + " / " + player.team_name + "\n"
+            output += player.team_name + " / " + player.name + "\n"
             for mon in player.mons:
                 output += f"{str(mon.val):4} {mon.tera_type:<9} {mon.name:<19} \n"
             output += "\n"
