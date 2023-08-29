@@ -195,7 +195,7 @@ class Draft():
     def print_results(self):
         for player in self.players:
             sum = 0
-            print("~" + player.name + "~")
+            print(player.name + " / " + player.team_name)
             for mon in player.mons:
                 sum += mon.val
                 print(str(mon.val) + "   " + mon.name + "   " + mon.tera_type)
@@ -205,7 +205,7 @@ class Draft():
     def write_results_readable(self, path: str):
         output = ""
         for player in self.players:
-            output += "~" + player.name + "~\n"
+            output += player.name + " / " + player.team_name + "\n"
             for mon in player.mons:
                 output += str(mon.val) + "\t" + mon.name + "\t" + mon.tera_type + "\n"
             output += "\n"
