@@ -178,8 +178,17 @@ class Draft():
     def replace_mon(self, val: int):
         upper = min(MAX_TIER, val+1)
         lower = max(MIN_TIER, val-1)
-        new_val = random.randint(lower, upper)
-        new_mon = self.__get_mon__(new_val)
+        num_avail = 0
+        for tier in range(lower, upper+1):
+            num_avail += len(self.tierlist[tier-1])
+        new_mon_index = random.randint(0, num_avail-1)
+        new_mon = None
+        for tier in range(lower, upper+1):
+            if new_mon_index >= len(self.tierlist[tier-1]):
+                new_mon_index -= len(self.tierlist[tier-1])
+            else:
+                new_mon = Mon(self.tierlist[tier-1].pop(new_mon_index), tier)
+                break
         new_mon.tera_type = self.types[random.randint(0, len(self.types)-1)]
         return new_mon
 
